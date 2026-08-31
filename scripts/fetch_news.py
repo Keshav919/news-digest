@@ -21,7 +21,7 @@ CONFIG_PATH = "config.json"
 OUTPUT_PATH = "digest.json"
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_MODEL = "gemini-3.7-flash"
 GEMINI_URL = (
     f"https://generativelanguage.googleapis.com/v1beta/models/"
     f"{GEMINI_MODEL}:generateContent"
@@ -115,7 +115,10 @@ def summarize(topic, tier, location, articles):
 
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.3, "maxOutputTokens": 300},
+        "generationConfig": {
+            "maxOutputTokens": 300,
+            "thinkingConfig": {"thinkingLevel": "low"},
+        },
     }
 
     try:
