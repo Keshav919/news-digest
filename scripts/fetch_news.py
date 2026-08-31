@@ -26,7 +26,7 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 # Flash-Lite is Google's recommended model for high-volume, low-complexity
 # tasks like this one, and typically carries a more generous free quota than
 # the flagship Flash model. Override with the GEMINI_MODEL env var if needed.
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.1-flash-lite")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite")
 GEMINI_URL = (
     f"https://generativelanguage.googleapis.com/v1beta/models/"
     f"{GEMINI_MODEL}:generateContent"
