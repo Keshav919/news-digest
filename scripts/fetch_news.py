@@ -182,7 +182,7 @@ def summarize_topic(topic, tier_articles, location):
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
-            "maxOutputTokens": 800,
+            "maxOutputTokens": 2048,
             "thinkingConfig": {"thinkingLevel": "low"},
             "responseMimeType": "application/json",
         },
@@ -196,14 +196,35 @@ def summarize_topic(topic, tier_articles, location):
     if data is None:
         return {t: "(Summary unavailable right now — check the Action logs for details.)" for t in TIERS}
 
+    candidate = (data.get("candidates") or [{}])[0]
+    finish_reason = candidate.get("finishReason", "unknown")
+    raw_text = ""
     try:
-        raw_text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
+        raw_text = candidate["content"]["parts"][0]["text"].strip()
         # Strip accidental markdown fences just in case.
-        raw_text = re.sub(r"^```(?:json)?|```$", "", raw_text.strip(), flags=re.MULTILINE).strip()
-        parsed = json.loads(raw_text)
+        cleaned = re.sub(r"^```(?:json)?|```$", "", raw_text, flags=re.MULTILINE).strip()
+        parsed = json.loads(cleaned)
         return {t: parsed.get(t, "(No summary returned for this tier.)") for t in TIERS}
     except Exception as exc:
-        print(f"[warn] topic={topic!r}: failed to parse Gemini response: {type(exc).__name__}")
+        print(f"[warn] topic={topic!r}: failed to parse Gemini response "
+              f"({type(exc).__name__}), finishReason={finish_reason}, "
+              f"response_length={len(raw_text)} chars")
+        print(f"[debug] topic={topic!r} raw tail: ...{raw_text[-200:]}")
+
+        if finish_reason == "MAX_TOKENS":
+            # Best-effort recovery: try to salvage whichever tiers finished
+            # completely before truncation cut the response off.
+            recovered = {}
+            for tier in TIERS:
+                m = re.search(rf'"{tier}"\s*:\s*"((?:[^"\\]|\\.)*)"', raw_text)
+                if m:
+                    recovered[tier] = m.group(1).encode().decode("unicode_escape")
+            if recovered:
+                return {
+                    t: recovered.get(t, "(Cut off before this tier — try again or raise maxOutputTokens.)")
+                    for t in TIERS
+                }
+
         return {t: "(Summary unavailable — response could not be parsed.)" for t in TIERS}
 
 
