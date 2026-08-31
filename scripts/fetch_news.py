@@ -95,7 +95,6 @@ def summarize(topic, tier, location, articles):
         return "No notable stories turned up for this topic and region in the last day."
 
     if not GEMINI_API_KEY:
-        # Fallback so the pipeline still produces something useful without a key.
         return "Gemini API key not set — showing headlines only. See README to add GEMINI_API_KEY."
 
     label = location_label(tier, location)
@@ -120,18 +119,22 @@ def summarize(topic, tier, location, articles):
             "thinkingConfig": {"thinkingLevel": "low"},
         },
     }
+    headers = {
+        "Content-Type": "application/json",
+        "x-goog-api-key": GEMINI_API_KEY,  # header, not URL — never gets logged/leaked
+    }
 
     try:
-        resp = requests.post(
-            f"{GEMINI_URL}?key={GEMINI_API_KEY}",
-            json=body,
-            timeout=REQUEST_TIMEOUT,
-        )
+        resp = requests.post(GEMINI_URL, json=body, headers=headers, timeout=REQUEST_TIMEOUT)
         resp.raise_for_status()
         data = resp.json()
         return data["candidates"][0]["content"]["parts"][0]["text"].strip()
-    except Exception as exc:  # keep the pipeline alive even if one cell fails
-        return f"(Summary unavailable right now: {exc})"
+    except Exception as exc:
+        # Log a safe diagnostic to the Action's console (status code only —
+        # never the raw exception, which can embed request details).
+        status = getattr(getattr(exc, "response", None), "status_code", "unknown")
+        print(f"[warn] Gemini call failed for topic={topic!r} tier={tier!r} status={status}")
+        return "(Summary unavailable right now — check the Action logs for details.)"
 
 
 def main():
