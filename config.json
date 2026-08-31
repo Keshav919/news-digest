@@ -1,0 +1,13 @@
+{
+  "location": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India"
+  },
+  "topics": [
+    "Healthcare",
+    "Technology",
+    "Politics",
+    "Economics"
+  ]
+}

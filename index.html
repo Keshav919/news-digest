@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dispatch — your daily briefing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #12151B;
+    --surface: #1A1F27;
+    --surface-alt: #20262F;
+    --text: #E9E6DD;
+    --muted: #8D95A3;
+    --accent: #D6A94A;
+    --link: #6FB3AE;
+    --divider: rgba(255,255,255,0.08);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans', sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: var(--link); }
+
+  .wrap {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 40px 20px 80px;
+  }
+
+  header.masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px 24px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--divider);
+    margin-bottom: 32px;
+  }
+
+  header.masthead h1 {
+    font-family: 'Newsreader', serif;
+    font-weight: 600;
+    font-size: 2.1rem;
+    margin: 0;
+    letter-spacing: 0.2px;
+  }
+
+  .dateline {
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+
+  .dateline .dot {
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  @media (min-width: 760px) {
+    .grid { grid-template-columns: 1fr 1fr; }
+  }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--divider);
+    border-radius: 10px;
+    padding: 22px 22px 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .card h2 {
+    font-family: 'Newsreader', serif;
+    font-weight: 600;
+    font-size: 1.35rem;
+    margin: 0;
+  }
+
+  /* Zoom dial: a segmented control that reads as a geographic zoom level */
+  .zoom {
+    display: flex;
+    border: 1px solid var(--divider);
+    border-radius: 8px;
+    overflow: hidden;
+    width: fit-content;
+    max-width: 100%;
+  }
+
+  .zoom button {
+    appearance: none;
+    border: none;
+    background: transparent;
+    color: var(--muted);
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 0.78rem;
+    padding: 7px 12px;
+    cursor: pointer;
+    border-right: 1px solid var(--divider);
+    white-space: nowrap;
+    transition: color 0.15s ease, background 0.15s ease;
+  }
+
+  .zoom button:last-child { border-right: none; }
+
+  .zoom button:hover { color: var(--text); }
+
+  .zoom button.active {
+    background: rgba(214, 169, 74, 0.14);
+    color: var(--accent);
+    font-weight: 500;
+  }
+
+  .summary {
+    font-family: 'Newsreader', serif;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    color: var(--text);
+    max-width: 62ch;
+  }
+
+  details.sources {
+    font-size: 0.82rem;
+  }
+
+  details.sources summary {
+    cursor: pointer;
+    color: var(--muted);
+    list-style: none;
+  }
+
+  details.sources summary::-webkit-details-marker { display: none; }
+
+  details.sources summary::before {
+    content: "＋ ";
+    color: var(--accent);
+  }
+
+  details.sources[open] summary::before {
+    content: "－ ";
+  }
+
+  .source-list {
+    margin-top: 10px;
+    padding: 12px 14px;
+    background: var(--surface-alt);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .source-list a {
+    display: block;
+    color: var(--text);
+    text-decoration: none;
+  }
+
+  .source-list a:hover { color: var(--link); }
+
+  .source-list span.pub {
+    color: var(--muted);
+    font-size: 0.76rem;
+  }
+
+  .empty-state, .stale-note {
+    color: var(--muted);
+    font-size: 0.9rem;
+    padding: 40px 0;
+    text-align: center;
+  }
+
+  .stale-note {
+    padding: 0 0 20px;
+    text-align: left;
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="masthead">
+      <h1>Dispatch</h1>
+      <div class="dateline" id="dateline"><span class="dot"></span>Loading…</div>
+    </header>
+
+    <div id="staleNote"></div>
+    <div class="grid" id="grid">
+      <p class="empty-state">Fetching today's briefing…</p>
+    </div>
+  </div>
+
+<script>
+const SETTINGS_KEY = "dispatchSettings";
+const TIERS = ["city", "state", "country", "world"];
+const DEFAULT_TIER = "country";
+
+function loadSettings() {
+  try {
+    return JSON.parse(localStorage.getItem(SETTINGS_KEY)) || {};
+  } catch {
+    return {};
+  }
+}
+
+function saveSettings(settings) {
+  localStorage.setItem(SETTINGS_KEY, JSON.stringify(settings));
+}
+
+function tierLabel(tier, location) {
+  return {
+    city: location.city,
+    state: location.state,
+    country: location.country,
+    world: "World",
+  }[tier];
+}
+
+function formatDate(iso) {
+  const d = new Date(iso);
+  return d.toLocaleString(undefined, {
+    weekday: "long", month: "long", day: "numeric",
+    hour: "numeric", minute: "2-digit",
+  });
+}
+
+function renderCard(topic, cells, location, settings) {
+  const card = document.createElement("div");
+  card.className = "card";
+
+  const h2 = document.createElement("h2");
+  h2.textContent = topic;
+  card.appendChild(h2);
+
+  const zoom = document.createElement("div");
+  zoom.className = "zoom";
+  TIERS.forEach(tier => {
+    const btn = document.createElement("button");
+    btn.textContent = tierLabel(tier, location);
+    btn.dataset.tier = tier;
+    zoom.appendChild(btn);
+  });
+  card.appendChild(zoom);
+
+  const summary = document.createElement("p");
+  summary.className = "summary";
+  card.appendChild(summary);
+
+  const details = document.createElement("details");
+  details.className = "sources";
+  const sum = document.createElement("summary");
+  sum.textContent = "Sources";
+  details.appendChild(sum);
+  const list = document.createElement("div");
+  list.className = "source-list";
+  details.appendChild(list);
+  card.appendChild(details);
+
+  function paint(tier) {
+    const cell = cells[tier] || { summary: "No data for this tier.", articles: [] };
+    summary.textContent = cell.summary;
+
+    list.innerHTML = "";
+    if (cell.articles.length === 0) {
+      const none = document.createElement("span");
+      none.className = "pub";
+      none.textContent = "No articles found.";
+      list.appendChild(none);
+    } else {
+      cell.articles.forEach(a => {
+        const link = document.createElement("a");
+        link.href = a.link;
+        link.target = "_blank";
+        link.rel = "noopener";
+        link.textContent = a.title;
+        if (a.source) {
+          const pub = document.createElement("span");
+          pub.className = "pub";
+          pub.textContent = a.source;
+          link.appendChild(document.createElement("br"));
+          link.appendChild(pub);
+        }
+        list.appendChild(link);
+      });
+    }
+
+    [...zoom.children].forEach(btn => {
+      btn.classList.toggle("active", btn.dataset.tier === tier);
+    });
+  }
+
+  const initialTier = settings[topic] || DEFAULT_TIER;
+  paint(initialTier);
+
+  zoom.addEventListener("click", (e) => {
+    const btn = e.target.closest("button");
+    if (!btn) return;
+    const tier = btn.dataset.tier;
+    settings[topic] = tier;
+    saveSettings(settings);
+    paint(tier);
+  });
+
+  return card;
+}
+
+async function init() {
+  const grid = document.getElementById("grid");
+  const dateline = document.getElementById("dateline");
+
+  let digest;
+  try {
+    const res = await fetch("digest.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("not found");
+    digest = await res.json();
+  } catch {
+    grid.innerHTML = "";
+    const p = document.createElement("p");
+    p.className = "empty-state";
+    p.textContent = "No briefing yet. Trigger the \"Daily News Digest\" workflow from the Actions tab to generate the first one.";
+    grid.appendChild(p);
+    dateline.innerHTML = "";
+    return;
+  }
+
+  const topics = Object.keys(digest.topics || {});
+  if (topics.length === 0) {
+    grid.innerHTML = "";
+    const p = document.createElement("p");
+    p.className = "empty-state";
+    p.textContent = "The digest is empty. Check config.json has topics listed, then re-run the workflow.";
+    grid.appendChild(p);
+    return;
+  }
+
+  dateline.innerHTML = `<span class="dot"></span>Updated ${formatDate(digest.generated_at)}`;
+
+  const ageHours = (Date.now() - new Date(digest.generated_at)) / 36e5;
+  const staleNote = document.getElementById("staleNote");
+  if (ageHours > 36) {
+    const p = document.createElement("p");
+    p.className = "stale-note";
+    p.textContent = `This briefing is over ${Math.floor(ageHours / 24)} day(s) old — the scheduled workflow may need a look.`;
+    staleNote.appendChild(p);
+  }
+
+  const settings = loadSettings();
+  grid.innerHTML = "";
+  topics.forEach(topic => {
+    grid.appendChild(renderCard(topic, digest.topics[topic], digest.location, settings));
+  });
+}
+
+init();
+</script>
+</body>
+</html>
