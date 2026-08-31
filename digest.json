@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:47:24.348880+00:00",
+  "generated_at": "2026-08-31T12:51:43.561716+00:00",
   "location": {
     "city": "Kolkata",
     "state": "West Bengal",
@@ -8,7 +8,7 @@
   "topics": {
     "Healthcare": {
       "city": {
-        "summary": "(Summary unavailable — response could not be parsed.)",
+        "summary": "In Kolkata, local healthcare infrastructure news is focused on administrative shifts and future investments. Political developments include a proposal to transfer the state's 13 ESI hospitals to the central government, while separate initiatives prioritize welfare efforts in regions like Nandigram. Additionally, the broader medical ecosystem in the region continues to evolve with significant capital investment plans announced for specialized hospitals.",
         "articles": [
           {
             "title": "Chinese lawmakers pass new healthcare security law - Medical Buyer",
@@ -31,11 +31,6 @@
             "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT180RlR0d3l0akFPY25xOWlOZ3IxcmhmY2pYRU1wRGJDc1lTT1JuZ0c4SnZZTzEyUXY1NS1RcVZLNTFXZTRpalBrX2J0R3cwRDNYN2NIOUhlZkl6OFd2Rm8tVVBJbnFLelRCNzVEU1BNVEFqa2VhU1lhRGJMNUtxREc4Z3FGUUFlVndzaGVhQXlLdU90YXNJcThfMjhVaEVjbjQwSUE5aFlOWjV2MDdnRXNOOGFZQnhlTVVBdVQxZ21GVDJL0gHKAUFVX3lxTE5yX0t4ZGxUM2N4MHo0YVFCNExpUDdPNmtDa3YxaW1Cb3hGbVV2MGxKdlZndlpQak5Nb3hMZnExUW9kMjNUWmo2MXpWYTM1MmY2Y05OcjJmdlpKLUI5SmVrM2FBWTdOdEl1WVFmRkhKd0dlTDQtRmlveVE4MllHSWhJbnJ5cUt1M21RMm9LT2UwWnkwUUlna1U4MWFCSlFLbG9zd1NCaXVQX1Y0RUJWV3V3Z1VELVFRSnp1MTNaOE5ObUduWkJQWjNGMUE?oc=5"
           },
           {
-            "title": "How blood pressure intervention lowers dementia risk - Medical Buyer",
-            "source": "Medical Buyer",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ1FMMVZNOS1hU2F3dWEwMlhnNVlSVVh1OFR6MXhRc2ZBN2hrNVdxWDBBc0ZDX3dTSG1HY0M0ZXp6Y1hLdkgxX0swZHhUX1VhbkhlZFJrOENKNlJveUZWMmY2ejZ2Z0xVaUJ0VldlWGtkNlEwV0FwU2QyLXh2TUZXdU00SlFmVnc?oc=5"
-          },
-          {
             "title": "AIG Hospitals to invest ₹2,000cr in healthcare ecosystem in Vizag - Medical Buyer",
             "source": "Medical Buyer",
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzdrMm1oRUhZU0xkRGF4NWZTMEpHOUpOZmJCRGhtYU9aU1BGdEgwdEJrUV8zUXBhcG9UdDNBazRzeFFsLWxSS2YtaGM2bk9KLXktekxzNmxwT2hZUG9RRThiZW1kZU81UzVVbmkxN3c1QXd2T040UEE5NE9HWGplNU9QaEJ0YjlBSzE0ZkloTlhJSEVtNjFLWnpwS041VUxLYmc?oc=5"
@@ -49,11 +44,16 @@
             "title": "mHealth solutions market to hit USD 275.44B - Medical Buyer",
             "source": "Medical Buyer",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KalkzTnRibGV6cXl5SFBXTEJXeFlFc0RPWkkyUU84aC1FZkQwcXhGdjFYQlkxd0t2anBKX0VEZTFOcFhJcGhDc1k4RDh4WldhdVdBTjk5M0pBTW5PcXZqNFNLd3lBUzBLaHU1U0otWW9fclptTjdIR3ZROA?oc=5"
+          },
+          {
+            "title": "New private not-for-profit hospital coming up in Eastern Singapore - Medical Buyer",
+            "source": "Medical Buyer",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHEyVnVES1Zyck5ubzRzUjZGSTJqSGdGTnlRSjlOcU5KczE3TURYQXI1YzlubXZnTHJ4OGhLcW0tcDFfc2VLdmxUeFFwdkxFcGNkVW85VjdZc3lIbWVOVm9tVWx5V1JXdFhqdVgxVW10cUtmcC1ITjF0N2haOUhZVnZUZ3F6eEU0UjFwTnFWT25QT1g1NndHdEFn?oc=5"
           }
         ]
       },
       "state": {
-        "summary": "(Summary unavailable — response could not be parsed.)",
+        "summary": "West Bengal is actively exploring new strategies to improve rural healthcare delivery, specifically through proposed tie-ups between private medical colleges and Block Primary Health Centres (BPHCs). Beyond infrastructure policy, the state saw political attention directed toward the expansion of the Ayushman Bharat scheme and commercial investment announcements aimed at increasing the medical footprint across eastern India. Separately, local authorities are managing the tragic investigation surrounding the death of a medical student in Durgapur.",
         "articles": [
           {
             "title": "West Bengal Plans Private Medical College Tie-Up to Strengthen Rural Healthcare - The Indian Practitioner",
@@ -98,17 +98,12 @@
         ]
       },
       "country": {
-        "summary": "(Summary unavailable — response could not be parsed.)",
+        "summary": "India's healthcare sector is seeing notable private sector expansion, with hospital chains like Park Medi World announcing significant capacity growth and collaborations aimed at modernizing emergency transport services. Corporate developments include executive appointments at major pharmaceutical firms and continued investment interest in specialized medical sectors such as bioresorbable polymers. Meanwhile, broader industry discussions are centering on the role of digital innovation and startups in driving long-term healthcare impact across the nation.",
         "articles": [
           {
             "title": "Praxis360: A Leading Healthcare Digital Marketing Agency in India - EIN Presswire",
             "source": "EIN Presswire",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkZGdEd1eTgxeTBFYjhjSTR0WVVqSTkyeG1aQkVxV2tUeW9GRUxyTWFsc3UwTkpiU1dXRUJSeVp1cTV0cUN4UWRrQTBfNzB0dTRpWlpvV1NqYzNvSTY0dE92akIzLWxtOUhwRWl0WnZoaVpaTU1qTnYwcHFLNlBjV09paHZPbGg3TXU3TVZyaGNHLUVGOWgyTXI4bWRmbXRVNGZRNUE1SmhCV1lZMTdlcg?oc=5"
-          },
-          {
-            "title": "NHS Should Look to India's Low-Cost, Tech-Driven Healthcare Model, Says Chair - distilledpost.com",
-            "source": "distilledpost.com",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYl9RV2daMDEzSy05WGZ5bWZoUnNzY0hVWGR1VjluRHlCRk1TZ3I1YlFwT0VCN2lKQk4ydjU1RU5HOVg3dVliaHhESlpVLTRWelV0WHJPd0xFeVV0bWRSVUpoUHNUZnc2WC1UbzhYc1ZRNm92TkhyeXNpYkJQYlJUOEF6RHlHeGI0Z3VhWlJFS056NndtYkJaOTBPR1hDV1pDX1pSTmExRmFBamd3dmc?oc=5"
           },
           {
             "title": "Invesco India Pharma And Healthcare Fund - Regular Plan Fund info - The Economic Times",
@@ -139,11 +134,16 @@
             "title": "India Bioresorbable Polymers Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
             "source": "MarketsandMarkets",
             "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOem9BalJsdkxBOGoycHJVeHYwSjZpc1Q2dG9RUmlLdUpSdjY1dmh3eFYzdThueUE1VDllNGpNaGkydzBldmd2eC16RXdLSXlGY1c0TlFpdkxxYkN4VThpcWYyVnRsdVo4X3NINDhNc2pvNk9ZQmxjcmpPSkUtc0x4bjRUeEJzamM5dnN5ZnZ3dGl4MVdXWGROcA?oc=5"
+          },
+          {
+            "title": "Manipal Hospitals Joins Hands with Sarla Aviation and Aeromed to Transform Emergency Medical Transport in India - The Tribune",
+            "source": "The Tribune",
+            "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNk16Snpac0JWdy1KMjRfM2FKcHI2WVNXNl84QnpRMXd3UnVMN3BDTG5samJvTG04VGJ3c2JGYzAwcWFPX3JhWUpGVll1RldJYTlidEoxYUdBdGFMS2pXYThRVkFIVjJvbEJjaUx0T0VRYUxkQ1ZNdFhSaEVCdk1VV084VW92YVVaSWlEWHhZQnVEZGxHdDFmLXZuV1NfdmoyN2RMMzFBbmhoMFQxTk5BTS1ORXBQWUZZWU5BNGotOGZBU1pxdzBvN090WWpwYXV5U2dtNWZjZGhLQzllUDJIaHNSYllEQ2Y0TmktdTRNeXJmX08zTVRBaHh6N09NZFhwYVpLSDdHRFc2ek3SAYsCQVVfeXFMUDZNekp6WnNCVnctSjI0XzNhSnByNllTVzZfOEJ6UTF3d1J1TDdwQ0xubGpib0xtOFRid3NiRmMwMHFhT19yYVlKRlZZdUZXSWE5YnRKMWFHQXRhTEtqV2E4UVZBSFYyb2xCY2lMdE9FUWFMZENWTXRYUmhFQnZNVVdPOFVvdmFVWklpRFh4WUJ1RGRsR3QxZi12bldTX3ZqMjdkTDMxQW5oaDBUMU5OQU0tTkVwUFlGWVlOQTRqLThmQVNacXcwbzdPdFlqcGF1eVNnbTVmY2RoS0M5ZVAySGhzUmJZRENmNE5pLXU0TXlyZl9PM01UQWh4ejdPTWRYcGFaS0g3R0RXNnpN?oc=5"
           }
         ]
       },
       "world": {
-        "summary": "(Summary unavailable — response could not be parsed.)",
+        "summary": "Global healthcare news highlights a diverse mix of public health initiatives and technological optimism. In the United States, rural communities are seeing enhanced resource allocation to bridge care gaps, while local projects continue to address urgent needs following natural disasters. Simultaneously, industry experts are debating the potential of emerging trends, such as the combined impact of GLP-1 medications and generative AI, to mitigate rising healthcare costs and accessibility challenges.",
         "articles": [
           {
             "title": "Virginia health leaders, lawmakers share enhanced healthcare resources for rural communities - Virginia Mercury",
@@ -190,7 +190,7 @@
     },
     "Technology": {
       "city": {
-        "summary": "Kolkata's technology sector saw significant growth in infrastructure and AI capabilities yesterday. The city hosted the inauguration of LTM’s new Global Delivery and AI Competency Center, while NASA astronaut Donald Thomas unveiled the new IEM innovation park. These developments coincide with broader national initiatives to strengthen cyber-physical technology ecosystems through local innovation hubs.",
+        "summary": "Kolkata's technology sector saw significant activity with the inauguration of LTM's new Global Delivery and AI Competency Center. Additionally, NASA Astronaut Donald Thomas participated in the unveiling of the IEM Innovation Park, further expanding the city's tech ecosystem. On a broader scale, India's push to strengthen cyber-physical technology through 25 innovation hubs is impacting local development, while investment activity continues with Info Edge Ventures backing YOGa Clean Air.",
         "articles": [
           {
             "title": "NASA Astronaut Donald Thomas unveils IEM innovation park in Kolkata - Awaz The Voice",
@@ -235,7 +235,7 @@
         ]
       },
       "state": {
-        "summary": "West Bengal is actively expanding its technological and industrial footprint, highlighted by the opening of new AI and innovation facilities in Kolkata. Beyond IT, the state is advancing industrial projects, specifically initiating a global technology search for its major coal-to-gas conversion initiative. These moves reflect a push to integrate advanced manufacturing and specialized technical infrastructure across the state.",
+        "summary": "West Bengal's technology landscape is being bolstered by the launch of the IEM Innovation Park in Kolkata and the opening of LTM's new global AI competency center. Meanwhile, the state is advancing industrial infrastructure with a new coal-to-gas project that has initiated a search for global technology partners. These developments coincide with national initiatives to strengthen cyber-physical innovation hubs across India, which are expected to benefit the state's technology ecosystem.",
         "articles": [
           {
             "title": "India Strengthens Cyber-Physical Technology Ecosystem Through 25 Innovation Hubs - IBG News",
@@ -268,19 +268,19 @@
             "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORDBQelk3T1RWQ1Q3Rk1BR0lPRW9XN1l0VDdGUnFIdmdZTFFDM0RBTnFSUHdpcjZQbEtmTEtRWVZJTWI3ZjVRY0VPcncyUkNCSzJFQ2dYbHVzeC0ta1A1RWlyeFNXRlg3RlJUaFVUWm0xWkZXYV9Wc0psTFpNNzRULWZqZTNFU2o5X2cyR0Mza28wNnp0R05MYVpORVl5cHZpSm1hRF95UUZnYzNjRGo4VENmT21OS1BjX3Nqc0RKTUxkRzBUbzZ2R1M0RUhnVWdIWG1yRkl5SWhJUVk1akdBcXd4S2TSAfIBQVVfeXFMTmNGNjN0bW1WcHVWSHM5aVAxVHVXTGdLVWp4YjNTVWFNa2kzSHBfT3J6NzVQaU50VWVpX1FBODF4N05LaDkxZ0F4cm5mMEJyZTQ3YWt0V3BYN0RSMnhsOEd5LXFCeFI4S1RGQ3lXdXZMcFRwZDd4TnE2cWk2dmZBdEVESDc5bDRITUl0NF96OHB3Mk5IeXY0YVhPd293cEMwdDl2Q0pXOVBoZUlWTm55TFgtSGdIYzBtX3dpVjFha1VYZDZ5QjJYVGVDNHNqWHZIbmlja1RXODBHS0c3Z2RjdGxWMGx5MjVMb01HR3FZTnBWUlE?oc=5"
           },
           {
+            "title": "ENSEMBLE 2027: Two-Day Interdisciplinary National Conference On “Performing Equality: Reimagining... - Live Law",
+            "source": "Live Law",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUhCc25VRVhuVnZ2dlNoRjAzdHJ5Tkl5SnNOdnAtWnNvd2wwWl9xd2FnczZ0TUs5dnJBLUNBR1NXMlFtSlFRc1dIS0JtZHFmZ3JtTmx0WktubndyY3dlVHNDaTcwRThhN0k1X2J1aHNMVndPZXZvOGl0TXdsQVpNeXZnOVlTcUpEa2pMbDlGQVdmQ0lkQ0gzRGVPLUJLWG5OVXZZQmd5by1vQWVMUlB5Zzdn0gGyAUFVX3lxTE5lSEJzblVFWG5WdnZ2U2hGMDN0cnlOSXlKc052cC1ac293bDBaX3F3YWdzNnRNSzl2ckEtQ0FHU1cyUW1KUVFzV0hLQm1kcWZncm1ObHRaS25ud3Jjd2VUc0NpNzBFOGE3STVfYnVoc0xWd09ldm84aXRNd2xBWk15dmc5WVNxSkRrakxsOUZBV2ZDSWRDSDNEZU8tQktYbk5VdllCZ3lvLW9BZUxSUHlnN2c?oc=5"
+          },
+          {
             "title": "Bengal coal-to-gas project moves ahead; global technology hunt begins - The Statesman",
             "source": "The Statesman",
             "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN015c1hmc1NNR3NKUzEzajdvQkZVUU92SGxLbDVaS0hESXZTbFhnSHdXdE9ZaXQ4VUx0d2U1SGtmaVFnbTVLUXVwRENsbS15MlZlVEFHUlJqMER2akZMZW16SmxLUEVGemowQXhBazJtcGtoaTBEaHZYU1pGZ3R0alZYRG9WNDBidjNOTWpmNUdrdHR2ZW01UE94b0xRWXJyc3REeTJScXdMU09mY3QtZmdyVGlNd3RaeTRSb1NJM3UwcFU4QWY40gHMAUFVX3lxTE9Uc1FXUG9LYzFfakp1VXVBVi13Z0xQSHh6YTdnV0NKZWs4Z052ZDZocDgzaVczWURwaGxzNU1wOE5zUk1nckQyLVpZcVppOXgyQXo2SUpRWXlDcEJVVzhJZTNMY2xzN3FwbUxMVTJlSzFtVHRLMEpKYjVWdFlBX3duNWpWU2dXYWdMRmlfU0pEd1RHTVBpZGNadGJ6Rk55dEcxMDdMM0NMc2xjTmVzSndfRVY5emZ4dDFQTUktTmsxSUlENzVMaTZkNU0xVQ?oc=5"
-          },
-          {
-            "title": "15.6 kg gold worth nearly ₹25 crore seized: BSF detains woman near Indo-Bangladesh border, probe targets cr... - Bhaskar English",
-            "source": "Bhaskar English",
-            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMHN3Ym5ZYzFjREp6T1FfUjN6SkExMmZBd1J0TW9EUnZYb18xMERldDNZLXFDWFgyVXFkLVpEM3Q0UDM1dENtUjE4VmxLNEw2UXN6NERwTk1BQWNBVG13eTNTSno1bkFwSWxsRzY0WTRjQkxKSnM1RU9NcGlabVg5NlVwVVduMUJDSTBncFBXcXR3dlJkaXJXSFlyb3JfR1F0cFBiSm43S2dmbEQ2NXV4T0tkNWRxemVJbzEzRV9zaFY1YVMwc3drcmVRSlVsTEEzaWhKclpmMjhJR05KWDV5Rm530gHiAUFVX3lxTE0wc3diblljMWNESnpPUV9SM3pKQTEyZkF3UnRNb0RSdlhvXzEwRGV0M1ktcUNYWDJVcWQtWkQzdDRQMzV0Q21SMThWbEs0TDZRc3o0RHBOTUFBY0FUbXd5M1NKejVuQXBJbGxHNjRZNGNCTEpKczVFT01waVptWDk2VXBVV24xQkNJMGdwUFdxdHd2UmRpcldIWXJvcl9HUXRwUGJKbjdLZ2ZsRDY1dXhPS2Q1ZHF6ZUlvMTNFX3NoVjVhUzBzd2tyZVFKVWxMQTNpaEpyWmYyOElHTkpYNXlGbnc?oc=5"
           }
         ]
       },
       "country": {
-        "summary": "India’s technology landscape is focusing on market expansion, research readiness, and policy oversight. Reports indicate a significant enterprise telecom opportunity nearing INR 954 billion by 2030, while discussions regarding the 2026 Technology Dialogue and scientific readiness are gaining traction. Simultaneously, the country is navigating challenges in the ed-tech sector and the integration of AI-driven tools, such as the recent introduction of ChatGPT advertisements.",
+        "summary": "India’s technology sector is seeing diverse developments, ranging from the launch of the 'Frontier Audit 2026' report on scientific readiness to a forecast mapping a major enterprise telecom opportunity through 2030. In the private sector, Lindner is testing new plastic waste dissolution technology, while executive leadership changes have occurred at firms like VeriKlick. Additionally, the broader regulatory and policy conversation continues, with ongoing discussions regarding a balanced approach to education technology and the impact of artificial intelligence tools like ChatGPT.",
         "articles": [
           {
             "title": "Education Technology: India Seeks A Balanced Approach - StratNews Global",
@@ -318,14 +318,14 @@
             "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORmdoN1c0YTR3MWsxdHBDQUJxaEd4dHZjcXJpOFVKSlkyMk54WnRSRFUxZXRxR2pGaEpTT3JFMG40UF9NeHl2T3RBX3ZjeHl0VEpLdUFNclpnZ0xtRHdLSV9NZEE2T3BpU19YMFlKSUx2d3BfWHVWOU53aFVrVk9iVDNzalJnX1Ru?oc=5"
           },
           {
-            "title": "Experience Is the New Premium in Consumer Tech - ET Edge Insights",
-            "source": "ET Edge Insights",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNalZsU0VGNXc2WUthRmo0ZkZKUGZnQmVuMUtlNmlCN1RhQWxYakFyRTJ4cmVULVpNdXBQT0w0ek9Eai1VakVCM1ZsRnJjSVFiN2ppZWxDcVpYRGxFdnRIbTNDUWMycXlOS2JmbjNOSWZFbTE2Y1NqSElxQjBGMDdFYW5tanItYm41Qms5Yjc3QQ?oc=5"
+            "title": "Sitharaman Meets US Business Leaders, Pitches India As A Global Investment Hub - Siliconindia",
+            "source": "Siliconindia",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNFlVbmlqTzFzaUJfczJxTlRNVVJoczctQXozeV8yTlF4V21md252NnRHTld1SE8yaUVXaGdrSE5VanNaZ3puWEV0dldObkdLeXpoQklMT0dweENaZHNxQkM0YlF0b2xOMXlYdTRWWTJxN01IVTRnVHVnVHRXSHhpUkducU5TbC0yRVFrVGRuUEZOMU0yTGVvTDJ1NVY1dmFwcUJNV0RjTXhkbk1XYlFnNlZjYnQ1aUp3XzFNVjBFOE1mZzY3MzRiWnRCWWdpOHFZc1hDbFlfcnE?oc=5"
           }
         ]
       },
       "world": {
-        "summary": "Global technology trends are marked by a diverse mix of sectoral advancements and administrative challenges. Significant developments include the intersection of technology and healthcare, such as new diabetes management tools and biomedical engineering career pathways, alongside critical reports on the mismanagement of federal stimulus-funded school technology in the U.S. Furthermore, geopolitical tensions are influencing technology trade, with reports highlighting how nations are leveraging nuclear and drone technology to circumvent sanctions.",
+        "summary": "Global technology news centers on diverse applications, including advancements in biomedical engineering for healthcare and the challenges of diabetes management technology. Geopolitical concerns persist, with reports detailing nuclear and drone technology exchanges between Iran and Russia to bypass sanctions. Furthermore, organizational and economic impacts are being analyzed, specifically regarding the need for technology economists, the implementation of AI-enabled supervisory technology, and reports on the oversight of educational technology funding.",
         "articles": [
           {
             "title": "Biomedical engineering technology connects graduates to healthcare careers - The Pennsylvania State University",
@@ -353,9 +353,9 @@
             "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ISEthVGNQcUd6OFJGZVhfM0dDcDZDREJoWWZZRDhXaTRVNWdUbU0xZVZmd3cybU4xcjJZejh0S3I1a2g5aVFjb1lVN05GQUlfZGVPOWZXWXYtdnd5bHlTVWxJRHNGQjdfQk5TZDM0WkhjLUVTZFhoTw?oc=5"
           },
           {
-            "title": "MU Stock Quote Price and Forecast - CNN",
-            "source": "CNN",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12OGhUSWtGTk9iWTJqbXhwZ2hpa25tNUxnRWlMam1RYkNBckpUdlVCMXgzY2ZDbG1HUkdxeFlUMWRkZ3ljR2xXUkdJb285UQ?oc=5"
+            "title": "How Much Is That Gene-Edited Dog in the Window? - The New York Times",
+            "source": "The New York Times",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalY1czRUSFZoSDF2VTk2X01uWEdpS2h0eE90ODR6Mlktay02Ull3VEZaTVRBcGhidUdwRjJZUFN6WHVLSllfQkdZS1ZaSFR3dVVtcjZadmJhUXBoWW5od1pHOTZFSkRwLWZJRVJVdDJYcFF2NFFuRDFBVFV6QzBleENvc0Rvakk?oc=5"
           },
           {
             "title": "How Iran and Russia Trade Nuclear and Drone Technology to Bypass Sanctions - Middle East Forum",
@@ -363,26 +363,31 @@
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1RWM0JRVnJwdHE3d2NUOHNDU0QxTHZyalMyNDlXclVORnVaOG5EVHJydUtWRE5NQkpkdUppRDFhaEpucU1fNk9aUlhJYVg2TFNRcG8teFJobV92SkNWMHFpT2IxTUpDOGgzazZDVGoydFlIWGNKRHQ5ekVEN0lZRUpFTUZvOEw2XzNnT2t4RGY3Nlk2RGE3cWkwVWZfV0RsczlVYlNHTGZJRzNIWWJNMQ?oc=5"
           },
           {
-            "title": "From More Tech to Smarter tech: The Rise of Restaurant Technology 2.0 - QSR Magazine",
-            "source": "QSR Magazine",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTVZJWEZXSFVIcmk1TERsdGlBN1VCclNUZ2dlSlliWTRxdDJBTThmVmlZWEVkajEweEpZY0FuM0tuc3JDOGM4WEZTRWx1c2xwbEY1cWdCYkk1TFBDWXYxejF1bkp2NGgwWThCbW9xcm9zbDNCT2RTdzd0RURieXkySmdFZFBWLXJab3kzVjFOQmdLLXBWZnpTZ1RwQ1dnTy1FUGhHcS1n?oc=5"
+            "title": "AI-enabled Supervisory Technology; Soft Chinese Retail Sales; and Outlook for Sustainability Jobs - S&P Global",
+            "source": "S&P Global",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQajE5TUVmT1FmS0g3UEZkS2FXREU4ZDFmelJTQWtydWhrbWo3OHRNS0gzWUt6Q1FFeWxybFNDWEQ4a2JDM0JzRGluNVhwc1dzalpWU1E5bElweUNTWGdqSVNVaUFYR3R5ZGhHYkFUQUUtLTNXcDZsbGszNkFqN043WjIxbFBHcnY5SGlaNDRrWQ?oc=5"
           }
         ]
       }
     },
     "Politics": {
       "city": {
-        "summary": "Political tensions in Kolkata remain centered on Trinamool Congress (TMC) leadership, as police continue investigations into a Camac Street scuffle involving MP Derek O’Brien, who recently skipped a summons. Meanwhile, the city's political climate is further charged by debates over ideological activity at Jadavpur University, leading to the removal of controversial graffiti following an ultimatum from the Chief Minister. Additionally, the TMC has dismissed an FIR filed against Mamata Banerjee regarding a recent rally as politically motivated.",
+        "summary": "Political tensions in Kolkata remain centered on Trinamool Congress (TMC) leadership, as police investigations into the Camac Street scuffle continue. Key TMC figures including Abhishek Banerjee and Derek O'Brien are facing summons, with party leadership characterizing the legal actions against both them and Chief Minister Mamata Banerjee as politically motivated. Separately, local authorities have taken action against alleged 'anti-national' graffiti at Jadavpur University following directives from the Chief Minister's office.",
         "articles": [
+          {
+            "title": "Kolkata Police, fire department team visit TMC MP Abhishek’s Camac Street office for fire audit - ThePrint",
+            "source": "ThePrint",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcXhJU1pJdmpDNC0xbUluWktEd3N6MnJMdFFMellDWWFtdGFDVE9MczhxdnVyaHlILWNzUGU0bEFZZkhSU0cxQ2VXTnZwTUJueWpHR1Zja0tYcktoSGNBd0NLNzEwVUN0YzZscExiY21KaFQzSkJtUkhQMzJqYmVBYlZhbU1fSXA5S0RFUVRBem51N2cwekZfWHdHcHBiQk5Nd3NNVll5T2pvcGRWcnpObUhYUnk2MTlHYjhqaTVqcVB6d1JiUlVn0gHMAUFVX3lxTE9QaHpHZ09QTkc3NzNSeThENno2cjhzLVhoSUhkNmhqYndqQWRLZENaOC1yYldaRjN0OEttOW9VSTRQM1BNNzZfODczWE5xaG54T2ZQZnhhNDNHc0YtWHliSmdUNFA3UlgtLVBQeFl6dzRjc01Gb0IwU2lNa09WV3MwMXB1b05KbjAxejhYT0pXQlZVTC1XcW9Ba01BSm1qUDl4N1ExRFdzbnpMVml0UWh5dlgzRWVCTmdKRnBDQ1ZIMm1vWkNOZmdhVXBtUg?oc=5"
+          },
           {
             "title": "TMC MP Derek O’Brien skips summons in Camac Street scuffle case, called again - The Indian Express",
             "source": "The Indian Express",
             "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXQ4NHdXdDI1Y3laTnpVcFVoNHJqbURnMmN4dEt1dmJjNGJQX1RNaDZEcjZ3V1Q4TWxCTGc1VGIxWTlXNEdFVGFYT2hZTWp2NndEQ3VLNkpLT2VIQlFrRmdyVzcyNENRSld1WVpLLUNtc1hkcEZPQWNZUHhXX1RwcDlsU3dKUzJvMVMzaUtyTUtnNm92cEJyTHk4UnhmMWFjYllEUU4zdW9CWVRldHBzZElENGdpOHlYMFUyWFFR0gHEAUFVX3lxTFBsN3JCX2hKSHVxeXdTOS1QZXhYemV0RlM4ajVJOEN2YmJaRkhnNkNNaFVhQl90cFVaX194SHg1TkpSYmc0bDFxdkJhNjZLNno1Y1ZhOXI0bnY5NDR1ZmNKY2JXdEV4dnlraGRaMWtlYWE2RGdKTnVmUnJlSmlyaXNIejR0cnNKUUZxUzgyVkxEdEljT2M0MC1qeXJpSU9OSEU2R0MyUjRaZlJiV0lLaU9rUmlSOXdYN0NUWF9ETVpsUVd3b0I?oc=5"
           },
           {
-            "title": "Kolkata Police, fire department team visit TMC MP Abhishek’s Camac Street office for fire audit - ThePrint",
-            "source": "ThePrint",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcXhJU1pJdmpDNC0xbUluWktEd3N6MnJMdFFMellDWWFtdGFDVE9MczhxdnVyaHlILWNzUGU0bEFZZkhSU0cxQ2VXTnZwTUJueWpHR1Zja0tYcktoSGNBd0NLNzEwVUN0YzZscExiY21KaFQzSkJtUkhQMzJqYmVBYlZhbU1fSXA5S0RFUVRBem51N2cwekZfWHdHcHBiQk5Nd3NNVll5T2pvcGRWcnpObUhYUnk2MTlHYjhqaTVqcVB6d1JiUlVn0gHMAUFVX3lxTE9QaHpHZ09QTkc3NzNSeThENno2cjhzLVhoSUhkNmhqYndqQWRLZENaOC1yYldaRjN0OEttOW9VSTRQM1BNNzZfODczWE5xaG54T2ZQZnhhNDNHc0YtWHliSmdUNFA3UlgtLVBQeFl6dzRjc01Gb0IwU2lNa09WV3MwMXB1b05KbjAxejhYT0pXQlZVTC1XcW9Ba01BSm1qUDl4N1ExRFdzbnpMVml0UWh5dlgzRWVCTmdKRnBDQ1ZIMm1vWkNOZmdhVXBtUg?oc=5"
+            "title": "Pranab Mukherjee: The First President From Bengal Who Regretted Not Becoming The PM - ETV Bharat",
+            "source": "ETV Bharat",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUGJsWWhhckw0TENpUGNWSUZVc0d0R0MxeXM3QlR4OEZFc1lGaEFaYnlyUGVHdG1ZTzNwX3pwSmh2UVhGODNZdUgyV0kyS3h0NHh2ZXlpb3JWYUdqT3JOcEI3ZXVQbGw5c0ZfclBDVXplZUlkd2d1UmxJMU9pVjRqSWJYajZVLVBsMVFDYk5MWXVQSEJzc2tvSXBwdzNobnBqejdFWEFpdnBZNXZ6NWxxMmpLSXFkTEpiZWcxSXBmMGtrSHR4a3FNa3ZHRDnSAdIBQVVfeXFMTmw2NDg2YXcxUmExU2NHZ1loMVZSQU5salhvS19aQlk1Q2psNHNxY012cTB1akdhSW1EMzkwQkVIR2ZNdnZSdnBnUGdkNE5YcTEwanZpMHFYRVpxQy16bUl1eXJSM2ZMQ2VmZXU5OGNvNENud1dWemI4X0lxZ0FvZU1jNzFRZnJPaG5lZHVvejM3Z3RZQkR4OVlpeUxyMjZvR3BGMnJyZjhuUWJldzlwSGNySHU4U29FV0dCaFV5Mk9DU0FoekxwcXZKYkdzdkJKS1J3?oc=5"
           },
           {
             "title": "Jadavpur University and Right-Wings Ideological Anxiety With a Critical Campus - TheWire.in",
@@ -395,29 +400,24 @@
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1FMcVo3UGZZdDdMemVXRmdwdEwwSGhFLUNJTEtUMjhVRzh3Qm1vcVlXSkdsMW0tNmNTU3ZBOEFmTkRwMVk2dl8yMjZGVDgtNkxBSnpiNFF4OE1xbEZvQWhXcHE4VW1FVEJNUHpnQ0hobFliSlRaU2FESGFlVUJWVF9LRGQtaU9ZWm8yckZiZFA?oc=5"
           },
           {
-            "title": "How migrant EBC and OBC populations helped BJP win ‘caste-less’ Bengal - The Federal",
-            "source": "The Federal",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVkxYlQ5S2JBMGVGUW5nZnduT25iWVVlcUJfNFZHZXlRdnhKdnBPV0JyazRfczI1eEVidXZUekp2aS1lb3NDSk1hZVdlbTVjNzBSVFZpcHhZWUJoaDQ3VDhyTU1GWWY3V2lIaFczTlZZN24wYUxnM2lqYXRVNGxfN2M2QUdIWmZEanpHOC1ienN6OXkyT2VLNVRUZDF6dGRTb2xNdHJVd1Q2STc2cERJbHVOeEk5ODNPZkE?oc=5"
-          },
-          {
             "title": "‘Anti-national’ graffiti at varsity whitewashed after West Bengal CM’s ultimatum - The Hindu",
             "source": "The Hindu",
             "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRWtSSzh4M3ltQ3FGTXdmWjBUWXQzRHdVdE56bVBqS1ZVZWxlNjVWY3l0VHE4YmFhZXpXQ1RQcWRDSFppM3BmeHBLNFFlNUdoWjJ2aXYyUnhfWmN2Vk84cDB4eVJIdjIxM0M1ckJLMmI2QUM0RzdJTWFQTDZOMTJNbmYxTUJtZmVVc05UeDNHd1JOenkyOF9mdVkyZDI2UkxCMy1iaW56WlVfcmpUZXpIeXdIeFUyYnNnMHFQMXFsaHV1SUxJaTNycVJCbjllVUNrUENZV3FYMWJ6NnljcUoxLUx3UVotallB0gHoAUFVX3lxTE1Fa1JLOHgzeW1DcUZNd2ZaMFRZdDNEd1V0TnptUGpLVlVlbGU2NVZjeXRUcThiYWFleldDVFBxZENIWmkzcGZ4cEs0UWU1R2haMnZpdjJSeF9aY3ZWTzhwMHh5Ukh2MjEzQzVyQksyYjZBQzRHN0lNYVBMNk4xMk1uZjFNQm1mZVVzTlR4M0d3Uk56eTI4X2Z1WTJkMjZSTEIzLWJpbnpaVV9yalRlekh5d0h4VTJic2cwcVAxcWxodXVJTElpM3JxUkJuOWVVQ2tQQ1lXcVgxYno2eWNxSjEtTHdRWi1qWUE?oc=5"
           },
           {
+            "title": "How migrant EBC and OBC populations helped BJP win ‘caste-less’ Bengal - The Federal",
+            "source": "The Federal",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVkxYlQ5S2JBMGVGUW5nZnduT25iWVVlcUJfNFZHZXlRdnhKdnBPV0JyazRfczI1eEVidXZUekp2aS1lb3NDSk1hZVdlbTVjNzBSVFZpcHhZWUJoaDQ3VDhyTU1GWWY3V2lIaFczTlZZN24wYUxnM2lqYXRVNGxfN2M2QUdIWmZEanpHOC1ienN6OXkyT2VLNVRUZDF6dGRTb2xNdHJVd1Q2STc2cERJbHVOeEk5ODNPZkE?oc=5"
+          },
+          {
             "title": "Kolkata Police summons Derek O'Brien, Abhishek Banerjee over Camac Street scuffle - The Economic Times",
             "source": "The Economic Times",
             "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPemk1S2tseUJFUUlGS1lpX25yYWd1YWVOYktUcWVPT3FHUHk2SHVfcGF4RGlGd0ZzUk9JT01YWHVmTm1SazVjTjdVVE9uX0QtekxOdmlUaUxRZUVFdU9tZWR3dGF1T184SGg4WEVQbTFpT3pDMnhodkNzRHZsRkl5WGRCWklpbGNaRVNpQzUwV1FkZnJlQlVseUl5TGhENUYtdjQ2X2M1aGhtNXN4LTRZY1ZZYldOY1lwTy1nS093UEtMZnhMeXBFRXFCUl80NGVFb3R4aFlSbW1JR2Z1eWNnQ2w3MEhPYU82ZzRkbU5Kb0tySmVK0gH0AUFVX3lxTE96aTVLa2x5QkVRSUZLWWlfbnJhZ3VhZU5iS1RxZU9PcUdQeTZIdV9wYXhEaUZ3RnNST0lPTVhYdWZObVJrNWNON1VUT25fRC16TE52aVRpTFFlRUV1T21lZHd0YXVPXzhIaDhYRVBtMWlPekMyeGh2Q3NEdmxGSXlYZEJaSWlsY1pFU2lDNTBXUWRmcmVCVWx5SXlMaEQ1Ri12NDZfYzVoaG01c3gtNFljVlliV05jWXBPLWdLT3dQS0xmeEx5cEVFcUJSXzQ0ZUVvdHhoWVJtbUlHZnV5Y2dDbDcwSE9hTzZnNGRtTkpvS3JKZUo?oc=5"
-          },
-          {
-            "title": "Gold, silver prices today, 31 August: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
-            "source": "Livemint",
-            "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNb21ERUpXNmc3M1RmVVRuOFJxdVVqU1VPRVlFWk5YOWVYcUNGRmEwMERfSnpjb0tvZDhhQldFUWVfakc0NlRlRnU5WG1TcFBxdVlNZVlQd3hTd2YwLUt0UkdIU0J0bjBQd1ltRVhTNDBvdGZydU00RFBDcW1VRzVpMTlVeFBieFR4Vk5BSWdlejZKemhFc0xhRTNJUVRFdDBnSjd6M1h3c3VEcS1fRXFkMEc2Z1ljMlloTmY5RXRGVjNkS201OEVHS01mdjFrck5CTjFYcHpGZTVES0w1eUNxLTIyOGJSMER5ZWRmQ0g0MmdKNks0ZVdFVGhwclM0RjlWNjVjYzB3OU8tUjVo0gGMAkFVX3lxTE1vbURFSlc2ZzczVGZVVG44UnF1VWpTVU9FWUVaTlg5ZVhxQ0ZGYTAwRF9KemNvS29kOGFCV0VRZV9qRzQ2VGVGdTlYbVNwUHF1WU1lWVB3eFN3ZjAtS3RSR0hTQnRuMFB3WW1FWFM0MG90ZnJ1TTREUENxbVVHNWkxOVV4UGJ4VHhWTkFJZ2V6Nkp6aEVzTGFFM0lRVEV0MGdKN3ozWHdzdURxLV9FcWQwRzZnWWMyWWhOZjlFdEZWM2RLbTU4RUdLTWZ2MWtyTkJOMVhwekZlNURLTDV5Q3EtMjI4YlIwRHllZGZDSDQyZ0o2SzRlV0VUaHByUzRGOVY2NWNjMHc5Ty1SNWg?oc=5"
           }
         ]
       },
       "state": {
-        "summary": "In West Bengal, legal and political pressure on the TMC continues as the Supreme Court has directed the state government to provide details regarding the questioning of Abhishek Banerjee's personal assistant in a land grab case. Debates regarding demographic shifts continue, with analysis focused on the role of EBC and OBC migrant populations in shifting electoral outcomes. Simultaneously, the state government is pursuing diplomatic interests, seeking safeguards for West Bengal in potential revisions to the Ganges water treaty.",
+        "summary": "West Bengal's political landscape is marked by ongoing legal scrutiny of TMC officials, with the Supreme Court recently ordering the state government to provide details regarding the questioning of Abhishek Banerjee's personal assistant in a land grab case. Electoral and demographic analyses continue to explore the shift in voting patterns, specifically how migrant EBC and OBC populations have influenced BJP gains in the region. Meanwhile, the state government is pursuing diplomatic interests regarding the renewal of the Ganges water treaty while political maneuvering intensifies ahead of upcoming bypolls.",
         "articles": [
           {
             "title": "The Rapid Radicalization Of India’s West Bengal - Eurasia Review",
@@ -462,7 +462,7 @@
         ]
       },
       "country": {
-        "summary": "India is navigating a complex diplomatic landscape, with Prime Minister Modi engaging in high-level discussions with leaders from Russia and Iran, balancing relationships amidst geopolitical pressures and regional tensions. Discussions at summits involving leaders from China and Russia have underscored India's strategic positioning to counter U.S. influence while maintaining its autonomy. Domestically, the national economy remains a focal point, having demonstrated robust growth despite global energy shocks.",
+        "summary": "India is balancing significant international diplomatic engagements, with Prime Minister Modi participating in SCO meetings involving Russian and Chinese leadership to navigate complex geopolitical alliances. Discussions on the sidelines of these summits have included calls from the Iranian president for India to play a role in regional peace efforts amid heightened tensions. Concurrently, analysts are examining how India's economic growth and its strategic balancing act between US and Russian interests are being tested by shifting global political climates.",
         "articles": [
           {
             "title": "India’s Economy Posts Robust Growth Despite Mideast Energy Shock - WSJ",
@@ -485,11 +485,6 @@
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYjlsUFFOVm5sX2NfZGdqa0swRzBxbklzd05HNnNtQWlCODRzb2lISUJTY1VGZ1VGWjl5am10djN4T3BDV0RyRnUzcGV2S1hSWWVhTExSTmgwVmNFblFhM3FmTEF3OVBNSzViX3g5YjZCUzRkRjcxUm9hSGxFT0dSWmVXSGhvOVBaRUVkRmZ4Ti1kR21oOUpRRmJUbm03SnVLX0JjM3dXTmLSAa4BQVVfeXFMTTVHR0NZN25QVlVaVjc2eWMyRHNLdUhPOEpzWGRUUFJnNktXdnFUMFZVd1BsQ3ZTR0owdE9ONFI1YWhsYUg3Y2Y5N1AtSEtpMENyUzVFSW0zM1JNaUhoNkZBdU11aGFiQ1pHci1VYlVNTzJzaGlhemowcVpKNDEtbDg2ZGZkRnNIdmtDRDJLV3Bmd3hCdDFtX1FOZXY3cGt3cjR4YmJHNGhvd21XclRB?oc=5"
           },
           {
-            "title": "Leaders of China, Russia and India are among heads of state meeting to counter US influence - The Boston Globe",
-            "source": "The Boston Globe",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZS1GT0gyUHhoTk1LZ1IyLTVZWG5RaTltbVpwWUdmYnpEMXJ6MEFkTVZ1QjlCSXE4SWhzZUU0c25Vd1pHbTVkY2RBSmtfaWljc2VHWUpfRDlKbElhbXlPa2RJZTJzc2M3NmViOE1TNEczZ0NzMUkzdEtLLWtLOWxMTFBVTGZpSF9GbEhUUy1MY1prNUoxckxqUkItRFVrVWVtcUE?oc=5"
-          },
-          {
             "title": "How Trump Is Testing India’s US-Russia Balancing Act - Bloomberg.com",
             "source": "Bloomberg.com",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGN3OUMyUVhaQnoxUzdHR3lHN0dUN0dURm9ELWhNY3lGd2E2NkVGNVFZVHROMDhnSkFJMFBTWHNpZE5wU2NXcTNfc3pWOXFOWkM5bVI4ZjNyblhPdUMzSlRtZ0o5dk54bndsYklfWGVUeTB3bGoxMFZxX0gxMUxUaW1mN3RlRzV0SHNqOHcwMm12Tm5aOGZ1bWtjOUkzcnV3WmVRYVFVODctSzdBaW0yRGZR?oc=5"
@@ -503,11 +498,16 @@
             "title": "Leaders of China, Russia, India among heads of state meeting to counter U.S. influence - The Tribune-Democrat",
             "source": "The Tribune-Democrat",
             "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeVdfek9ZZi14Sk45cldVcmRqVXVxVF8tNlJWY21jQ1pOSFNKUFl5RThGSjRPWkR1VGxKbGlmNVJlUU15SDBPUmFJVlg2V2YwbWVVa2JkWEpWcEdQUHQ0SDFyT1RJcU9YeUZPZ2JSQlZJakdUN1dobHFkNEx2TkVhS3Rmdk9OWDB4bmYtdHkxbXNDOXZwNXhud25UVzdnclROb1h0aE5YbnhhUzRNZHRWbFpGVFNVRzJJUTM1anRTYkl6Z3lnOC12bkNwSjZyMzJEbVpNNHMzSWpWcTJ5Um9NMWFhN0ZxMmxEc25GSVJXblgwSDV4?oc=5"
+          },
+          {
+            "title": "‘Police Wale Babu’: The Song That Became the Anthem of India’s Restive Generation - American Kahani",
+            "source": "American Kahani",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlhwUWZrQjc2c0pZRHBpeU9zOXhVSVktTTBkQkVrMWMyajVpcnhDckFFTWpYRmtGTmRyX1dOYW1XMzk1TlNKZ3pMUUtDOXUwVUI3RXNiYWFwNHgwRHFSUlA5WXRuNFU1LVI2VWpRN3ZvVnBuNFpRcnp1OW1UaDZDSDdpM2FycV9uQ3ZKWjlTTGotS2Y2VGN6LTZKUkU1eWhBT0p4aXRjb3BmUFliUk5qbUtodFE?oc=5"
           }
         ]
       },
       "world": {
-        "summary": "Political discourse internationally is largely fragmented into local and regional issues rather than a singular global narrative. In the United States, debates continue over the lasting effects of Trump-era policies on social dynamics and property rights, while activists in various states are pushing for greater transparency in political surveillance and campaign finance. Other regional concerns include specific policy challenges like land use disputes and local governance initiatives.",
+        "summary": "Political news is highly fragmented across different nations, focusing on varied local and domestic issues rather than a singular international event. In the United States, debates continue over issues ranging from executive orders concerning indigenous land and private property rights to the broader social impact of political polarization on public life. Other reports touch upon regional governance, such as Missouri activism regarding political transparency and local administrative announcements.",
         "articles": [
           {
             "title": "Analysis | The politics of the company you keep - The Washington Post",
@@ -545,16 +545,16 @@
             "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeFBEZWlJbDY0NEpoVk9kb2xCZVpHSDYxbzFqSXZ4ektxUjl6azdrWFRzbl9MLUJzd0NpdUNFbkRZVGNzdkZOVnFkb2V6M08zNHRLei1uQ2FYSjVEdEtwVjdJdVBTOXlnU0laOUdBRTN1STM1QlQyejN4NGNCQUphOTFMdTIwa0tGMlJrRzBqVS02Nmd4MklTazhJdHVLZmdiRjN5d2RScFBuN0RqeWNhd3g4cEFQYnctOUE?oc=5"
           },
           {
-            "title": "🗳️ More money in politics | Morning Newsletter - Inquirer.com",
-            "source": "Inquirer.com",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjNYOXFjVEZ6SS1HMmV3Q2xNODd4d3I2dXVZMXlZdTNVQWdHTFZ6WUJlQThLc0E0OTlrWndjSTBRbXVOTGpoTk1NbGpheWoySHBwekpvcTU1QlQ1enVONTNUbjZNeHFuSVRoSFgtaWVWZk9ZZ252UFpGc2FEdXl2ZFFvWkcwbUFMWTJWMndrdEF6bmNDYkJPbVpRQjM3R2pCMXp6bHk1Z0lEOUl0ZmdrQ1FBRENCS0kyZVgxMg?oc=5"
+            "title": "After a rough stretch, mRNA gets a boost — at least for now - STAT",
+            "source": "STAT",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSHFwV2FTeThtNVBZel9INS0yQ2Z1Ui1KRUtfRV8wUmNVNzBSeU9kcl9uRnJZWnQ2VS1DeXQ1Y0ZsYjVwLU85czBrNy03YmlLOEVhZm1LOFBELUhpSlpiQk5JU2I1dHd4bDdwMkE1YmREMmVMVVF2QkJIMEwwbEh5MG56bDhqaEJyakpxdFBn?oc=5"
           }
         ]
       }
     },
     "Economics": {
       "city": {
-        "summary": "(Summary unavailable — response could not be parsed.)",
+        "summary": "Kolkata's economic discourse centers on local structural challenges, with analysts debating the city's lost technological edge to Bengaluru and ongoing difficulties within the real estate sector. Corporate news remains active, highlighted by leadership transitions at HDFC and a significant industrial rivalry between conglomerates Birla and Adani. Additionally, there is a focus on the sustainability of national payments infrastructure as it reaches a ten-year milestone.",
         "articles": [
           {
             "title": "India’s payments system is ten. It must start paying for itself - The Economist",
@@ -594,7 +594,7 @@
         ]
       },
       "state": {
-        "summary": "(Summary unavailable — response could not be parsed.)",
+        "summary": "Economic news in West Bengal highlights industrial development, specifically Utkram Chemicals' plans for manufacturing expansion across the region. Broader discussions involve tourism strategy, with calls to shift focus from visitor volume to economic value generation. Discussions also touch upon the intersection of geopolitics and academia, particularly regarding China studies in Indian institutions.",
         "articles": [
           {
             "title": "Bengal counts its visitors. It should be counting its value - ET Hospitality",
@@ -624,17 +624,17 @@
         ]
       },
       "country": {
-        "summary": "(Summary unavailable — response could not be parsed.)",
+        "summary": "India's economy demonstrated stronger-than-expected resilience, with June quarter GDP growth accelerating to 7.8% despite global energy shocks. This robust performance was driven by sustained consumption and capital expenditure, defying broader economic gloom. Meanwhile, government officials and international partners have convened to discuss strengthening bilateral economic ties, and analysts continue to examine the persistent volatility of domestic agricultural prices.",
         "articles": [
+          {
+            "title": "India’s Economy Grows Faster Than Expected in June Quarter - Bloomberg.com",
+            "source": "Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1JPbV81QU5MVWlnTWxEdDhzT3h5dDVfTExnOTA3dUFPMUxSQVZTRzZXLVgtcW5oS2NobG4xVlY5N0xmYUNsQ2NSV0tQVHI3d0FURi1icDBKWFZfdTVjc1lYMFVQemk5cXBFbkZadTdMS3JyNkNySklGTXBOdWtpaEpLYkZtMnFMTDYzRHlWMTNsMlBLSnZ6a0xWb1Zmc21NVlhGOUZVWEtHYjdUUzFFczhoU1ludw?oc=5"
+          },
           {
             "title": "India defies the economic gloom - The Economist",
             "source": "The Economist",
             "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnFabnd1NUloVnV0NFZ6NHprcmtOZW9OOEtPNldmM0w2Zk5NV185RWZyZVlwQWh3OEFKR0Z1Z0twN29ZdmJRc2xHSU1YMjZFRGhxVXlxa0wzVUZuaC1PcFpqN2RGaXMwSE9pSG5zeENNMDdnOFRrOFE2UVBwblhtbUVqZmZLazI3ajZJb2V4ZG5BU3ZzbWJv?oc=5"
-          },
-          {
-            "title": "Modi’s Developed-Nation Dream Strains Against India’s Growth Gap - Bloomberg.com",
-            "source": "Bloomberg.com",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHF3d0Vwcjd1QlhCR2E4NEFrTXE0NFBmaFVJeTV0eVFsWG9hX2JjbWxkVmJBRG9Jbzgwd0F4TXBvZkhTcUlfY2w1Qk9ka0R4alF0N3R2a2xFb0p2U3lqWkRNVTZEcEpYUTEtV1otSjh3ZW9PSlkzVm5WcVhYMEc5VndDSDN0NWRMYTRkUENoYlFBZngyUEFiNnhmRElmR2hTWEs1LTZpUC1EQXI0WjFLdE9KOFFJZw?oc=5"
           },
           {
             "title": "Indian GDP Grows More than Expected - TradingView",
@@ -647,6 +647,11 @@
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UM2x3eUg2bTBvUVQyc1M5cHN1SEgxUDRfZENReHBVeFJaRkJEcTZsRHMzXzhVRjRIdktranZTbTA4TC03ZV8zd0xndw?oc=5"
           },
           {
+            "title": "India’s Q1 GDP growth quickens to 7.8% as consumption, capex offset US-Iran war shock - The Economic Times",
+            "source": "The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeHZPV21VdUJGcDdLbTNYampHMkt2Z0hNa29KdWdQTkhES2twV0xNbEN1MWc5MGd5dDVhN2JZMXkwUzhOdXdNMGZkSi05ZUh4NWt0emR1UmpSalcxVUE4MHZrQ0phZEEteE8tZ1hiRXpGSE50N2lvSnMtVEhUbUJaU1V4d19tT3BEcXBRbmdmNlg4R2pXYzloU01vQ2FoR2otU1BvUkFCVndsVUtjTVZTeTFsWDZFdFRQRVpVWWpNY2c4ZzFwcHFodnFEN3FUVl9idk1sQnJTQWtnMENTNDlNQkpEY2c5WkJNeEJudlNsbGZHQdIB9wFBVV95cUxPNFllQ0FLemJQXzMxdTByTm9JbDM1SUVlNkI3dnJ3SE5QSm91RTN2ZUNSSUFYMDNQajdyUkpHLU1CQjl3ckRGV29CMVRyaHEzSm55dTBFZ0dLR2IwdUplODM3MWVuY2NIWG1PX2g1RVlmeXdLMXg5cEg1dERZdklWbGlaM1k0T2ljNmdrajNtNkMwa2ZDSEMzTlQ4ZWc4a3ZpWmtzVFNMVFhCeFVRaS14VE81b2IwVHJJVllJOFBtb01BckVYR1hXb3RoMFpLOTZWQ28zdzg4SzRRUk9ZUHNZRzFiNFpuTEFxcTJnSWdkSFRBaEJ4bXU0?oc=5"
+          },
+          {
             "title": "India's Q1 FY27 GDP Growth at 7.8% Surpasses Forecasts | Reuters - News and Statistics - IndexBox",
             "source": "IndexBox",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEX3BpRE1uRGt2eWxrSTgyamNDakRsaDVybmFxTkFHTm1Fc2gyWTlzUUo2bzBhTURvallmdmplTXpENl9VbDRkcU91LXNENGEzZ1JxVlpJTDVUdmVJRGEwUVpxem5jal9wdU4zX3pST1JCQmhiSmVHS2RNdXFEZw?oc=5"
@@ -657,11 +662,6 @@
             "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRGFtQ3dGZG9IR3BEbUx2MkpXRGoyWTcwbHJucnNGT0VkWXdabGwtNWNaY3hKbHZWYzgwVTdOZXRqOHlJMXJrWWdUU05XSzNFVFlKWGVSZjFiX09MTWpkYk11bXNsTVBPdzN0WmFlbVFxME5TRmJGblp1VlE2RzlybkNqRjNhWFpGVTA0Qlk1a2JGbFlFRVpPTDdQTmVvUU5LZGh6U2ZTTFFxYmp4QVJEMmdna0s2NzRvTXdpNnlmWTRVQQ?oc=5"
           },
           {
-            "title": "India’s Q1 GDP growth quickens to 7.8% as consumption, capex offset US-Iran war shock - The Economic Times",
-            "source": "The Economic Times",
-            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeHZPV21VdUJGcDdLbTNYampHMkt2Z0hNa29KdWdQTkhES2twV0xNbEN1MWc5MGd5dDVhN2JZMXkwUzhOdXdNMGZkSi05ZUh4NWt0emR1UmpSalcxVUE4MHZrQ0phZEEteE8tZ1hiRXpGSE50N2lvSnMtVEhUbUJaU1V4d19tT3BEcXBRbmdmNlg4R2pXYzloU01vQ2FoR2otU1BvUkFCVndsVUtjTVZTeTFsWDZFdFRQRVpVWWpNY2c4ZzFwcHFodnFEN3FUVl9idk1sQnJTQWtnMENTNDlNQkpEY2c5WkJNeEJudlNsbGZHQdIB9wFBVV95cUxPNFllQ0FLemJQXzMxdTByTm9JbDM1SUVlNkI3dnJ3SE5QSm91RTN2ZUNSSUFYMDNQajdyUkpHLU1CQjl3ckRGV29CMVRyaHEzSm55dTBFZ0dLR2IwdUplODM3MWVuY2NIWG1PX2g1RVlmeXdLMXg5cEg1dERZdklWbGlaM1k0T2ljNmdrajNtNkMwa2ZDSEMzTlQ4ZWc4a3ZpWmtzVFNMVFhCeFVRaS14VE81b2IwVHJJVllJOFBtb01BckVYR1hXb3RoMFpLOTZWQ28zdzg4SzRRUk9ZUHNZRzFiNFpuTEFxcTJnSWdkSFRBaEJ4bXU0?oc=5"
-          },
-          {
             "title": "The economics of India's never ending onion price problem - Finshots",
             "source": "Finshots",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZEQwLUlGRU9Vb25zTVdHRnhNWXRTTDJHYllmcFRReUxnQmRCSTdkZGZZRjdWMHJlTFdSal9NUkZRS0Y5THJTbXBfVkxOeEpRRGdLRTNvQ0tnRmpaWmFOUzB1NDUzc1hjdDk0Q3V4dGJJYUYydDFjNXo2ek5ENnY0U3JaeTkxRjZxb0k1ZHlR?oc=5"
@@ -669,7 +669,7 @@
         ]
       },
       "world": {
-        "summary": "(Summary unavailable — response could not be parsed.)",
+        "summary": "Global economic analysis covers a diverse range of topics, including the economics of innovation, particularly regarding copyright and AI training. Attention is also directed toward sustainability, with reports focusing on the practical and economic challenges of emerging technologies like solar panel recycling and agricultural robotics. Additionally, policy experts are examining the widespread trend of occupational licensing and its impacts on job regulation across different nations.",
         "articles": [
           {
             "title": "The Economics of Public Grocery Stores - Time Magazine",
@@ -697,9 +697,9 @@
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGNXQkRMS2xpTHo3aEFGdGpteUd3QnpqcjlWTFF6cVQ0QTVMTl8xakJCc2tId3pCSnNTWFlqc0hFVmt6RW5oTHphX2I4MnlpLW4ycEFsVTVwWEdvejVsMVY1OHZLNllNa0xOZnZQZWF2UTN6TmRJemRwMUFkSDNzYlVGV1VRMDUtZGg2WG5xem1xSVQ5c29jcWlJUE5UTTBWb0loMjBJYWxESnI5Snc?oc=5"
           },
           {
-            "title": "“The basic economics of being able to have a robot that’s dedicated to spraying is not very practical or economic\" - FreshPlaza",
+            "title": "“The basic economics of being able to have a robot that’s dedicated to spraying aren't very practical or economic\" - FreshPlaza",
             "source": "FreshPlaza",
-            "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQekZVSDJEOXJmRDhiS0k0Sjk3OEFfXzZfOERQeG1SZTRYY2FqaENIbUpqcWRtZVNEYW53QmZVNXRuMTRsRnc5WmFVbmVuRC02T3dQcGRiQTdaNk16ZElrQThEcU5Id3lwUlU0dnhMakJ4OUhzdnNGVjQwWEowRGthRFdlYnNRODVuNXk5OHdwcVNIMWt3T05wOXl2Rlg4OTB4QlY3dUNUZ1FPT2x5N2t5MEUyeU9NYi1Ua2dvYlZwbFlhRXpKTGtSN1hxUTlFUnhvaERNUTNpTnZ1WllvVjdLSng4VnRDdGpweGdfZFA5ODhJRTZpQm5ubDJUYTlMdFE?oc=5"
+            "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNU3U1aUVYRXNENGRSZU1RUEdFSjVhS3RtQUdyM2t3UHJJaUxjbndFeTdBeDRfN3RveXBXYkpCaWJBQVNTX2RzdlZOOXhhQVVPY2dabFdiWU45REEzbGtUa1l0end2bVFVaF9EMlJUa2M4NVB6ZExSMmJnZzRiMkxCOXVsRFFQTUVFTndBNW0tcWZjMUhmZjRFMWhfTWZabUhxT2ZySzR1ZUl6eGVZTkRWOWFKMnA0Z3o3SlJ2TmRJMGRXSWNxbUNWNDZrbkdOeDU3MnBkSGl1WVZoaTJOSVFCUHpvd0hpcmJiX1o4azZ5NHpnb3lFSWhHRlRaUmlGS2M?oc=5"
           },
           {
             "title": "The looming failure of Operation Economic Outcast - Al Jazeera",
