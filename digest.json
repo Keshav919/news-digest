@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:47:58.555570+00:00",
+  "generated_at": "2026-10-04T07:09:08.643226+00:00",
   "location": {
     "city": "Kolkata",
     "state": "West Bengal",
@@ -8,1061 +8,146 @@
   "topics": {
     "Healthcare": {
       "city": {
-        "summary": "Recent healthcare developments in Kolkata encompass a mix of ethical concerns, administrative audits, and liability issues. A local case involving patient photographs posted on social media has sparked privacy debates, while hospitals undergo heightened fire-safety audits to evaluate emergency preparedness. Additionally, a consumer court has ordered a doctor and hospital to pay compensation following a post-surgical infection, and discussions around elderly care training continue to highlight regional public health gaps.",
-        "articles": [
-          {
-            "title": "Is it right for doctors to post patient photographs on social media? Kolkata case raises concerns - deccanherald.com",
-            "source": "deccanherald.com",
-            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVU5rV0dxTFRZWkw2UUtDc0hialdwRXkzN3lrT2U0dC1XMU5iRGhUbF9FZXFfejB5TTF2eUF0aVJoanJCTGVnQ2g5aWdvbEhjYmxna1ZkSHdob3BxcW1SX2cteG00R0tfSDFCSjJxTzRnYnpCSlV6M2NnbmZwdGFVOE1sMHFxV192NlUyOWMxLVJKcVlSWmRDQzRlM3lzTTFFZE1WMndkUU9Gd0V5d1VBZ0NjQTA2djNFckpfWXp4R2lBbW9oX3MzV3lUNVJxQUtIU2ZlTHhndzBqRWxodGlnZXhLN0Z5TWs?oc=5"
-          },
-          {
-            "title": "Fire-safety audit focus shifts to hospitals to assess their emergency preparedness - Telegraph India",
-            "source": "Telegraph India",
-            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMkcyYkFKOWZkX2NuX1BKUlgwdTlJNDhzUWIyV0toT19EZDZoX2RPelVMVjZjbUZ6NjAxME1za005WGgtVnBER2dPYmpUcmM3Q3RYdlhXMnduSmE3UUpkd0VsQ2xWMDJXNE41ejJMZ0hlckNjSWpCcndWbWJzdlI5dkwwak0zODB6TnRjWWx4X0xZZi1ILUUtSVhGOXVEaGN5RUs3MDhwenpfX3ZIaUFVUk8yVVhaVFhmVFpJNldDUW9CeU1sWTZZeFVXQ0JjYmZfdklnNzRBd1EyV05xUDctV3M2ZVRtRW02aHfSAeoBQVVfeXFMTTJHMmJBSjlmZF9jbl9QSlJYMHU5STQ4c1FiMldLaE9fRGQ2aF9kT3pVTFY2Y21GejYwMTBNc2tNOVhoLVZwREdnT2JqVHJjN0N0WHZYVzJ3bkphN1FKZHdFbENsVjAyVzRONXoyTGdIZXJDY0lqQnJ3Vm1ic3ZSOXZMMGpNMzgwek50Y1lseF9MWWYtSC1FLUlYRjl1RGhjeUVLNzA4cHp6X192SGlBVVJPMlVYWlRYZlRaSTZXQ1FvQnlNbFk2WXhVV0NCY2JmX3ZJZzc0QXdRMldOcVA3LVdzNmVUbUVtNmh3?oc=5"
-          },
-          {
-            "title": "Indian doctor in Europe says doctors were ‘shocked’ by quick healthcare access in India: ‘Couldn’t believe it’ | Trending - Hindustan Times",
-            "source": "Hindustan Times",
-            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOXVSVmYyUUNhbDdkR2NFT1lpWFhRMW1LRXJmbnNjTS0wVzItbkwtSlJRWDFpRzZaUWVWalAydlh3b0gyV0JlTHBHT0NqcHVLTlJENWRTQ0NNSktxbXRJX2w5djMzRlZZVEtTRmRsVGo0cFdEc0hWNlhNYWFGWFVoOUU3NWRoWFNWTTVxOWwwb1RDRUpReTRIRUNmWWNRRGd4dDNZa1phaTV4Z3NWMkFyM083QlNMQklIdFBWc1lib0Y5LXpXalpkVUxYR0lFYnpaV2NkaVpiVHY3SXhiTkFzbGNCMVFSb2lxSUdkOFRTS0FIc2l5S0dZTHZ30gH_AUFVX3lxTE1FWVVRaF9Bc3BLd3pBSjVnT3BpMjQyY2tWbUlHZlZqRkpUSkNPbUhJLVBZc2xJTjNXX3VwTThZWExrRjFwNWNqbU1jbGptck05VUhDb0VsT3QxdzQxYTd1dUhueTZVR21jelRNM2g2R2lSd0ZKcEE4b3RFT0FNekg5M2JFRk93Y2w2VUVEMHpBblpHcV9LcEtFU0xWVzFaelRZRVFpQnBSYjBXT0tBenY2Zmg1Ni1PTlNVQ01aTnQwMEV0UzlpZnd3VDFyOGNCcC1SQkJOMmxPZFUzd3BONk9rc212bFgzN2h5U2R4UTZ2SFNpMVVZSlR5LWZvWEJmYw?oc=5"
-          },
-          {
-            "title": "Phonex Group’s Gulam Ashraf Eyes Business Expansion Alongside Education, Healthcare and Skill Development Initiatives - The Tribune",
-            "source": "The Tribune",
-            "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdVQ4N25zSW9DRTlodk16amlmeG5NNlNyOHNUYmFrS2RYbkNPaGJrcTBhLXpDS1Y4MFRHRWdjcHJYLU1BNkxlZ284NExpMlRWZUVia2xER1pSV0d5TUFZMFpUTlVkbWxtbTZObzA4cDd5R0dGV3lpc0l3VTlZbkZYbEVjOGdDYUNIejdfUVdLaXVsSS1kOTI5NlJIQUVZSjE4aWk5QXNobWU0ajc5bTd6UTFyU2tEdFpNdllBYURjQzBQV0xRVXBRSER5QWhLN0FwM0QwaEdhRjMtbEFIUS1xaDlhbHZzM2ZyMjVJRDJ5VVBMalQxNDFwU2VNbVdraVhsNm1wczZVR3VndGZRNzd4d9IBkAJBVV95cUxNdVQ4N25zSW9DRTlodk16amlmeG5NNlNyOHNUYmFrS2RYbkNPaGJrcTBhLXpDS1Y4MFRHRWdjcHJYLU1BNkxlZ284NExpMlRWZUVia2xER1pSV0d5TUFZMFpUTlVkbWxtbTZObzA4cDd5R0dGV3lpc0l3VTlZbkZYbEVjOGdDYUNIejdfUVdLaXVsSS1kOTI5NlJIQUVZSjE4aWk5QXNobWU0ajc5bTd6UTFyU2tEdFpNdllBYURjQzBQV0xRVXBRSER5QWhLN0FwM0QwaEdhRjMtbEFIUS1xaDlhbHZzM2ZyMjVJRDJ5VVBMalQxNDFwU2VNbVdraVhsNm1wczZVR3VndGZRNzd4dw?oc=5"
-          },
-          {
-            "title": "Elderly Care Training Exposes Bengal’s Growing Public Health Gap - urbanacres.in",
-            "source": "urbanacres.in",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUkQzR1duNzN5VTdMMEFVNFZ2MnNwUUl4dVViYy1zS0FGTGNqUzAzN3NBc2RzM3Y4UGtFY19GeWI4QmlIWTVMV2NuZTc2M0ZFX3pDZm00aUowT05LVWZQN0I0bDg1eGpaVTNZU25wUzdwRzEteHI3cjBfZ3hrWG5CYlFrbG96VjdHMFp2MDd0NA?oc=5"
-          },
-          {
-            "title": "Russian varsities seek to align MBBS curriculum with NMC to improve FMGE readiness - Education Times",
-            "source": "Education Times",
-            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWl9BU2VXQklOei1DcGFxWDI5Z0YxZXhoNVgxa1lFRWJSVDMyb2RDUjczdW9hbHUxZFdlQnYyV1d1b200eDB1MWhMbUR5d1JwcFRWUGdjd0RiM2lSaVZKTmhNX1BJVW5tcG5fTzc2UVpuMHdUY0wxNk5Zd0JiYWVBVzhveU9tbGNlSlo3dEppSHI4N1drcXVkUXB3OWhNTWtVS3BRNndjVDRxOC1GbGJUNGFxeFZfUEtpYzlZSFU2d3EzQmtDZGR1Z2IydEc3UnpUcms1NW5GUmVST0Rv?oc=5"
-          },
-          {
-            "title": "Patient develops infection after surgery; doctor, hospital ordered to pay Rs 3.2 lakh - The Times of India",
-            "source": "The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRE82T2V5ZUlCLTV1MHdWWE9BTUQwTzY1ZGc1ZE1tSVA3Q1FNN0tRcktxd3hUZ3Y0YXJPelBuMWlyTG1HVHhHZnFtWmpzYW9hOEI5WGIwNGZpendYSFduVEhoVExURFpCTndaWGlEQTVReU5oUi1CdVFhMGJOMGZYeGx0UjBmTkk3ZmhmUUNlNUUzWlBmcjF5QTZwNUF3YWtoRlpaZ2ttZlFXQWl4U0dFRWVyV0tEaWNsN3dLTmN2ZHRvd2JWeVZTYXd0Y0pzbV9jSGYxdFBqbG1UdTRNZ1ZCNmJnRFN1ZVRDT01NatIB8gFBVV95cUxQZnc0N1VRMjRQRGdYNE1Ock92VmhfRmJiYkpzZlBiT29YSW1lYVdXbWNUeUhWeFowX0VfUm5EaFJZbzhzRWlKdFN6alJxMU5naTZfOXB6R0F0NGpkVGNnd01qSUxwbjZZX3hiVVRPa3g4MEpUMlhScksyR2hNOVVPQnVfYTFtNlhrdUZWRjhUOUhJTVhWMVlQMkVrV0w5Y245VVNRaWVQX2l6WlNxblJOVnNoVld4eVhtMmdSSTlqTjlhZnFHU29NaFAwa2x4bWhweEFVeHJOb1ZBTjdtQmlHZjlTdTBZWkkxMUlwajFtYm80UQ?oc=5"
-          },
-          {
-            "title": "Class 9 student attacks classmate with knife in Kolkata school, victim hospitalised - EdexLive",
-            "source": "EdexLive",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPal9QeWR0ZU5ER1U5dHlrdHI5RDJ0MFA2UmtyMU9mNmlrOGFwYlAtNF83ZzhxUnNuTEdRZE9GWWxkWjB1YUk1bFl6cGtxdkZsYi1fN1JWSDU1eEFOOE85Mml6b1hjbUpMem9Qb0llTXFtU3BYelRnQ1RaWlA1RWZLSC0xZXRmTTNZY1JIZFUwRDZpcnI4UWlzWlJ5MC1ZcjNSWC1FZEhvZ0o2bDJ6YmpUNGJB0gG_AUFVX3lxTE1SRk1VYVhVcFlkNVNGc3N0cUVVWlpVbVJQSTNuenFNYW5KdUktY1NxYWNjd2lDT1hURHlXTDhrNnVia19IY1NsZFBEenUzM1J3ei1HbjRXdVJ0cEhQMWFqODQxYWtTcEplN29CVmNQR21MRGU2RzU2RkF0aG10Mll5Z3MxRnFEaEdYREpVMk1qR1ZEelBGR05MaERBMTFRc0RVSFFjbXFTY2J0ZG9na3lmd3liSjFWN2FFNGlnX1ZF?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "state": {
-        "summary": "The West Bengal government has introduced strict new protocols and mandatory credential verification processes to curb the appointment of fake doctors in private healthcare facilities. Concurrently, regional updates highlight ongoing hospital fire-safety audits and public health challenges associated with elderly care training gaps. Other unrelated headlines covering international veterans' housing and community suicide prevention were also noted.",
-        "articles": [
-          {
-            "title": "Bengal Issues New Protocols To Curb Appointment Of Fake Doctors In Private Healthcare Facilities - NDTV",
-            "source": "NDTV",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOUE2dTBfUllLV2xPYlhfSWZseDU3Unh4dGx0NGtYcWE5QjVmcDNYbjBvdFBhLW44VG1IQW1YODkwMWtNTG8zYkhuRGxYS1p1bVlyeE84MVNsZS1xRlV2QjQ5SFJoSTNhRDV6bHB4Vmp4TTcyUEdGd2dQOG1jd25ySUM2Ni1od0FtV2RlSnAxVXhFdWt0eVZ5c2hpdm9Sa1V0LWZQT1Z5bFUxZ3hvR0ZaeU9fQW9ka0JUUzNlbFdKM2NYNUxOdV83NHM3NkRPVzZVUEJ2Sw?oc=5"
-          },
-          {
-            "title": "A new 11,400-sq-ft Fisher House in New York will give veteran families 12 free suites near medical care; - The Times of India",
-            "source": "The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNMmJ0U243VHA2NmpQRnl3QVN6OXJZQ29zZGdzMmxCQzFFMHltb2RmS3lCTU00T0MxZVJob043dkxOM0ZYRmRodm9JSklVSjJRX1I4c3ZPa0hJOVJiZzRTUG5WUlFxNHlDM01GdXRMU2plUWN3cnlUOEVlYWtIbEtnNGphb2wwS3k3ZDhyLUdhaGphTEw0NUJhTjdzTjgtYmZXbzk0MTFKZ29vOEU5UVA0YUtqaS0xOW1OSU5xQUVTS1RycXBQRE5QdWJKZlZpSFpLUWdzX1hqWHA0OVY1dGpDVTJxemVGNGYyTzA0UkR5dDF3NHBFYk9JemdURWpYWkpaQzBKUkU5Vk9sNE0ydFE2dThYVHl5a0E4V1Jva05KQ0dYUXcyZTUxUkJlaE04cnJhUllnQUZEaTRaMWNFczhCelFkNHhrQ09JSDZMYzBmekFtV0RONHJJN253VlZDSHA1TWd6RDJEUHBtNHhBYUplRnpQQ212Y3BqUjF5aFFfY3pRWkJZYkV6a25iUW90Z1HSAY8DQVVfeXFMTTJidFNuN1RwNjZqUEZ5d0FTejlyWUNvc2RnczJsQkMxRTB5bW9kZkt5Qk1NNE9DMWVSaG9ON3ZMTjNGWEZkaHZvSUpJVUoyUV9SOHN2T2tISTlSYmc0U1BuVlJRcTR5QzNNRnV0TFNqZVFjd3J5VDhFZWFrSGxLZzRqYW9sMEt5N2Q4ci1HYWhqYUxMNDVCYU43c044LWJmV285NDExSmdvbzhFOVFQNGFLamktMTltTklOcUFFU0tUcnFwUEROUHViSmZWaUhaS1Fnc19YalhwNDlWNXRqQ1UycXplRjRmMk8wNFJEeXQxdzRwRWJPSXpnVEVqWFpKWkMwSlJFOVZPbDRNMnRRNnU4WFR5eWtBOFdSb2tOSkNHWFF3MmU1MVJCZWhNOHJyYVJZZ0FGRGk0WjFjRXM4QnpRZDR4a0NPSUg2TGMwZnpBbVdETjRySTdud1ZWQ0hwNU1nekQyRFBwbTR4QWFKZUZ6UENtdmNwalIxeWhRX2N6UVpCWWJFemtuYlFvdGdR?oc=5"
-          },
-          {
-            "title": "Indian doctor in Europe says doctors were ‘shocked’ by quick healthcare access in India: ‘Couldn’t believe it’ | Trending - Hindustan Times",
-            "source": "Hindustan Times",
-            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOXVSVmYyUUNhbDdkR2NFT1lpWFhRMW1LRXJmbnNjTS0wVzItbkwtSlJRWDFpRzZaUWVWalAydlh3b0gyV0JlTHBHT0NqcHVLTlJENWRTQ0NNSktxbXRJX2w5djMzRlZZVEtTRmRsVGo0cFdEc0hWNlhNYWFGWFVoOUU3NWRoWFNWTTVxOWwwb1RDRUpReTRIRUNmWWNRRGd4dDNZa1phaTV4Z3NWMkFyM083QlNMQklIdFBWc1lib0Y5LXpXalpkVUxYR0lFYnpaV2NkaVpiVHY3SXhiTkFzbGNCMVFSb2lxSUdkOFRTS0FIc2l5S0dZTHZ30gH_AUFVX3lxTE1FWVVRaF9Bc3BLd3pBSjVnT3BpMjQyY2tWbUlHZlZqRkpUSkNPbUhJLVBZc2xJTjNXX3VwTThZWExrRjFwNWNqbU1jbGptck05VUhDb0VsT3QxdzQxYTd1dUhueTZVR21jelRNM2g2R2lSd0ZKcEE4b3RFT0FNekg5M2JFRk93Y2w2VUVEMHpBblpHcV9LcEtFU0xWVzFaelRZRVFpQnBSYjBXT0tBenY2Zmg1Ni1PTlNVQ01aTnQwMEV0UzlpZnd3VDFyOGNCcC1SQkJOMmxPZFUzd3BONk9rc212bFgzN2h5U2R4UTZ2SFNpMVVZSlR5LWZvWEJmYw?oc=5"
-          },
-          {
-            "title": "Rethinking suicide prevention in Adivasi communities - The Hindu",
-            "source": "The Hindu",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcWN3a2NCYnh3NDVueE4wVTBGd3prTTctaTJDV3FwMHF4QVh4aUdlWFd3NU5LVzdvb0g2cU92ckZJUTZLTFhNQU8tYWh3dWlOWFRpeERhNGpVc1NQQWg4bndWbnhsWjdEOTBEWm9fS05HWXRMLXFJS3JwRnJjRXB3UEJzN0JIdmRSR2lDaE9ZcElRa1JCdzZsLVA5U2tSX1Qzd2lWelJTTm5tczhFbjVsaGVNcGFJZks2TVHSAboBQVVfeXFMT3Fjd2tjQmJ4dzQ1bnhOMFUwRnd6a003LWkyQ1dxcDBxeEFYeGlHZVhXdzVOS1c3b29INnFPdnJGSVE2S0xYTUFPLWFod3VpTlhUaXhEYTRqVXNTUEFoOG53Vm54bFo3RDkwRFpvX0tOR1l0TC1xSUtycEZyY0Vwd1BCczdCSHZkUkdpQ2hPWXBJUWtSQnc2bC1QOVNrUl9UM3dpVnpSU05ubXM4RW41bGhlTXBhSWZLNk1R?oc=5"
-          },
-          {
-            "title": "Phonex Group’s Gulam Ashraf Eyes Business Expansion Alongside Education, Healthcare and Skill Development Initiatives - The Tribune",
-            "source": "The Tribune",
-            "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdVQ4N25zSW9DRTlodk16amlmeG5NNlNyOHNUYmFrS2RYbkNPaGJrcTBhLXpDS1Y4MFRHRWdjcHJYLU1BNkxlZ284NExpMlRWZUVia2xER1pSV0d5TUFZMFpUTlVkbWxtbTZObzA4cDd5R0dGV3lpc0l3VTlZbkZYbEVjOGdDYUNIejdfUVdLaXVsSS1kOTI5NlJIQUVZSjE4aWk5QXNobWU0ajc5bTd6UTFyU2tEdFpNdllBYURjQzBQV0xRVXBRSER5QWhLN0FwM0QwaEdhRjMtbEFIUS1xaDlhbHZzM2ZyMjVJRDJ5VVBMalQxNDFwU2VNbVdraVhsNm1wczZVR3VndGZRNzd4d9IBkAJBVV95cUxNdVQ4N25zSW9DRTlodk16amlmeG5NNlNyOHNUYmFrS2RYbkNPaGJrcTBhLXpDS1Y4MFRHRWdjcHJYLU1BNkxlZ284NExpMlRWZUVia2xER1pSV0d5TUFZMFpUTlVkbWxtbTZObzA4cDd5R0dGV3lpc0l3VTlZbkZYbEVjOGdDYUNIejdfUVdLaXVsSS1kOTI5NlJIQUVZSjE4aWk5QXNobWU0ajc5bTd6UTFyU2tEdFpNdllBYURjQzBQV0xRVXBRSER5QWhLN0FwM0QwaEdhRjMtbEFIUS1xaDlhbHZzM2ZyMjVJRDJ5VVBMalQxNDFwU2VNbVdraVhsNm1wczZVR3VndGZRNzd4dw?oc=5"
-          },
-          {
-            "title": "Elderly Care Training Exposes Bengal’s Growing Public Health Gap - urbanacres.in",
-            "source": "urbanacres.in",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUkQzR1duNzN5VTdMMEFVNFZ2MnNwUUl4dVViYy1zS0FGTGNqUzAzN3NBc2RzM3Y4UGtFY19GeWI4QmlIWTVMV2NuZTc2M0ZFX3pDZm00aUowT05LVWZQN0I0bDg1eGpaVTNZU25wUzdwRzEteHI3cjBfZ3hrWG5CYlFrbG96VjdHMFp2MDd0NA?oc=5"
-          },
-          {
-            "title": "Fire-safety audit focus shifts to hospitals to assess their emergency preparedness - Telegraph India",
-            "source": "Telegraph India",
-            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMkcyYkFKOWZkX2NuX1BKUlgwdTlJNDhzUWIyV0toT19EZDZoX2RPelVMVjZjbUZ6NjAxME1za005WGgtVnBER2dPYmpUcmM3Q3RYdlhXMnduSmE3UUpkd0VsQ2xWMDJXNE41ejJMZ0hlckNjSWpCcndWbWJzdlI5dkwwak0zODB6TnRjWWx4X0xZZi1ILUUtSVhGOXVEaGN5RUs3MDhwenpfX3ZIaUFVUk8yVVhaVFhmVFpJNldDUW9CeU1sWTZZeFVXQ0JjYmZfdklnNzRBd1EyV05xUDctV3M2ZVRtRW02aHfSAeoBQVVfeXFMTTJHMmJBSjlmZF9jbl9QSlJYMHU5STQ4c1FiMldLaE9fRGQ2aF9kT3pVTFY2Y21GejYwMTBNc2tNOVhoLVZwREdnT2JqVHJjN0N0WHZYVzJ3bkphN1FKZHdFbENsVjAyVzRONXoyTGdIZXJDY0lqQnJ3Vm1ic3ZSOXZMMGpNMzgwek50Y1lseF9MWWYtSC1FLUlYRjl1RGhjeUVLNzA4cHp6X192SGlBVVJPMlVYWlRYZlRaSTZXQ1FvQnlNbFk2WXhVV0NCY2JmX3ZJZzc0QXdRMldOcVA3LVdzNmVUbUVtNmh3?oc=5"
-          },
-          {
-            "title": "West Bengal Mandates Strict Credential Verification to Prevent Fake Doctors in Private Healthcare Facilities - Hindusthan Samachar English",
-            "source": "Hindusthan Samachar English",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGpvS2hQTmt3clpYa1RKY0NkOUQ3MG8yUWppcTVyb0w2WG1Rbjkzb0RJUGtuMDQxRTAySmRGcEVyQjg0NV9kNTZFeTkwRFQ5Zks3R3BDQU5fMkpsdm92UjlnVUFCOG4tWmpDejB4MmdDdURCTG9QOWlvTUhES21wOGxob2pxM0hMd2M2aWhFRTlvUQ?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "country": {
-        "summary": "India's healthcare sector saw varied developments, highlighted by viral social media discussions regarding European doctors expressing surprise at the speed of healthcare access in India. Industry updates featured new preventive campaigns like Heartnet India's heart age initiative, commercial advancements in healthcare artificial intelligence, and new market entries in the nutraceutical and medical robotics sectors.",
-        "articles": [
-          {
-            "title": "Heartnet India Launches ‘How Old Is Your Heart?’ Campaign - BW Healthcare World",
-            "source": "BW Healthcare World",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDVjYTU3UmJ4ZXB5QWdyb1RteXlqQldoUmVObnl3UnRCMFVJbHlrcVpwSktYdUtsMWttNmZEczRKQkNCWU5HdDg1LW5sdGRWQnRSdTRyQ1o5bW1ESGRjcXIwV18tNWU3YW41eTJoaHFneFA5VzNkQXVpNWJhekJJUG9EMWZPTFdGNnpjdkJBazFVemctNDVhVjBnTkxnam11b3UxelBn?oc=5"
-          },
-          {
-            "title": "European Doctors 'Shocked' By Healthcare Accessibility In India, Video Viral - NDTV",
-            "source": "NDTV",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ1hpb3dUNzd2ZGpyVXJmU0p1ZHp6RXFQdHVobGc2bFBJSnY2TnRKcW5uVFI3a050NkNlRTB4c2JsTkV5VVBDZHQ5SHA2Z3pzZy1oLUVMUmFmdk1NYTVoVGV2bERpNzJ5UmdjUG9MQ045STIwcjNMazlIWmY3djhaZkJQMTk3T1hVb0xIeTk1Nld4ZElMejBuZUxWS3IwRG5VTTBiR3JvdE8tYjBfT2dJNtIBuAFBVV95cUxNOXZ3SWotV2tKUTNPUVc5SFlCbko4VVNjX2gtZHRwX2hNZWYtS3ZtM2dUMnE4Um02OXkya1N0R2VFNVdfTjZ3WDg5MUpKc0UzYmE5VElXX2Vmamx5VWVpRjhqOGpHZDV2VzJiMThCSXFBZUU3YVhiVXRlNl9udWNrb3E4UUQyVkNaRDFNLUlHUVU4V2M5SkVJS20xQkJEcUJJZU9ybWlvWFlDUWtLNEkwTlpaSEE1TGYw?oc=5"
-          },
-          {
-            "title": "Daily Brief India: HealthCare Global Enterprises, Anjali Labtech Limited, Bluestone Jewellery and Lifestyle and more - Smartkarma",
-            "source": "Smartkarma",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMHNzN0pWX0FoekptSDlibmxWdFg1dmFaZnBwWVJYM292b0xxbHBEZFNKS2RIT092YUYwbm9zRmRRQVZRT1FOQU9EZXJ1cG1xRFZERTRWOFpKLXZrcDJHeEU0LTU3NG1iX3hDelVsbHEyMS12Q1RFWGlkZ0c4V1k2NWFURWZSNXFTSjhFU2tHTnBOY0cwQ0FNdERNQzhxWkFScTlmeklmb09WdWQ4TmF3dm10RFA1Vzk2YmxmU3k4N1FvZV9kODd6QmNCQ1ZYOUEtM01rOGNwMnpCeFN6em0tMWJBdlpxU3lpeENNTmZaV1c?oc=5"
-          },
-          {
-            "title": "'Yahan ke doctor completely shocked ho gaye jab maine unhe yeh baat Bharat ke healthcare system ke baare - The Times of India",
-            "source": "The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQeUdsZ2F2QXEtNzVDMkhXb1Q4aDdGa3VSbXZET01kRG1TSE5EU0VTY2ZDYkR2azJJTDFwRnAzVy1SX0ZkeE5Va0JjeVEwUjh3NHVGak11d1lCS3JSVG9wS3hhRE11bVlpcjJoT0FWWEp1Zy1BN3NxY21CMFJYTmNLcUYyaFYwX0M2SEJwN1JVMW5HUVBrQ0pzdjlSbGdIMlF4bEZoUWVFTHd2Yl9yR0pOUUZZSlVmOWktY1dULVVBa2xoMmM1ZWFUTFBDSzItdjNIeE9wcHJ3a21ZaFZPRFROWVJvS01HbFN1UWNCNzRxel9YaXZaV2xoTUdmTGRYUDRiWnRiSjh1NXZYT1Q4TWJhTF9ZZHRPbWtQN0s1WWdHTlFTVUhKT3kyaTJsYVJnOTZEV3NGMXJlN3pTa2pMSlVXSkpfdUg1RWN2aXY5MlZWek1Bc3hXS2ZvbVh4TW8wUHV4ZkVSVFBfbFRobnA4UWxmUFZQVi10cXAzVlJCaE8ybmlJOUhBVHpDTHM4UHlZX2ZfYVkwbFJCWm52aXY2aEpfaGR2VlFSV09RWVRNUmZHbUYyUXPSAbgDQVVfeXFMUExrM3ppZXNCNU02ZW5LUjBjckU5MnZ4SXc0cjdlWG9fX0VCd2YtOWJlTGxNdTI1d2RqWG16dVZOT3huaXJiTFYzNnNIY3duNTVvc25OTVpfUm9BT2MyaFhKX3N0c0pCTWZxRjlqMng3RGoyWWVXR0NFdkNEQzJhT0VERzlnZjlzanBlMVpFQXVDS2Fxck5NNFg2NDJOZkdHeXdIYV9vUGJ5NC1pekcyRzRnNWxIWmRqQVdXOTBUTGlNYzlwTEhmMUxYci01cVZ2YWZNQkZ3cmFMVzU0THZnb21IZkI2U3k2Zi1rM2hnSUgzTEEyOWxjRjd5OXg0T3NWTGZsaUtlMy1UOVhGeXFaWEdPT0thMTNsWlJKZ3VuRHNwWHJVU0RiUDFEMktaeFZhOHRHeENwOUJxcWVjTHhoWEk3NXpoQTdtRlJmdEkxSl90RXZERG13aFl4UGwzS3RmVHM5dGY3eXVRMGRTZWlmUHR4dm1CRkNHZWhVaUplQzZ6MktzRmFQR2U3SEFFZ214OUJrNFpyUU9pQ2JzeHdtMzl1eVgxdGQ2dFREWXBReF9Gdkh6cVVFVEQ?oc=5"
-          },
-          {
-            "title": "Healthcare AI In India Moves Towards Commercially Viable Models - TradingView",
-            "source": "TradingView",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3BzUUk3czZwRl9Na1A3anVkSlRCMnR4ZEExUldWQWhCSzl1VHNIMEpXejJlVlNCTG81eXl4c0QwNFI2VXVyTV9XNExzeVVTMFRNX3BXXzNwQk83VTVCYXAxN2xiOWMzSk1YeldRSlNfeDUzenNWTGY1dHVLLWIyN2FBTExmb2dxVkVzSEU4ekZvc1Bpam4yeng0X3p4VU94cllmQks2WXhWSmctUGMtX1FIb1BFczNSV1NXMg?oc=5"
-          },
-          {
-            "title": "Indian doctor in Europe says doctors were ‘shocked’ by quick healthcare access in India: ‘Couldn’t believe it’ | Trending - Hindustan Times",
-            "source": "Hindustan Times",
-            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOXVSVmYyUUNhbDdkR2NFT1lpWFhRMW1LRXJmbnNjTS0wVzItbkwtSlJRWDFpRzZaUWVWalAydlh3b0gyV0JlTHBHT0NqcHVLTlJENWRTQ0NNSktxbXRJX2w5djMzRlZZVEtTRmRsVGo0cFdEc0hWNlhNYWFGWFVoOUU3NWRoWFNWTTVxOWwwb1RDRUpReTRIRUNmWWNRRGd4dDNZa1phaTV4Z3NWMkFyM083QlNMQklIdFBWc1lib0Y5LXpXalpkVUxYR0lFYnpaV2NkaVpiVHY3SXhiTkFzbGNCMVFSb2lxSUdkOFRTS0FIc2l5S0dZTHZ30gH_AUFVX3lxTE1FWVVRaF9Bc3BLd3pBSjVnT3BpMjQyY2tWbUlHZlZqRkpUSkNPbUhJLVBZc2xJTjNXX3VwTThZWExrRjFwNWNqbU1jbGptck05VUhDb0VsT3QxdzQxYTd1dUhueTZVR21jelRNM2g2R2lSd0ZKcEE4b3RFT0FNekg5M2JFRk93Y2w2VUVEMHpBblpHcV9LcEtFU0xWVzFaelRZRVFpQnBSYjBXT0tBenY2Zmg1Ni1PTlNVQ01aTnQwMEV0UzlpZnd3VDFyOGNCcC1SQkJOMmxPZFUzd3BONk9rc212bFgzN2h5U2R4UTZ2SFNpMVVZSlR5LWZvWEJmYw?oc=5"
-          },
-          {
-            "title": "Carpediem Healthcare enters India’s nutraceutical market with D2C launch - MediaBrief",
-            "source": "MediaBrief",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFZzRmExUHZSQ3A2Y2QxNlY3cW82YXBZR0h4ZlhIM0tQd2RnZVRNQ3F3emlOSnVqZzNYdzZPanpqZUdfdVk0V1ZIS3hMMXUyWUR1S3hLWTFHR2l3Q2pERVByQkFEUW5IbU1Xejg2eWR0b25ZN2JtTzZIenROODRLSncxLXo?oc=5"
-          },
-          {
-            "title": "From Surgery to Diagnostics: Robotics Enters New Healthcare Frontiers - The Indian Practitioner",
-            "source": "The Indian Practitioner",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWl9WbmUwMmNYc21SMkZNT3lhY2x3d2hxS2FWQjVaMEJWVG52R1NsZ1FHTE01ZUpVRkMzcl9MaE1rZG9TeG5ocURkb0Z3bGR2RGQzUGpoTzBCN25zbEx3S2RqYkxBRS1mWUNPeXpvb01MMEZlWmpvWXhiY0NUUEpyYkl6VnFzdkhpamg1cl9VVzBzUWNyUFNuaHVoM2FFVlhaekJXU29n?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "world": {
-        "summary": "Global healthcare headlines covered a range of institutional and labor issues, including the Cleveland Clinic canceling healthcare coverage for striking Lutheran Hospital workers. Regional reports also focused on maternal mental health access challenges in New York and debates in California over a proposed healthcare tax. Additionally, commentary addressed independent nurse practitioners reducing healthcare delays and the expanding role of AI stocks in the sector.",
-        "articles": [
-          {
-            "title": "Justin Leventhal: Independent NPs would cut healthcare delays (Opinion) - Charleston Gazette-Mail",
-            "source": "Charleston Gazette-Mail",
-            "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWXEwaEQzc0xMdDBOYm5yZ2hfVFZVaXpKNkwyNmJacGFmc2pUS01KNXdESjcwUXpTVE1lOUNfUWtzdm1BY2ZIdVZBYTVzLWpIWVlhUUp1YllsM2huMjVNb3VsQzJpeHZxR1l6dG5NbDBGVGI0MXdPOGdJblItN0wxcjNBbXVDcHNRZUtRelNuX3pQaHpNaDJZT2FEQ0tuVndKUGZkT0JCT3ZDV29ST3RxcWV2UWdTUEpMcFJwQ2pWMEw3b0k3YUp1OFJhUUZVNGY1cm9oRHdJQ3RPNnhTSjNZOVNiRXBsUi1kUjlBZTVjM09tSFBiX2VHVTQzTnRHRTl3WWhmWUFB?oc=5"
-          },
-          {
-            "title": "Healthcare Has Normalized The Abnormal. Raj Panjabi’s New Book Explains Why. - Forbes",
-            "source": "Forbes",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHBxdnp1RUlGM2N5SmV0eU9zYnFCVEZRWFBuV3lhXzBiRHdHZ2RfcE4xdmN3QnFMcmY4ZzVoTDhkLW9OOGV2TWdRYVBuUzVIaVZjbVZxNjlveTQxRHM1bmVweG45ZG5xT0ZTU0pobm80aHBoLXFTQzhDbDg4cjRCT2VnNGhxNkdVb1hkRDRnQjYwTEJNS1Ayb3ROQVlQOE5GVjdyUTBYa0E2czhxNDBBRXVLVmowOVEwVDg1LXREcE11RW8?oc=5"
-          },
-          {
-            "title": "Public Health Leader Connects Prevention, Service & Readiness During Madigan LPD - army.mil",
-            "source": "army.mil",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUDBoRkk3NEtydFYyNUQzQXN6QnpPQWpyZjAwaVdIZWVDN2lQMVBhX0w0YjZTbnhhWWllUnhpZlE5cExuN1U0X0lwbElodG5pMDJtSzdQX2lpVjR0bTh4bTBTTjc0blRJOGVDT2ZSUTlPZEM4OU5LODFiOEdISU4yTEtjRzFINmVrMm40Q2dsQm5XcC1XNDNpM1VXS3hTWExodFdHMVpkengwSDN4djA3SnRBVHZsMmNW0gG4AUFVX3lxTFBQMGhGSTc0S3J0VjI1RDNBc3pCek9BanJmMDBpV0hlZUM3aVAxUGFfTDRiNlNueGFZaWVSeGlmUTlwTG43VTRfSXBsSWh0bmkwMm1LN1BfaWlWNHRtOHhtMFNONzRuVEk4ZUNPZlJROU9kQzg5Tks4MWI4R0hJTjJMS2NHMUg2ZWsybjRDZ2xCbldwLVc0M2kzVVdLeFNYTGh0V0cxWmR6eDBIM3h2MDdKdEFUdmwyY1Y?oc=5"
-          },
-          {
-            "title": "George Drexel IV | VA Durham Health Care - VA.gov Home | Veterans Affairs",
-            "source": "VA.gov Home | Veterans Affairs",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oSERqNkNDMGE3aEVyOS1LcWdXLW1zMHNuNGNxZWxQR1UxbnJOdUZPRjBrTVpEYkJsNEtaeGRWOXJwVER1cW5RNWxKem5NaEdNVGhGcGh6ZnNzQU00dGVRUFB4WTRKbE81MVN4SC1sdVpDLWx2d0NKeWlB?oc=5"
-          },
-          {
-            "title": "Why some California healthcare groups oppose a tax that would send 90% of its money to healthcare - capradio.org",
-            "source": "capradio.org",
-            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaHJvR0cxWkRMYmhkNmxsV3Z4MnZ2V0EtRDNrQjQzZ2lFbDdJX3ZvcWlqbWh0NmJVMGViWVpRWmdLaHJZMk1tMU56SUVpRHlpd2FPX0NYRW4wTGx3VTk5bzd1QmtTdjNDTHlXTFNFYmkwUnpPTk5EQm1xeGptcWZKdjVRSXY3TkcwclRIbld3bHU0N1BrZVpseHROWFdmZjd0T01Yb1lkVWtveC0wcHBsTTZ4TUp5dzhqX2xJdXYzdDkzbGcweXVHazhjdVFNNTlIUFNnLWF1clEzUQ?oc=5"
-          },
-          {
-            "title": "40% of NY mothers can't access mental healthcare for themselves or their kids: Survey - WRGB",
-            "source": "WRGB",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3VHbF91S25rRlJJVWg2M3RVYm4tdEZqNkN3cEtscFVWTTJ2dUJGWDduMGZ1UVdQUGNJcER2ZkFCdlNlODdLWm5LMFotT0N1ZzJGeEo1cjdiaFp3OFNYR3RBazFLUmJwcHNjbTRlZXd1RlZwN1lkcWlXaWl4V2xrdGc2dWJreXBqeThlQ2p1VFNaZDVtbXB1emVkdUVMWWJGQWZFT1lTSGtfN0ZVeDVENkYyaElCSzVfZm9sVVFR?oc=5"
-          },
-          {
-            "title": "Cleveland Clinic cancels healthcare for striking Lutheran Hospital workers - fox8.com",
-            "source": "fox8.com",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWG1BUG5nVXVlVFhmaFBKaTZGWGVnOEZuamwwSVdyNnRPbEc4VHBfVHpkTVk4VVZaTk9fd0hON2VOMUloREI5dTVldWRKcmJJT2R1RTlEeDJ4WTNhTzh4YnlpWG1mMlhuUV9ERGl2QVhkcEFLUGZPc2JLRlRLdnhsTkxabnpHN2N4RWNpTTkzVGhmZUxrS09weXdiVWVCUdIBowFBVV95cUxQMDNEbzdLWjVTb3ZHUXpNYTVoZTVoLUF0Rm5mYm41RGhzd1FfUEtzR1lHTGc5cm4xXzhkbVhmaE1FNzlXQXh4WDZWU2R5NUFkenJMZ0NaMzZDRlFTVi1kVDhjYmxBbFR6aDVqZ3ROQUdMRWE4Z3J1Vll0bmhqalBnQW1WQnBPSUQ0UXNSRC1DeTh0N3NDQXZacnZBN2VpaDJ6NGJB?oc=5"
-          },
-          {
-            "title": "3 AI Healthcare Stocks With Earnings Growth Up To 15% - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVcwY1ktSTJ6eFpJRGdXdEplTWVoaXVRaFFWZVJpMWh6ejltSkJPMFZ2dm43VEk4X1g4VnVCWU5YanoyUTBoQld4Q1lTVzl6RUdJckZKQ3J1cFFMc3JLdWI3UWpUQnJ3Q1RfRnFiUzBWQlFEdXNWUWtzYnJ5SktGQlJiaVE2SUw0VkpvZ2ctRy0ySS1uRGhj?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       }
     },
     "Technology": {
       "city": {
-        "summary": "Recent developments in Kolkata highlight ongoing technological and infrastructural integration. The West Bengal AI Mission is progressing toward implementation, aligning with broader discussions on how artificial intelligence is reshaping the real estate and property sectors. Additionally, local medical facilities have enhanced their technological capabilities with the launch of a new Gamma Knife system.",
-        "articles": [
-          {
-            "title": "Ancelotti says Brazil 'respects' India ahead of showdown - RFI",
-            "source": "RFI",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXFlMU4tanNFRngxdmRWZlBvZEJMYUdRbXBFbGw2VmMyMkh6dDRIS1EwamZnZFc3Ml9zMHFILVBDcjUyMEdheUFGbkhlMUVKUmdXcGJTWUNNM25tdGI3SGY2Rk5WS240eFYydGFLeC00d21uRktFT1FtUFJudVllZ0Jrb2dEZWRCR0pyYzNBSTNvYzJ5Tnhv?oc=5"
-          },
-          {
-            "title": "West Bengal finance minister invites investors to Kolkata, promises reforms to unlock city’s potential | Real Estate News - Hindustan Times",
-            "source": "Hindustan Times",
-            "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUVNocGJKZ0F2Q3JjNlN0ZkdrZ1dqak9qd3dpNHB4TGlKczdhTmMyUmNoZkRmWVpVeWhwNHZSTGs5YURad2VSWHU4Nl9wcTZhdlYyaDMtSjB6Zy1vbDROcVRXdWhueHV0VTF3WkJVcWNRT1hfcDZZWHhNMnlGYTBQOVVSQ2lpM2hMQVExS24wOEFpQURrQzVsYm0zUzJOaVp2S3gzZEQ1MXpDd1E3eWp1SzZBcEllQllqWWZQMkhRVS1BbTF1bktjMkZvUWZrQmE1LUJaOGhveFQ1NThuRnFDWXpnWmFzeWZGeGJ5akZlRzhIYlRQbGZ2TkUwNzcyZ9IB_gFBVV95cUxNUVNocGJKZ0F2Q3JjNlN0ZkdrZ1dqak9qd3dpNHB4TGlKczdhTmMyUmNoZkRmWVpVeWhwNHZSTGs5YURad2VSWHU4Nl9wcTZhdlYyaDMtSjB6Zy1vbDROcVRXdWhueHV0VTF3WkJVcWNRT1hfcDZZWHhNMnlGYTBQOVVSQ2lpM2hMQVExS24wOEFpQURrQzVsYm0zUzJOaVp2S3gzZEQ1MXpDd1E3eWp1SzZBcEllQllqWWZQMkhRVS1BbTF1bktjMkZvUWZrQmE1LUJaOGhveFQ1NThuRnFDWXpnWmFzeWZGeGJ5akZlRzhIYlRQbGZ2TkUwNzcyZw?oc=5"
-          },
-          {
-            "title": "West Bengal AI Mission Moves Towards Implementation - urbanacres.in",
-            "source": "urbanacres.in",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmNkbnRrblN2d1FyYWUyUXRLbkJ0SzRscy1UZkx0RWFDRlBYdGthZmdNV09HSEl4Q3hlbHZYSnhOVTRfRFlQanVpa0R2b1FOWE5WUkJoOEc4WUNnM1Ixdy1lMEtaNnJ4b2x1Vmo1MFpjWm9IWDVZYWxkYWFwX3Rrd1JtTjhyZHZtS3ZLLVgxaw?oc=5"
-          },
-          {
-            "title": "India’s real estate market eyes $1 trillion milestone by 2030 as AI reshapes the sector - The Financial World",
-            "source": "The Financial World",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenJiV0RQdTBXN1BFOXVSTVZXYTMySFdaV0RLUm1XZjllZ3pldFdxTDFWNTE2ZTZNUmdPdFFYVGpLMzF6YXZrVHM2VF9WVGwtRGwzajJVQTJ6OEZ4X042eno2OUR5MTh6b1hQZVdhV2tGTk5Xc1Jzd3oxSDBDVXRKaXI2OG4zMmN3VFg0LWFteUdLdUdQbEFVdC11OHd6QlY5YzRKdzRteGpLWHFEVkt0TjQwSlJCR0NIT3pPYw?oc=5"
-          },
-          {
-            "title": "UIDAI honours crime branch’s Aadhaar initiatives - Ahmedabad Mirror",
-            "source": "Ahmedabad Mirror",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQzhjRURKZ3ZvTDBaX3dES29Sa2dNVFpvaHhUY3RlQS1ab3BNT2Z0NThqcm9wWV9EaGZ6NWlZSHpHRGRjTGhhdWstVnptSnN6Z0UyN29Xak9UZjRyVzM1WTZqZXZxSFpoSVlBaW1nN0pqdEVxbDhzbEE0WEpyb3hNRjhlSDAyVTNZcjVJUURKU0NOY3JyQ2VZNQ?oc=5"
-          },
-          {
-            "title": "Infrastructure must precede real estate development in Indian cities: CREDAI - ET Realty",
-            "source": "ET Realty",
-            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMGZiSUJ4Tkh6NC1WcUNCOHpkeThmQ3VsZ0tzcy1DOE9VaF9xbmVLMElzOWh0UjdKQmowN0RxTE5xcWtIelZkRjRNQUtVVk5ieTUtNFNHeUJ3T01RZzlDUk8wdHVNbC1uNnJlVGJLbEdPNmk2dHA5ZTRwTUs2Z19MWGJQTXljUUxya1lpeTdZcVQ3S0hCTTNwZHZuMjhHaEM1SzNPS21aUFdLeHlQMFoxd0pvTTJzMkh3ejVBTTlLMkRNVzJKRXhGU2pBOHB2TUJBaU93Vi1QRzE4WkJDYkhvcdIB4AFBVV95cUxQMGZiSUJ4Tkh6NC1WcUNCOHpkeThmQ3VsZ0tzcy1DOE9VaF9xbmVLMElzOWh0UjdKQmowN0RxTE5xcWtIelZkRjRNQUtVVk5ieTUtNFNHeUJ3T01RZzlDUk8wdHVNbC1uNnJlVGJLbEdPNmk2dHA5ZTRwTUs2Z19MWGJQTXljUUxya1lpeTdZcVQ3S0hCTTNwZHZuMjhHaEM1SzNPS21aUFdLeHlQMFoxd0pvTTJzMkh3ejVBTTlLMkRNVzJKRXhGU2pBOHB2TUJBaU93Vi1QRzE4WkJDYkhvcQ?oc=5"
-          },
-          {
-            "title": "38th Foundation Day of NIELIT Imphal 20261003 - e-pao.net",
-            "source": "e-pao.net",
-            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZzZCb05lR3hZclU3N2dSWmZuWDFCa2tvVVlBX2FENUxDREhuWUhiNFRkYWxYbjFSWkZVUXVLZWdfUk1fbUcyTkI2ZzJjSlBSSHd6YXJHV2FUTXdhcGxpd2ZZTWFWazgwRWhFU1l5WjBuVDNlZl9IdXRYWW5fZGdlcmJoMXBRUlJZMi1GZ3dZeV93RUZRakJGaUZDdlB0OFpubDhuamZ5MzFwLVJPSzVCXzQyTTFtUm1kVE5TZFRsMEc4dXUxS2pRUTRIVGluaHFoOTZuRDg5U0ZJaU9ienZ3MERPMA?oc=5"
-          },
-          {
-            "title": "BJP state chief launches Gamma Knife at I-NK - MillenniumPost",
-            "source": "MillenniumPost",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXVsWHhiV3Jvc3dzRnNNc3JGNzcyY0NEOTVKOFEtRXN2MW5nb1lOZ0NXbjhBSWs0ZWdKVFB1d0lZV2t0OTk4aGNQWGRjUlNqVGJJZkRFNFdzZ05ocjVIeEhKQlhEdjVWRGp6UTFqUjB4cF9MX0trdnBQRGo5NnFBZXF4cHV6LUZVQk5zSHhqZWVXbTVNTVpr0gGXAUFVX3lxTE1ldWxYeGJXcm9zd3NGc01zckY3NzJjQ0Q5NUo4US1Fc3YxbmdvWU5nQ1duOEFJazRlZ0pUUHV3SVlXa3Q5OThoY1BYZGNSU2pUYklmREU0V3NnTmhyNUh4SEpCWER2NVZEanpRMWpSMHhwX0xfS2t2cFBEajk2cUFlcXhwdXotRlVCTnNIeGplZVdtNU1NWms?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "state": {
-        "summary": "Across West Bengal, technology initiatives are advancing alongside economic policy discussions. The West Bengal AI Mission is moving forward with implementation steps to support regional development. Meanwhile, state officials and defense sector leaders have emphasized the growing role of advanced technology and digital integration in regional industry and research.",
-        "articles": [
-          {
-            "title": "‘Volume, scale and speed’: CDS General Subramani sets technology challenge for defence industry - ET Government",
-            "source": "ET Government",
-            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQS1ZLM1JSVm0zVm9NVmVVTjZiLVFqWmlsQWJpMURuWk1OTHRRd3hBS0RrVjkydjBDZ29YUURlazZWQmQ0M1h3V2FCOHR5M3ppZEZWWHgtSjRMVm9MM1lEbXRzOHRHQzdqbkFXejlJNlhibDExV2Rhc3RnRVc2ZzctWnNFcTVwTWcxeUNhYVdnQVB5ei1wZGVJRzBiSHZZVlBlOU8wdVNjd2MzTEtKN1VUNXhVS3pTMDVxSHI0VFlGRnhHM0FVelFReWZnUW9aUGpVal9rWTgtYnBMcDNySV83dU9VU2hwLTA3YXVYX3hPTG42b2FzY0ZVanhR0gH6AUFVX3lxTFBLVkszUlJWbTNWb01WZVVONmItUWpaaWxBYmkxRG5aTU5MdFF3eEFLRGtWOTJ2MENnb1hRRGVrNlZCZDQzWHdXYUI4dHkzemlkRlZYeC1KNExWb0wzWURtdHM4dEdDN2puQVd6OUk2WGJsMTFXZGFzdGdFVzZnNy1ac0VxNXBNZzF5Q2FhV2dBUHl6LXBkZUlHMGJIdllWUGU5TzB1U2N3YzNMS0o3VVQ1eFVLelMwNXFIcjRUWUZGeEczQVV6UVF5ZmdRb1pQalVqX2tZOC1icExwM3JJXzd1T1VTaHAtMDdhdVhfeE9MbjZvYXNjRlVqeFE?oc=5"
-          },
-          {
-            "title": "West Bengal AI Mission Moves Towards Implementation - urbanacres.in",
-            "source": "urbanacres.in",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmNkbnRrblN2d1FyYWUyUXRLbkJ0SzRscy1UZkx0RWFDRlBYdGthZmdNV09HSEl4Q3hlbHZYSnhOVTRfRFlQanVpa0R2b1FOWE5WUkJoOEc4WUNnM1Ixdy1lMEtaNnJ4b2x1Vmo1MFpjWm9IWDVZYWxkYWFwX3Rrd1JtTjhyZHZtS3ZLLVgxaw?oc=5"
-          },
-          {
-            "title": "Leap in oral cancer therapy research: NIT-R, IISER Berhampur develop cotarnine derivative - Telegraph India",
-            "source": "Telegraph India",
-            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLTJrSXVZOG9GWnFSSzhLT1RzVENTalRCNWt5WkxIZzQ1T2VBdS1fTW5jN0lEY19Id3ZDWWF2NENLd3o4eFphMENFbWJtNDQyVTlMU1NZY1pPRFBwUFM0dDRzN3duUWY1SVN4V1dvc09kc0FiOThCQ1BWYURjQlRBOE05S05pTWZETWNDZjNoeDZuSWY0alBsZm1BTGRwUmR3ZUY5Z0FhTkhRdGx6aVdoQi1mMTJBU0ZJSWZfMDdJeDUxT3dtZ0lJNzVIa3dhZjBPaWRxenc5cGxDQWpJcEHSAd4BQVVfeXFMUC0ya0l1WThvRlpxUks4S09Uc1RDU2pUQjVreVpMSGc0NU9lQXUtX01uYzdJRGNfSHd2Q1lhdjRDS3d6OHhaYTBDRW1ibTQ0MlU5TFNTWWNaT0RQcFBTNHQ0czd3blFmNUlTeFdXb3NPZHNBYjk4QkNQVmFEY0JUQThNOUtOaU1mRE1jQ2YzaHg2bklmNGpQbGZtQUxkcFJkd2VGOWdBYU5IUXRsemlXaEItZjEyQVNGSUlmXzA3SXg1MU93bWdJSTc1SGt3YWYwT2lkcXp3OXBsQ0FqSXBB?oc=5"
-          },
-          {
-            "title": "Confusion over status of 2.2mn West Bengal voters in Election Commission's special drive | India News - Hindustan Times",
-            "source": "Hindustan Times",
-            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR0o2d0xuLVpzWHJfUFdkdHI1dTBzeDVzNGJrXzRGYWxoOHk2SWtkTmRCU1dVQjNZeE11MkNpZmR3RGNoN05wWGxzcWdVU0lsa285ZFh4NmVsLWJORjc4WFpvVTNGSFdRcVNacEItRFpZa2Y1MGE3RDFUQVA1Ym1qTnAzWUx4aVoyYVZXaldTcTVjMDN0SldNUGRGdVlZUlZTWTc2dkhkR2FNNlBaUkcyNGJ2bFpHb3U0amVpbGNBd08xVThUM3Jza2ZPQV9lYk9QWnlQLWRMSk9JeWxVNGl1UlhfSGFwNjlJVzBtNXlR0gHuAUFVX3lxTFBHSjZ3TG4tWnNYcl9QV2R0cjV1MHN4NXM0YmtfNEZhbGg4eTZJa2ROZEJTV1VCM1l4TXUyQ2lmZHdEY2g3TnBYbHNxZ1VTSWxrbzlkWHg2ZWwtYk5GNzhYWm9VM0ZIV1FxU1pwQi1EWllrZjUwYTdEMVRBUDVibWpOcDNZTHhpWjJhVldqV1NxNWMwM3RKV01QZEZ1WVlSVlNZNzZ2SGRHYU02UFpSRzI0YnZsWkdvdTRqZWlsY0F3TzFVOFQzcnNrZk9BX2ViT1BaeVAtZExKT0l5bFU0aXVSWF9IYXA2OUlXMG01eVE?oc=5"
-          },
-          {
-            "title": "West Bengal FM Swapan Dasgupta calls for scrapping Urban Land Ceiling Act - Business Standard",
-            "source": "Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaGlLeEhEdmJZLXhGbi1vdWRrazRrdk1ubEZkRlJLc1IyeGozX2Q2QTZYaEF1a1lTSTFHdWpZNU5SWVdSTkxmV1UxNllXOUk3cE85enN1c0NMekdrbU90a01WMndRZVowWE9mdUZQcDE4RXZFSDlOcWV5Z0hhZVRLcmFKcFRSSURqendCem1XU296bDVmd0RGMzhUTHBrNlNSRzhqMzAzWW5KM0NSLW9CUlozVklZQTduYXhjZ3ktclk3aHRSRmNGVzdHckVHSVd2SXJuZTlfTdIB1wFBVV95cUxOaGlLeEhEdmJZLXhGbi1vdWRrazRrdk1ubEZkRlJLc1IyeGozX2Q2QTZYaEF1a1lTSTFHdWpZNU5SWVdSTkxmV1UxNllXOUk3cE85enN1c0NMekdrbU90a01WMndRZVowWE9mdUZQcDE4RXZFSDlOcWV5Z0hhZVRLcmFKcFRSSURqendCem1XU296bDVmd0RGMzhUTHBrNlNSRzhqMzAzWW5KM0NSLW9CUlozVklZQTduYXhjZ3ktclk3aHRSRmNGVzdHckVHSVd2SXJuZTlfTQ?oc=5"
-          },
-          {
-            "title": "West Bengal FM says urban land ceiling law \"has to go\", seeks organised realty push - ANI News",
-            "source": "ANI News",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMHRjc0dQLXNCVXQ2blFwUmJPMjJqUWJTNmw4OGx0eHdMb09IeTdQaVp4c0tEUVNNSFp1VUJ2OVBlbEVqYnNweHI4OGRRSEdESTdwOTBBWlRPLXh3Y2QySC1VMkgxRFNUMGIzZGsySlV0Z3pFeldJRW1mazFONmd6RlRmX2w2YmZSaXczQlJoR0prNnFYUm5ScFE0TXhxREg2eTdqNG13U0szQWw3T3l4MnB4Mnk0QUZEMkV5M2VjSTBaUzliUDlRMWpVMA?oc=5"
-          },
-          {
-            "title": "BJP state chief launches Gamma Knife at I-NK - MillenniumPost",
-            "source": "MillenniumPost",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXVsWHhiV3Jvc3dzRnNNc3JGNzcyY0NEOTVKOFEtRXN2MW5nb1lOZ0NXbjhBSWs0ZWdKVFB1d0lZV2t0OTk4aGNQWGRjUlNqVGJJZkRFNFdzZ05ocjVIeEhKQlhEdjVWRGp6UTFqUjB4cF9MX0trdnBQRGo5NnFBZXF4cHV6LUZVQk5zSHhqZWVXbTVNTVpr0gGXAUFVX3lxTE1ldWxYeGJXcm9zd3NGc01zckY3NzJjQ0Q5NUo4US1Fc3YxbmdvWU5nQ1duOEFJazRlZ0pUUHV3SVlXa3Q5OThoY1BYZGNSU2pUYklmREU0V3NnTmhyNUh4SEpCWER2NVZEanpRMWpSMHhwX0xfS2t2cFBEajk2cUFlcXhwdXotRlVCTnNIeGplZVdtNU1NWms?oc=5"
-          },
-          {
-            "title": "Bengal to remove Urban Land Ceiling Act to unlock land for development: FM Swapan Dasgupta - Moneycontrol.com",
-            "source": "Moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT0RLZGpoVmY4TlY3alJ5dmtqNV9zQm12dTdoUUk2M1NfaTJFZHllTFR0ZHVEZk5rX0wxcjE3TFlNRWhKbmw1NDlfNkp0a0NvRS1aM2xjbEczM0tabXVGLUlmTTFXbFI4NDZhT3lVa3BUTV9iUWdtSnkwcG5ZV0E3eU15dTlUN1lITVI3N2tWWmxsWl9iMHRDdEtwTmxFNXFhTmNCMHJIWTh0anJfVnR5NElUazA3dDYtN0lnalpGQmpxd0k5NW1mcWdqamlmVW9kOXdSSTJGeW9MSjdzOW5OVUNjN3ZKYVZfOERqMFVtUdIB9AFBVV95cUxQcjZ6TllEYzJiSGpPOVItZU5hcTB4VmZIcFg5OHBLUEN2LWp0WW9zVnRBNHBBSjF3LWhyXzVZbFFuQ3F2ZURra0pCSjBXV0xPSnkzd09YcDAxYnBtMUtfZUZTbTdsSnlqMnQ4WE1QaGQxTlFpNXNGeHA2N09LSUlnZEJrQnN1NFREazJtekJ2cjl6anhzX0lxSjJFX2hCVHdCTUU3MGJIQ293OHNlMHMyYXkyS05JVWE2SVZoaUV5MWZtek5YSUs4c2xkc3I3aENkeEFVVlFvaDdUUWVNczZNdThocnhiMDk3a2o4ZHlqSVd6N2Rh?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "country": {
-        "summary": "India's technology sector saw significant advancements in semiconductor manufacturing and artificial intelligence. Prime Minister Narendra Modi inaugurated Micron Technology's new semiconductor plant in Sanand, Gujarat, marking a major milestone for domestic hardware production. Concurrently, innovators rolled out AI-driven agricultural solutions, while defense and geopolitical ties were bolstered through high-level international visits focusing on maritime security and technology.",
-        "articles": [
-          {
-            "title": "US military commander arrives in India to bolster defence ties; focus on technology, maritime security - The Tribune",
-            "source": "The Tribune",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdGhTTDMwRGJhYU42S0M5STMtYUI4XzVVUkliQllSUXl1NVdEcFktb2prY0pjNjlFQ3oyRU1nRlBsbFp6VlJoSWtSbDR3dTIwWHFyNDFUcWZZcmIwTzNReUcxanJnYTMzZVBCZ3lqS1hkcjBadWNUc1kyR3NQR3psVWd6a1BWRVJPOE1CelBodTd5SWdrRmxMM1QxeHZ6a3ZsdEN2ZW5zdGg3ZEI1TDVjVXZKV0I5a0QzVkdvZDBVdEpZZ1ZXclZEY1B0cXF0LVR2Tm8xS2ZIOF_SAdwBQVVfeXFMTnFqVXg3aF9oVmhrd19BUUZENW9nUGR5aUZJYktNd0F0eTVpaUtLYm8tZHg4WVd6OU5fZ3RKQWFpOVNzc3BzYU9pcTlNclF2UElIbjZPeWREUWdNanBCeXc1eWVfM2FkN29fcXo3cHlTM0VZZXJ2Umw0VEhneFREaFN3UDZZVlpmZzVFWlY2QVdUaVlYaXlGLWNjd25abUNWRlhfWHRRaDV3ai1tWVdLbU5TQUQ4anpSWXExcXFJSmpMcHgyTHc0V1RkOHpUNHVLMWU2Nk84UmkzYU5teA?oc=5"
-          },
-          {
-            "title": "34 years of entertaining India - and the journey is only getting started. Yours Truly, ‘Z'. #34YearsOfZ #YoursTrulyZ #AttentionEconomy #Content #Technology - facebook.com",
-            "source": "facebook.com",
-            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc2JiTE91eEU3MVNfRWNEVTh4aS1hTklSZ2Fzamcta240akY5Q2xPUUgzZEtuUlhYbkpZSFJiTkRkbmRGQ2NEVVBHX2tFdGlKSW5TcjBEYmJJckxTbGxGR3lBZTdQWWQxcEZkQmxadmc1T3NCZXRvTDBRN3NYVXBpR19hQ3RrZk9pSkJXZ3Y3amJjbS0tZE1QT1M4WTN2ZFk5c1ZRRjUxajUtMGU4VHFaR09UdlJTeGlpVndteXJrNDVDd2dQcDB0WFJoNlozSW1JS3BqWVFFS2E2UGd4?oc=5"
-          },
-          {
-            "title": "Chinese government to families of CEOs, CTOs and other top executives working in AI companies: You need p - The Times of India",
-            "source": "The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQbjRXbjZ0Y1Zmd1JJaFo5V2tMaVpVOVMzNjhSX2RPSmNxdndVdnJ6cG9laWRMbmU0OFBGZkRsT2N0TVBRWWhnYng4Vl9NanZWeEdxRmwxQktsQnNsZEJ1V2doY0tiTnB6WDNULUxvSEZxU1VEYTctQ08zVk41YWNhakRsdmZtbXFnQUFjQnhjRHpzbFUydF9fUTJnOFUyYXNHRDJvRGpQbDhVUzJ2d29LTjRpcTNybzczMUQyRXRXcmV5WF83S1BCQnVKNC1JZXV1SlhnanJKSUJYaEhnMzdXclB3Qng2RXhtX3FJVFRHSVRQV0hYSWJDUWlZS3hmdHpoRElCaHhwTVd2UGlTcFROYkJVNnlEc3YzTEZDVHFfcWpZZ3pGQ0RDUHFfS1FzeDNjS0dv0gG4AkFVX3lxTFAxdzJaeE9adzZNSUdiSWp0ZUpiaTluRHNzdjluZXBobTZPcDVtbjd4SncxR0NUR2xHZW52T01WN3BnVGhZUlZTTWhRTTVVbk1vNUVlTlp3bldiQ2lUamIzaDBfUmkybV9QQkRZbUpycTJLM0RJeTdqS2hNSGlnWFUzeFA5OGpHWnhXT1dhdEpwR0JGYUNNbk96X2hEcUlidGp0OVY3dzV4S3YyQ1R4VDV3bWI3eUVGbzU1YndQNGxFa0FZdnk5Y0NMOG5NT0VhQUVvZV9zY3hWY0p1SVRHZVBMcW1SYkF4MlA3TzQtVmNUOXZ4Ym9zUkpyU2xidWVqNWw0clVOYzFSVXVLSmgyNnhvR2VEYy1nZ0ZMSk1GV1Z0TXRodzgybnFmTmZYNFJjWkNHM3k0R095Yw?oc=5"
-          },
-          {
-            "title": "Indian innovators unveil AI-driven agricultural solutions and precision dehydrators - TV BRICS",
-            "source": "TV BRICS",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3cxWkJIZkoyZGowUkVNcV9UVXdVaW5UbHNoRmw4NmktNFBlTnRteU9zWE9PenoxUkdhZktVME9vQjdlSGZkNVkyOS1IV2hkc3lzOFdZblRFWDU5SUpKM3hkUzd5eDJFUWdxY2ZKSFpaU0JQUmQ4TW5RWTV0eGZBTGt2Mm5BN1NVOTRBdEh6OU5OeFJpMjVPYUZSSnloeFJReHlmd2JUYkluVkllX0VDLUFn?oc=5"
-          },
-          {
-            "title": "PM Modi inaugurates Micron Technology’s Semiconductor plant at Sanand in Gujarat - News On AIR",
-            "source": "News On AIR",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWVjSlFkVko4c2Ytd0V1cXZtN0kzbWxXNktTYTZEV2RTTUpNWmtiMXVNT3lwUVcyWGZaaUk5M001SjdMOU1aV185VWl6TVQtOWdsaWdXNngxcmg1TkppV2JIQ3lDOHJBWHJYZ3J4MWZWTTR2OWo1aHZ3ZEd2dVR4c2pYSkgwbVZJNUd3ejB4bkpHYzktYVNBT0Z0NldfZmxFUkQ1dmpUOTBUb083V2h3Q0NKeFhnT2RlZUpLREdzQQ?oc=5"
-          },
-          {
-            "title": "From traditional farming to smart agriculture: How AI & technology can transform India’s farmers - thehindubusinessline.com",
-            "source": "thehindubusinessline.com",
-            "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTjl1czNmQks3RVJJLW8wellTNnhaSzAzWF9adzlHWHJKU0R5QWFyd2dyS3Y0dXlxank2MHJ2SFUyM2d5bTg2Ykp3RWx2cEc0YXEtTWcyb00xZ1ZjcV9RQmlYN01rZmFGTEV6LVNaendjM3RVRzVtTXZMajl3R09rMFY4TURyQm55am9QRFQweElxTEt6X0xjRTRnU2kwT0Q5MUFDODNSUjJPNGFtbmc5TWc1ZlRaRlE0bHVqWGY5S2tEbFo2VWRCdlZnUVZzT0JVRUE0cFJIZk0tT0hOS1NnRkdGUzU1ZXZzckZZWGV0dVBpcFlVZkR6TkFxa2dyU2Ew0gGHAkFVX3lxTFAtaEdJSTdxa3l5S3ZDR0p3TVFKc3kzY3l4Y0g4d1Q2Ui1fVW1yY1pOdHlmWWptdmdpMUR6WVhIaXpoMkR6OWRRZ01TSk8zOWtqTnhSbUo5WHk5eWh5b21mX0FPamZreEI2Zm9LYkdjNzlMUEhnbUw1RTVGT19FcUhMN1dwbGpDbVhCY1BCc0JJMGZmOWNwOXpLMmJLT3dVUERmWWdRdDA1Rld2SnZjaDc0cUFvdVRnd3JMTUR0c3JjTFVvaDlkM1ZhaEFQRFZWVVJSQ3JMVDNvZTBZN29kOTdLR2RGS1NQSFFiSzVOdzR3cHotQmdManpQMGQzTFlOQkJLbW54MTE0?oc=5"
-          },
-          {
-            "title": "Assessing India’s Military Quantum Mission Policy Framework – A Review - India's World",
-            "source": "India's World",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmcwS29vaE9KLTlLd3N5d3FVU0Q4VHRJOXp2RFNybUY2Q0YtVE5MNnRXVU1HbWY2UFZjX3dQQ3FWSWEtaXROZTlMcDZIQnlfZ2FfREc5bk93R1NpaWlYVWhPYmRoblBZUFpJR21uSERKWmlmWDlDNHA5dmJKbS1QbUlqSjdCLW1lcFFiNjNoQmp3YWFqTUE?oc=5"
-          },
-          {
-            "title": "India’s resilience lies in adapting to geopolitical, trade, and technology shifts: VP Radhakrishnan - ANI News",
-            "source": "ANI News",
-            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPazZsYk9BWXZsMHJ1aTNhTmhjcF9IaHduSW1tZzRUTzRZMHVzQ2Ywbkl4UzYtSW9EM0lmU1JWV2JDajdqQXJhelNjeVlPdjJkZkNhUnhGWVR5TnVoZmlUYUV2V2ZvekkwQVRnSE0zbWJCX21PQkZzYzVZLUk2cG03dkJGbWdDRVlFTERBbGE1YnRrVWpMSkxBVkpfS2VjZnpnU1NZYjN2UGw3X3VMSWpKb05Bdk96ZF9JcThnRzRUUVJWOTdTT2dDck5rVTFhRGVKS2tpQUZMOFpER0g3QXhXTzVqRjE?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "world": {
-        "summary": "Global technology discussions over the past 24 hours focused heavily on infrastructure, geopolitical decoupling, and local innovation. Efforts to reduce reliance on Chinese technology remain a central theme in national economic strategies. Meanwhile, educational developments saw the groundbreaking of the STEM-focused Bentonville Institute of Technology, and local municipalities continued to test AI applications for public tracking and infrastructure management.",
-        "articles": [
-          {
-            "title": "Ground broken on STEM-focused university dubbed Bentonville Institute of Technology - Northwest Arkansas Democrat-Gazette",
-            "source": "Northwest Arkansas Democrat-Gazette",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUVVfWkgxbkRsUWJNVkd0dml4ZjlKbjZ2RmtLNWZGUjdiU0h4dlk2YjVFMjItZFdia3A0NVN6Ym5ZWERtVUVIT0YzbVo0b0VlaXN2UFR2WXJycHE0VkVrOU5xbjZFbGZXQ255ZC01Q3dEYzlIRGVkemVrM3J2b2RjUFZjYnFsWXZ2V3pwbkpoaG1VNEVCakE?oc=5"
-          },
-          {
-            "title": "America wants to wean itself off Chinese technology. Will the pain pay off? - CNN",
-            "source": "CNN",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FdC1PMHlQaVA5ckY2UkNyWVVEREt2X0FTMHhfdUM5WEdxZ0RWbFlYeWZYNy1uY2xyRzE2NEJud1lNaHNCQW1LUkJVWVZzZFhOekh4aHVDamwtMGdGR2c0SDF0Q3AybnUxZS1adHppdE9kOVJ5SWJEdGVHOA?oc=5"
-          },
-          {
-            "title": "How technology is reshaping violence — and what can be done about it - WashU",
-            "source": "WashU",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkktcnhPVXdtdjZOd3JsdTRKUFpuSlk2bVViM1Y2MF9uZUd0YVRtWEZFT1BQbU9zckMtem5oVjgxZk55Tk5pLTJJRVBLYVlOczdhLUZ2eURaNFdpdHFFMjhqOWhHMjVZNkU5alBoZVQtbzg0Y1JHZGpYNC1iMEpTVERDVEIyWTJHb0F5OGxrenZ5U21xYUw1WnFMZXExUS14NUE?oc=5"
-          },
-          {
-            "title": "Technology, bumping grades among school board candidate priorities - Jackson Hole News&Guide",
-            "source": "Jackson Hole News&Guide",
-            "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbnRoRnVKQmEzSjNuOG94eHppUS1CNzd6UHE3eE05VHA1V05DVHhub3UxMEltdTdpOTdtb053c3BCMGZINXhLN2FKNDB5dU1sNG1lam9tWFVBSmRwamd3REUwSll4RXVKUEhYUkd3bVRXSzBCYmNURU8tbTF0QUdzOVBscFJRNmd3SmxiOFlEc3pFNFlVYk05RG9tcjd1YS1acXQ2UzZMNjhsMFp3YzgycE9RRndZMVhINHh4SlJLeThOdDF4T1pEaEwxT09vRUl4NXotdUNJYzhHQlFWUmFYTno4Vk1tZ3F2TnFDVHNYWHZEeHEyNm5WLWRnQXJWZw?oc=5"
-          },
-          {
-            "title": "Longboat Key tests AI technology to track foot traffic - ABC7 WWSB",
-            "source": "ABC7 WWSB",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPanVKdFpaZm5YLTMzeW5SMTNsUmtHeTczNjRQd2tGMkVEV29FZjhoZVVWOEd5ZDhTWlZCcEZtSlR5bjJMWEJMd3lseVlnUHdoNG1JbXlTQmJhaGU4NDBQRkgtd0lpc3dGNDZXVU9TVl95VE8tTmh5M3lJbUhSN3E3ckNhNUNncS1XWTc0ZDJIZm0zc0810gGoAUFVX3lxTFA0c3R0c25pdnNfZlZMbFFaVnYzMmc1QjNFMEl2djFvYmd0UHFBdm9CTmg0RVlRUkNkWUxLanlNdjVXRmJDR19jWDJ0WHNId2E5MlpPOEMxLUZHMmY3Z0pWSjN1cXcyZ0VESEZFLTlacWNFMlRTLVB3X0V3dEhTRGYwUENnQm5OUS15V0U0ZDU1MGdGVVNDZWVKNXZYM2N6Sy1kV3RvZEpzOA?oc=5"
-          },
-          {
-            "title": "Walton family breaks ground on Bentonville Institute of Technology - Talk Business & Politics",
-            "source": "Talk Business & Politics",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQME1IdDZRM29idkduamswWVZlVDh1T003d1RjcUlNZmdaR3FKOTF2WWdHcDNFYllhVHE2RGlMSXJXUm95eGVjTDFDZ1ZkaUkwTnFWUmNKY1FyNFBjN0pFb19USWd4RGZLR2hYVHRkMWl3N2pOYmx4TjFpQ2kwQzZYR0ctbjd6VlJYbmFPd3Q3Rl85QlI5Vlg3clhHc0NSczE4dlE?oc=5"
-          },
-          {
-            "title": "Bryan Johnson: Adapting to technology and modernizing campuses - Mountain View Voice",
-            "source": "Mountain View Voice",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNmdTcF9SdWtoSHVMZ0RpTzAzWVVPR3lOam9yeDhKbElTcE1wNFpldE5LTVNNa251cmRPZ1RkMW9aQ29oU0g2YVFqdnRZazFHbW8zNWlCTWtPTFlWUFQxczRhbjNOWEJ1dXh3a004NElBWWNZNGd0bXpIN2lQX2swUlRlOWxkaV9HRkV1dDg2UTFBRmI5aFl4Wi1NdEFuNmFTSDlkLVAwN0M4Y0E?oc=5"
-          },
-          {
-            "title": "Industrial real estate firm Meritex acquires 121 Technology Park in Allen, plans 2027 expansion - communityimpact.com",
-            "source": "communityimpact.com",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONTk1SVE0MEstYUpON2VvUFlHY3BMeTV1YTllVTFRUzZodTRxLVd6SXV0cEE3OHFiU29wQTZvQ2JKczJRaFZZanBycVZzY0g3LVl4MG9uN1RLRzdKajJFOF9nVEhLU1BGZnY3NG9ydC1MTnN5TWEtandNOUZGOG04Z3daMjZUNkR4enBTVGtMdW5FUzdTdWd3Nlh6NWVVak0zbFZheERlaWJKcDl3di1qMjVVSHRqRHFVNGxWbGk4R3VOZ1BkVnIzRFpnVUZKT3RvRGZEOQ?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       }
     },
     "Technology or Healthcare Conferences/ Summits": {
       "city": {
-        "summary": "No headlines were found regarding technology or healthcare conferences for Kolkata in the last 24 hours.",
+        "summary": "No notable stories turned up for this topic and region in the last day.",
         "articles": []
       },
       "state": {
-        "summary": "State-level coverage contained no direct West Bengal-specific updates on healthcare or technology summits, as available reports focused instead on international health leader gatherings and public health reviews in the national capital.",
-        "articles": [
-          {
-            "title": "Global Health Leaders to Convene at Abu Dhabi F… | UNI India - uniindia.com",
-            "source": "uniindia.com",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlNzb2FZb3BGaE00YW45dW9PVmRJaS1JVGpsN3hMZTZCektDYm9wVmx1RDd0Q3VSckdyeC1zYi13dUctbm1ZMF92dHdKSDRHN3h6dEZ4bUtzWVpYN2ItTkRXMzRmYi1QWXFiaFNMenMxQnFVWnpZWS1FYTFnakkxQ1VRWDQyaTI3dko0cTlpUkhwZWdBS3FEdW1DWEZCNlZodndMc3hyU0dyb2FRMV92NExtdy1VMlBVd0d6cHZ5cnB6eWpXY3VFWGpB?oc=5"
-          },
-          {
-            "title": "Delhi Health Minister reviews public health programmes, directs officials to fix gaps - ET Government",
-            "source": "ET Government",
-            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ05iY2JWdzlrTWlSU3Y5aHpjQ3B1ZnR5eU9SajV1aGxGRVRQWkdOUGk5eVlnb0t6OUNSTWxMVm5mbmk4N0FkSGpGaEp5X1V4di01MEhqdW16NEt2X2NrTU0wTFJQcnFzQm9MWUlFZjN1S1VLdjkyTE5jQlpmQmZCSlhXdGM5Nlo1RHhReVRsMG84Ynptb1dkTWhBakdOb0RfY0dfcE9PaGVuSHdvTF9ua1lqaGVqaWt4MFNiR2F0STdYcHNmbzJqR2lLVDcyUDNtLU91eEZWLWRsaDMzNDhtMFN2SWt6czN6ZjYycm51YzBtWkVJ0gH0AUFVX3lxTE9DTmJjYlZ3OWtNaVJTdjloemNDcHVmdHl5T1JqNXVobEZFVFBaR05QaTl5WWdvS3o5Q1JNbExWbmZuaTg3QWRIakZoSnlfVXh2LTUwSGp1bXo0S3ZfY2tNTTBMUlBycXNCb0xZSUVmM3VLVUt2OTJMTmNCWmZCZkJKWFd0Yzk2WjVEeFF5VGwwbzhiem1vV2RNaEFqR05vRF9jR19wT09oZW5Id29MX25rWWpoZWppa3gwU2JHYXRJN1hwc2ZvMmpHaUtUNzJQM20tT3V4RlYtZGxoMzM0OG0wU3ZJa3pzM3pmNjJybnVjMG1aRUk?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "country": {
-        "summary": "No headlines specifically relevant to national-level technology or healthcare conferences in India were found for the past 24 hours.",
+        "summary": "No notable stories turned up for this topic and region in the last day.",
         "articles": []
       },
       "world": {
-        "summary": "Global developments over the past 24 hours featured preparations and announcements for upcoming healthcare and technology summits worldwide. Notable events include the upcoming Abu Dhabi Future Health Summit 2026, corporate participation plans by biotherapeutic and health-tech firms in financial and industry conferences, and the expansion of MWC27 Barcelona to include specialized automotive and health zones. Additionally, discussions at events like the Open Health and Wellness Summit emphasized longevity and lifestyle trends.",
-        "articles": [
-          {
-            "title": "Futurist Speaker for Hire: #1 Keynote Events Scott Steinberg - futuristsspeakers.com",
-            "source": "futuristsspeakers.com",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0VWRF9HU2d2RC1ZVVlzZkZMQTUxdTZNWHFobkVzNFZoRzVHd0lVNGlNa2V3LWc5YTFjUzVFVUpCTk5LWVZMSDFOWFp2SmlNN2RNeVhSeS1kNUgwMWc4aWlQTEl2clZXSHVUQnhpSDExdjJrQnBOcVhmSmNwbDFoenItNXBDZXJRWE9mWTA4UDd3ZnplbXNucmp5TVhQeHNfbUNGR2lWdFlGS2FEUy03eHh0Ry1OTnkta3Y2YWtZVklXcUMtNXc?oc=5"
-          },
-          {
-            "title": "Lakewood-Amedex Biotherapeutics Announces Participation in October Conferences - EIN News",
-            "source": "EIN News",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTZ2RXNYdHNNSk83V1czRG9pVGxZajBrVnI5d2ZpZXQzOHlaWGpyMW1kelkzZmdzcnM5RDM3ZVN2dVl6RkZuZHNoZGtiZ1RJOUUxTHhJZXFnRERJVHM1Zi1DUHZReGpXOG55NER5Ykd6S3hoTWJmWFpJckM5d1FSRHBpU2FHRFZ2NnJvWW5NTzBfTVBCdFJ3d1ZaZW9QcDhTNHJYZ1BvN3phc2lSWk1UcXZwU2tmbUJBOUo5X0xR?oc=5"
-          },
-          {
-            "title": "Global Health Leaders to Convene at Abu Dhabi Future Health Summit 2026 - Business Wire",
-            "source": "Business Wire",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVZONXhHS2psLXh5R1BDd3pqTlllamMzZ0Fzd3hjWWpwSXpINHJQZjgyZ1lld01fZTNRaThMZF8wYTl2NEhhaFNPNVVSejgyWl9kbGtCQWpyOFFtQ3NIRFJDNjgxYV9aLUF1bkNDZXpEMjZpRFNFSG8wTGpaMlhDS1M3b2twcDR6XzVNSkRMSC1FLUpCYlc0bHZpN2cwUGdtVV92N3JsTERONzd6d08zQUR0TGctNmlFNnRGbVljb1dPY1VIaDVr?oc=5"
-          },
-          {
-            "title": "Health In Tech to Attend the 17th Annual Craig-Hallum Alpha Select Conference - PR Newswire",
-            "source": "PR Newswire",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSHVGZElJZjU4S0xMbF9qMkxFbTMwbVFfX1ZTOFVvTGdhWmJCRzJMT2g5ek1sNExWTnNibi1wcVBEanR1Z2JJMmFnU2tzM0xFZzlqQXdmbG9BNE5MV0tONTE1eWR5MGVvZDBpTnc1U2pfRGpqckNZdWJCdkZTVHVDOXVhcDk0R3VDbE02TkhMZi1sRkhUbEJjeWlYREJCNm03YXdsSjJiSmp1TXZXd3l2LXAzRWpRbTVlLVM5djRBRG5SV0tTZTZiYVVma1pVdw?oc=5"
-          },
-          {
-            "title": "California Construction Summit Puts Mental Health First - Construction Owners",
-            "source": "Construction Owners",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORmRqbDNLYlhGQ3gwdUxLanlsNW1nTWVqOWxSMTJFeUF5WjB2SFB0SXFoVUJIZWc3TW1jbzY0VllkcXZsZ3JGZ1dQYlRqSnk5cUtpQmdpMVFDaUJZS2tRYXpOa29PTnItMFNNQnVWbjhadHdMaGFNbllRQjBxV3NQS2V5UklQdW04UDR2RE03eXJsaFFPNGhydTZqN25OMFA1REJaZnd3VnNpR0hLclJ6UHpUX2FoUF90RDNMd1pzYmwwejMwRjJGMTRnLXlYQQ?oc=5"
-          },
-          {
-            "title": "MWC27 Barcelona to add new automotive, health zones - IT Brief Asia",
-            "source": "IT Brief Asia",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFZBOWJhQWpSOWFHblIxY2NlODcyZ0ZqMXFMdTlkMElwYzdnY3FMcVpNS0liUE5WLXI1aXNWR1ppTkZveloycFoxQmIwV2h5cld1MUEycGMzQ2dUZEhFMEF5Q2NnY0dwckdtbGJFMmVRYS13d1RkeUVtLUVpRlh6Tjlhcw?oc=5"
-          },
-          {
-            "title": "HIRE AMERICAN KEYNOTE EXPERTS FOR CORPORATE MEETINGS AND ONLINE EVENTS - futuristsspeakers.com",
-            "source": "futuristsspeakers.com",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVhCbGRmY0N5dVhWaXVkM1pKRTY4aXZVN0xzTUx0VjhmOWZYRDlSaThHT3UzVzk3MjlrcU1tY2lxZVhFdWVsQlg0UlFhQ1g2QWhPbjgzOFM4WnlwcjQ4eFVYTURMN0NpdXlLOUZRdUdfZG14by1PZm5JSGViRVVFa0dYaw?oc=5"
-          },
-          {
-            "title": "Open Health & Wellness Summit: From longevity to lifestyle - Open Magazine",
-            "source": "Open Magazine",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjhkNzNHNFNvdGtSd0duRDhLc3BxZGF6QnRnWVNQVkhOZ2hsRFpRQnVTZFVzWWp5NDItUXUzdmVKWGdxdzJxT3QzeGlPYUxra0pFbzFKdWFSakdVX09odjVjSGswbXlWcFFDWGxhbnJhU0J5cVJkamxRZmpPWHVxWjFiUWVQNjh4OHBEdjdON082S2padVhUTw?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       }
     },
     "Spatial Computing": {
       "city": {
-        "summary": "No spatial computing headlines were found for Kolkata in the last 24 hours.",
+        "summary": "No notable stories turned up for this topic and region in the last day.",
         "articles": []
       },
       "state": {
-        "summary": "No spatial computing headlines were found for West Bengal in the last 24 hours.",
+        "summary": "No notable stories turned up for this topic and region in the last day.",
         "articles": []
       },
       "country": {
-        "summary": "No spatial computing headlines were found for India in the last 24 hours.",
+        "summary": "No notable stories turned up for this topic and region in the last day.",
         "articles": []
       },
       "world": {
-        "summary": "Major developments in spatial computing and artificial intelligence marked the global technology sector over the last 24 hours. Notably, AMD acquired World Labs for $8.2 billion to bolster its capabilities in AI and spatial intelligence. Meanwhile, advancements in hardware continued as Meta progressed with standalone operating systems for its VR glasses, and industry leadership shifted with Metavista3D appointing Shawn Balaghi as its new CEO.",
-        "articles": [
-          {
-            "title": "Use of Immersive Technology and Spatial Computing 2026 - Medical Marketing and Media",
-            "source": "Medical Marketing and Media",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWS1RNkN2aXJpR2xWX0Z3Qk1tM2NtMzkwaWp1UzhFRERVTXFZZFhfcVFKNkJDS1FrMTJ4cTRtbzlRWkpwQmpPYmZBZXRaeUlzYjN5YXhfUF9lSzdCZVhCWE1udzhFbnVpY25VbklYOFNBOWNWNFlRR1hQMXNtbmx0b0c5XzJwOWJ4b1pnQkRTbHFPb00?oc=5"
-          },
-          {
-            "title": "UC welcomes seven new engineering faculty members - University of Cincinnati",
-            "source": "University of Cincinnati",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XaHg1QUJnZEpabVZsSU5yc2d5aVlRV1FNR2NzdE9nNnFqTWdoTnhuUFN4QnZOZ1BSN0VzQWhrdWxlUnlJaU4yMTNaN05saFpjVlJyYTRIMkZjbXJ5WHhuNFZlSVZ1Zw?oc=5"
-          },
-          {
-            "title": "40 Remote AI Jobs Hiring Today (With Salary Ranges up to $350k) - tech.co",
-            "source": "tech.co",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oMm4xUFdvVUpvNDZvNGhVcldCc2REVXFiLWxFSWF6c2hrRks3aGY1VHBWbGhmTFZGeUdZTUpRMWlGN0VHckFYS1R4YUE5MzNTLVUyQw?oc=5"
-          },
-          {
-            "title": "AMD Acquires World Labs for $8.2 Billion to Advance AI and Spatial Intelligence - KuCoin",
-            "source": "KuCoin",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjdkSHAtclgtMUE2TlFXS053dmJXOW52aVZpMFVMRExidE1VTTNnN3YxRW43X1JMdDNrU3NhbDFDUTZjdl9wNVU5M01CcjZsMURhcGEwWVJCQjhuVWZLdGpvaXFJSXJnc092c1I1RDUtRTdUemRnaW81UFIycVI4MTNaNE9pU2syb3dxZHFhU0NweWdEVEduWDNDM2c0YTVmZk9yR2lWVzd5c1hhQjBVQ1pn?oc=5"
-          },
-          {
-            "title": "Astroport Space Technologies Earns NASA Phase II-E Award, Triggering Matching Strategic Investment from Knight Aerospace - Yahoo Finance",
-            "source": "Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaVFfUXNXSlBVeDJRY1pGajRRTHZ5WmhWQ0lvX3dXRVo3bWVFUml5MldXNVBTc0hFa3EtU2VQVTY5eUc3eVo2V1QtMmZGaVhzV05iYkxXNnlmbFgzSVdWTmdUeDVqSUNMZDlWbUFvMUpkakFaVGxNOFRUWUxqcE1oRjJWRTU2UnB1MWh0bW42T3VCTnRqTkdNVUFtcHB4cldUOEE?oc=5"
-          },
-          {
-            "title": "Meta VR Glasses Ditch the PC with a Standalone OS - Geeky Gadgets",
-            "source": "Geeky Gadgets",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDaFotazJ4cmxNd1JVT28zZjBpTW5WTjFjZ3hiNnJmM25HUDNCcXdRY19TdTcxRXM4cnJBMkpDSEpBdWFNQVBvb3RBQkFKaTFZemR4Yk9HdlVqdXRaTVg4WFNjeTh4azBH?oc=5"
-          },
-          {
-            "title": "Lisa Su Looked Up, Fei-Fei Li Looked Down: Two Pioneers Shaping the Global Tech Landscape - 36Kr",
-            "source": "36Kr",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MYVg2Rlg1RExXOXVLX29rb2MtaVJuNDh5dE1uZlFlY0FfaDhReU5xWnlRQncwV2hKRnBHQVNjTUxETnZTUXJPV1UycTRZbnk2elJF?oc=5"
-          },
-          {
-            "title": "Metavista3D Names Veteran Capital Markets Executive Shawn Balaghi as CEO - TipRanks",
-            "source": "TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeE1OM2I0Q3VGemk0UWY4d0djS3hyc3BrYUp0RDlnN1pnbHVBdXlUR1dUMHVBZllzejZkVzZsMmxSNUJwajdHdXBtQ3pKcy1sU0swQjR1VDF0UXA1aWQwVjRFZkg5ZHJaQzlCSmRpOVVsUXczZkVtb2U2N1d5ckxnSGhyMTNzdWlRSWlKR29ZdjZ2ekdxeVhJbmZSVGJOZTBHQzVCVXZFbmdlRW1SbWF1QXRaRW90OFNfQk41djZ4aGVKZw?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       }
     },
     "Spatial Intelligence": {
       "city": {
-        "summary": "No headlines regarding spatial intelligence were found for Kolkata in the past 24 hours.",
+        "summary": "No notable stories turned up for this topic and region in the last day.",
         "articles": []
       },
       "state": {
-        "summary": "No headlines regarding spatial intelligence were found for West Bengal in the past 24 hours.",
+        "summary": "No notable stories turned up for this topic and region in the last day.",
         "articles": []
       },
       "country": {
-        "summary": "Recent developments in India focus on the integration of world models into manufacturing environments. Meanwhile, market activity saw AMD stock gain three percent amid broader tech sector movements.",
-        "articles": [
-          {
-            "title": "World Models Move Into the Factory - varindia",
-            "source": "varindia",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jbXhaYl9WMnEtMW14Wkp2LU8wLVR4Unh2M1R2WjR3Njk1dU55dmc4M1RfVDZ1S2xYQlp4aE8teU5RV01IU3hOZkFYcUtMLUh4Tzh3V0tkUFZmRUp1aEFPY2ZOOV8yLWZ4ZWJrMVBJRXNqdw?oc=5"
-          },
-          {
-            "title": "AMD stock gains 3%, here's why - Invezz",
-            "source": "Invezz",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tSGdoSGJJRlU4Wk02MGFWQmNXR2gwOG9ucmg0UXM3Vmg1OGI4QXlBVEk3ZzFJSjhXU3EzN1B3N1NBaWxSQ3F0OFhFZ1lDd1IzZktzbGxjcHJ0TkNFaXFKYTltUkh3X0lMTjlGS01JeGNVTENjdG9oZzhjeEFOdw?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "world": {
-        "summary": "Advanced Micro Devices has reached an $8.2 billion agreement to acquire World Labs, significantly advancing its position in AI and spatial intelligence. The acquisition has drawn considerable industry attention regarding the future of embodied AI and volumetric video initiatives.",
-        "articles": [
-          {
-            "title": "AMD Acquires World Labs for $8.2 Billion to Advance AI and Spatial Intelligence - KuCoin",
-            "source": "KuCoin",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjdkSHAtclgtMUE2TlFXS053dmJXOW52aVZpMFVMRExidE1VTTNnN3YxRW43X1JMdDNrU3NhbDFDUTZjdl9wNVU5M01CcjZsMURhcGEwWVJCQjhuVWZLdGpvaXFJSXJnc092c1I1RDUtRTdUemRnaW81UFIycVI4MTNaNE9pU2syb3dxZHFhU0NweWdEVEduWDNDM2c0YTVmZk9yR2lWVzd5c1hhQjBVQ1pn?oc=5"
-          },
-          {
-            "title": "Lisa Su Looked Up, Fei-Fei Li Looked Down: Two Pioneers Shaping the Global Tech Landscape - 36Kr",
-            "source": "36Kr",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MYVg2Rlg1RExXOXVLX29rb2MtaVJuNDh5dE1uZlFlY0FfaDhReU5xWnlRQncwV2hKRnBHQVNjTUxETnZTUXJPV1UycTRZbnk2elJF?oc=5"
-          },
-          {
-            "title": "The Godmother of AI Just Sold Her Startup for $8.2 Billion. Here’s Why Embodied AI Founders Are Nervous. - Vocal",
-            "source": "Vocal",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1pvbkFiRk5JbGNybE9sMVczaGp0Z3M3dEJraUQzY0ZFU2lYWVJiSmpKMXByMzNjNkxkV1BwNnhxZHp1UWFZSDVjVk1kUVNNZ293Zi1vZXJ0OEFnU1RYdTE5YkNueHZRLThWYy1xSlczbDYxVnZnODlpMXVvWUg4cEFhY2p4VzRZVUdJOV9Za0M5ZHRpSEhxRHhkeFpCY1o2S3JOWEk5OW1MeFpMbkxsQVc4ZHJKWWlwMnJHMmVHOA?oc=5"
-          },
-          {
-            "title": "The Ray Joins America’s Great Corridors of Commerce Initiative - CSRwire",
-            "source": "CSRwire",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV1UzNG9kUTlyaXBrSE1uOHhiWjd5bHlFajM4RkE1TjVoRFM2SDhYeXh2SUx5ZV9TcXFJN3NoNW9STXFEcy1vUTFmaTVkN3FTVGVOV01NX001QlJqdS1sZ3JYSnhiZkh3ell2bC1tYTF2TzdVcHhiOXlzRzQyUENFVVFKZFdUUVAyUWJYNl9hMHY2UkU?oc=5"
-          },
-          {
-            "title": "Peripheral hires former Meta Reality Labs exec to lead volumetric video push - BetaKit",
-            "source": "BetaKit",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaXlkRW50Ny1UZXRJMUhPbTdrbWxjejF4T3pwemk1MGlFVngyOGNLRjRjeFF5ejlxQnU4N0l0MmRHbi00WmYxdGUzalpaSjlwMkFlSllZQzVyZFBVTGRoYnItSWNVZGM3SmVIWW9EYTRUNmZZdE9OMlNlbHRVWmJ0TTRzNHp6SVhhcnVXcGcwZ2dmNmVWWjJzYlIxVG9YQQ?oc=5"
-          },
-          {
-            "title": "AMD TO BUY FEI-FEI LI’S WORLD LABS IN $8.2 BILLION AI DEAL - PressReader",
-            "source": "PressReader",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XRnhvWHV0RFE3a3RGMVVXTUhQYzRpc1NfcV91cGt5U1lDUlAxWS1nUzhMVHNGYnh3cnZMdmEtRk5DZUpGTjE2aVBwVnBxSmd1MENZb2FIa29KTE80TndxRllmbVBXRE1NVElPYk03RXlhaUlVSGV3c0ZB?oc=5"
-          },
-          {
-            "title": "AMD Reaches $8.2 Billion Agreement to Acquire World Labs - tokenpost.com",
-            "source": "tokenpost.com",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16QXVubUNZZGE4OWl5cklyU2F2Z0txUExZWkFwZE8zMVlpazQwRkxNLUFNd3BXMUpfRTgybHNnSTNkRnRCOWVrRExsdkhTRFdYS1g0NkFwd00?oc=5"
-          },
-          {
-            "title": "Advanced Micro Devices Inc Stock (AMD) Opened Up by 3.33% on Oct 2: Key Drivers Unveiled - TradingKey",
-            "source": "TradingKey",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTzdkMlhhVVVadGVTbDZoQkN6VlIxOGJNc1NxWE1GR2U3ZzAxbEowQmlFZ0FoZFA5Ym9OT0lySmc0OFo3NE0wZnBvSDl1bnhwMEtJbEdMeHFfaEc4X3BKM1Qwam9uR2pMbnpjUGxKTTN2VE9taGpGSU1Ba1JiZUdndXZtNV9MOWEtU1E?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       }
     },
     "AI": {
       "city": {
-        "summary": "Recent developments in Kolkata highlight a mix of local policy and sectoral growth tied to artificial intelligence. The West Bengal AI Mission is moving toward implementation, aligning with broader discussions on AI reshaping the region's real estate and white-collar hiring markets. Meanwhile, unique cultural intersections emerged, such as local interest in Anthropic's unconventional method of consulting a Hindu monk regarding AI alignment. Other local news focused on real estate projections and upcoming industry conferences.",
-        "articles": [
-          {
-            "title": "All about Anthropic's move to fly a Hindu monk to San Francisco to teach Claude right from wrong - Indulge Express",
-            "source": "Indulge Express",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOTBhNmhzVzNDYWU1VmlzdXhMWnZpTmNrS0U1ZGtGdGk5NFNKMlVOMFgyZlBJWm1XY1lfV29mbC1mUXBzdkNXblJ1aVIyc3JIU3Y5SXFfWGtmeU1JZmV4al8zM3ZSVUUxTEl2UVd5Q200Sll3RXIzdHJkV3BhUDdSTGMyRXVpVG00NUtKdERTbWYwOGNhQ1dneWNrZS1RYVFWRmpUdWRGRnlTOXdQaHF0bno3akFhQTRQcUstMzJvOUllanFnWDNNRXhrYm5EY2drTTE0ZWh3WVhRZkVId1Zn0gHsAUFVX3lxTE5lOE0yUWFjTHd2clQ2M0hoY2s3Y2N5WDdqVHhHV29XYVhzQ1VNVDZDT2tFWmRuc3VETTRFb3FicWJUeFB2NFlHMDdWbS1McXY1eGlRTklLWEx6VWptb1hIM0Qxc2E5NUV1dGE3SFk0OXUzakdZM3RfLTU1Q3B4Mmk2YWVmbVNjVHM0aEJIZ3VVU19yTnVsMjNTdE9oZThjMGt5VTgtMG5NSjhFQ1pxU2hqdWxUaXN2NVFQcDBwWnB6bjk3QnpCUTZ0cENLLUxYSUJZcFJob0tjMGR4VmJLclVvR29VYjdrTzA2WXdn?oc=5"
-          },
-          {
-            "title": "India’s real estate market eyes $1 trillion milestone by 2030 as AI reshapes the sector - The Financial World",
-            "source": "The Financial World",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenJiV0RQdTBXN1BFOXVSTVZXYTMySFdaV0RLUm1XZjllZ3pldFdxTDFWNTE2ZTZNUmdPdFFYVGpLMzF6YXZrVHM2VF9WVGwtRGwzajJVQTJ6OEZ4X042eno2OUR5MTh6b1hQZVdhV2tGTk5Xc1Jzd3oxSDBDVXRKaXI2OG4zMmN3VFg0LWFteUdLdUdQbEFVdC11OHd6QlY5YzRKdzRteGpLWHFEVkt0TjQwSlJCR0NIT3pPYw?oc=5"
-          },
-          {
-            "title": "White-collar hiring grows 2% led by AI/ML sector in Sep: Report - YourStory.com",
-            "source": "YourStory.com",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXhxcmhNZnR2U0NzOVlaZzhVSENDdHlQSzM2NmxhSzctNGhnbmVGN1hnN2FtZW1YZWNMblJQeVZOSi1qam1aV21zdzdmM3hiQmJOYzBKcktJTVZOVHlTRjlIcmNtTjd5aEsxajR4STlrYkNyRFZzaHdPd1F2VTJ4WFNhU1laYWZRT2VONThldXBuUzdJ?oc=5"
-          },
-          {
-            "title": "West Bengal AI Mission Moves Towards Implementation - urbanacres.in",
-            "source": "urbanacres.in",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmNkbnRrblN2d1FyYWUyUXRLbkJ0SzRscy1UZkx0RWFDRlBYdGthZmdNV09HSEl4Q3hlbHZYSnhOVTRfRFlQanVpa0R2b1FOWE5WUkJoOEc4WUNnM1Ixdy1lMEtaNnJ4b2x1Vmo1MFpjWm9IWDVZYWxkYWFwX3Rrd1JtTjhyZHZtS3ZLLVgxaw?oc=5"
-          },
-          {
-            "title": "Real estate under-construction value rises five-fold to $503 bn; GDP contribution seen doubling to 13% by 2030: CREDAI President - Fortune India",
-            "source": "Fortune India",
-            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTGlnWnlXU0RXX2ZUcEFvdDh1c1Voeko2b2xoV1Ryd1BjRkI3aU5XNnl3WHZWM1pyNGFpWXFqUDNfaElqSnZEQzExbHppVUdGeXVUeVRvcHgzZndKLU8wN0xXVV9GUUdDUjJfLW9BdXBUZUFQRE4yUFZZdHVxN3hOTDA1UEozNWhhQmpGa1d5YXo3Y0xSX2tBSXEzdks4aXptWVgycF9XTkZENnVrRFdJdXQxcTRCcFJ0M0l6NzVBS0JVY0tUVnlCU2pSUTZCcHFnYjFaVVFrOHVrSExmbFo3QVNSYzNKWF94QVZtQmR0R2xSMmdWMkRFZDVZSnhYY3IxT2fSAY8CQVVfeXFMTV9Lc3hHck5ZN1RFMWpoQjE0UmE5UDFZRG5DX0xkZGhGek9lSFFFZjd2LWN0aldralViSlNKTG1IaS1uQjNIY0hQTXlkS0d0c0dEN2F5THVhbkpOQjFxVUhPN1QzOXZrTzNrMUhlZDlUcjBBRjQ5dDRxeXV0X0NzYWF3U1FNbjBtYi03Z2VuZDZrWWh5THg0VU1kWG5URXYtMmFnSlYtZXprZkphRUNaQ3V0cmNKV0oxTnU1N19BUGw1b2hBQlRHOTdHWnZza0lzYWI0Y1FiUHgwenRqWFVsbmR6THdvSlUwS3B2TGxhcUt2WnYzNU1NaU9IV3JUQ0RQUVdQUFcyYkV2UldSaWRaRQ?oc=5"
-          },
-          {
-            "title": "CREDAI’s NATCON 2026 comes to India for first time in over a decade, puts spotlight on Kolkata’s real estate potential | Real Estate News - Hindustan Times",
-            "source": "Hindustan Times",
-            "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdWhFNUNycFRJNV9iQjVFcEdhUkhWUGxXempyNTZsMU1YYUl5Q3R3X2U5eUdIWl9DbGFIVWMwVUZ0SnF3YWtqWXIyUTMzTDI0bVBhcnZGbHM2cDliZ1ZXSFVLdkxYbndRbk9lUEswMUItVHV3SU1oTmluajc4LUhTQjlQcko1eHgwOGZLWGtCWldWTFNNNjk2VUpadnd2b2FEQzZsSVVfR1FwWjEzbUd4MnJaNG5FMGVDYmtSTTBSem9EekpWYnpZUWd2VzBsTk5UTzNjUHk0dWdjSXM1ak5LT2VUdGhMeWNxMHdsMjI2VWpjeUlLZXdrejNvZHNLYUdsUjVVTUJn0gGLAkFVX3lxTE5FMGxJcE5JMHRjcEVhQ2VNZHdGNWd1VHZLeWJVQ1ZUUUZCSzZ0OFBqUHhIQURDeXVXS0tTMDVDdWhKOVhvX0dTY2FDa0VDck43U0dGOUw4LUNYN3Z0dVRyUHdWMkdtUnNYTG0yOWZqdTNYdXNXcW8zLVo4dFFiWnQ3c2hxbEZ5ZWRiTWdaXzhBbjZOU0RZaDZJQ252SnZHYnJDdHhfSzFHaEdHdWFNRmcxZ3lpQUU2NUpRT3RHdHhUQ0tiTkNJclRtS2V2cUNlaWFoVDNSZU1KOTFicVVtZDhRbDZ1MkJUaWUzWlA4bENYQzdjM3V1VEhsZlhmeUVmX09wRFhmcWxrUGZJVQ?oc=5"
-          },
-          {
-            "title": "CREDAI seeks affordable housing definition based on size, not price; expects policy framework in six months - Fortune India",
-            "source": "Fortune India",
-            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbjFfMlFZVGtyVUM2dFFDQWE2WlRTeFJkSU93WUlOX1hTLUNyeExDNm1rZzJ0dmJEV1VqUm11VEpNR1FYVVh0Nm9QenFMU3FZel9ReS1SX1ltN3BqbURCWl9wVDBOWHY0VjVfTXVFWHZnZFMtbmgzQ3dZLWZRNlgwQ1FBbUQxWDlpYzdOTFhZQjNvM1pLSFFWazFlOWU0T1JkQ3AtajcybkNpVWs4NkR0T0IzOXd0cE1BOExVckZ2U1BnM2dlYmlPMk9Zekx2b18wUlRQVmFkcFp3RXpQbWVKYThGRTNhcWRp0gH2AUFVX3lxTFBSenQ0SXBQRjNKV0o2VEFaMXBXbndTQlYxWVRnTkJzQ1J4M3k3V3pjRjNZT0d1UkRmekZ4bzk0ZzRhU1plbEdYQUQ5Z2g0VHVzNkhmdXY4RFFkX1lTbnVKY2RaaDJpUzFmNjhwWk1oazNNSTJBNC1tTDlVXzMzMHNXRFVETXI5QUdyc1ZBaURiU1ZueWJwU3FGUnhYbEVWd2xzTXl0a2hyUjRUUzRmODdtektVeG5vY2RGcW41RVdEemtveHFOXzhDYXMza0R1NXY4b0ZEZTZmZE1lb0VxVDdmb01LOFotY01KRUZJZXdzbm9rb3BvZw?oc=5"
-          },
-          {
-            "title": "At Behala’s Barisha Sarbojanin Durga Puja, pandal theme rewinds time back to the 1980s - Telegraph India",
-            "source": "Telegraph India",
-            "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQN2R5OVdMbjZJdEdvLXVDV2ltaDUwMWY2YnN5YVBXSHhJck8tcTZHVHd4dU9VNGY0Sk81M0FUOURQZVluQURtNl9ES2FKeENmSjJESGhhTjBlYmJVREdOc0haVWd4UTdpenRRMmZaNmFOV3dfVUdfeGZnc3k5SThmZ1NlX01Nd29vNXF4eFlrOE84Vm90LUJnR1ZGTHJETWFjVnJEaE42RXNoTDJzbUF5bmJSRlVWdFNVNWMzM3o2NVFyQ3d1SDg1UWVFZHFzbEE1enJQQ0h6Y0tVYmRucmd4N0txSzQ2cUQtVFdacGRhb2d0N0nSAfMBQVVfeXFMUDdkeTlXTG42SXRHby11Q1dpbWg1MDFmNmJzeWFQV0h4SXJPLXE2R1R3eHVPVTRmNEpPNTNBVDlEUGVZbkFEbTZfREthSnhDZkoyREhoYU4wZWJiVURHTnNIWlVneFE3aXp0UTJmWjZhTld3X1VHX3hmZ3N5OUk4ZmdTZV9NTXdvbzVxeHhZazhPOFZvdC1CZ0dWRkxyRE1hY1ZyRGhONkVzaEwyc21BeW5iUkZVVnRTVTVjMzN6NjVRckN3dUg4NVFlRWRxc2xBNXpyUENIemNLVWJkbnJneDdLcUs0NnFELVRXWnBkYW9ndDdJ?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "state": {
-        "summary": "Across West Bengal, artificial intelligence initiatives continue to advance alongside national technological trends. The state AI Mission is progressing toward active implementation, mirroring broader regional discussions on tech integration in real estate and industry. Additionally, local media reported on broader national stories touching the state, including Anthropic's engagement with a Hindu monk for AI development ethics.",
-        "articles": [
-          {
-            "title": "West Bengal AI Mission Moves Towards Implementation - urbanacres.in",
-            "source": "urbanacres.in",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmNkbnRrblN2d1FyYWUyUXRLbkJ0SzRscy1UZkx0RWFDRlBYdGthZmdNV09HSEl4Q3hlbHZYSnhOVTRfRFlQanVpa0R2b1FOWE5WUkJoOEc4WUNnM1Ixdy1lMEtaNnJ4b2x1Vmo1MFpjWm9IWDVZYWxkYWFwX3Rrd1JtTjhyZHZtS3ZLLVgxaw?oc=5"
-          },
-          {
-            "title": "AI sings Russia's war story: Inside the rise of generative songs about Ukraine conflict - The Times of India",
-            "source": "The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUjVrcXl3VS1kVW16UmtBRUtOYUY3RFpqQXZET1hNSUN6NGdFZkxJd2NiOVFMMXoyZmdxdDE1Nnp1cTJ4MlpmamxzOUFCd29wNFpOWHFRY2dCdGpITmRHaDQ2LUdYVlpmVXYxRUZBc3VoRVdnQ3NMbmRzR3VQSWNncFFSTHJNb3k1U0ozSWszR1JPQ3BBUXdYXzM2a1RUTFZzNGl4THJCWG5Ma21URkRKOXpCa3E4LUxhNmpHV2tpQVozY0dNajlvWHIwd1FMWFJ6dnhETThHeHNhaUpEcVJQdGNBUUlQanVCTTNudGcyTFRTRnhmVDBB0gH3AUFVX3lxTFBSNWtxeXdVLWRVbXpSa0FFS05hRjdEWmpBdkRPWE1JQ3o0Z0VmTEl3Y2I5UUwxejJmZ3F0MTU2enVxMngyWmZqbHM5QUJ3b3A0Wk5YcVFjZ0J0akhOZEdoNDYtR1hWWmZVdjFFRkFzdWhFV2dDc0xuZHNHdVBJY2dwUVJMck1veTVTSjNJazNHUk9DcEFRd1hfMzZrVFRMVnM0aXhMckJYbkxrbVRGREo5ekJrcTgtTGE2akdXa2lBWjNjR01qOW9YcjB3UUxYUnp2eERNOEd4c2FpSkRxUlB0Y0FRSVBqdUJNM250ZzJMVFNGeGZUMEE?oc=5"
-          },
-          {
-            "title": "India’s real estate market eyes $1 trillion milestone by 2030 as AI reshapes the sector - The Financial World",
-            "source": "The Financial World",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenJiV0RQdTBXN1BFOXVSTVZXYTMySFdaV0RLUm1XZjllZ3pldFdxTDFWNTE2ZTZNUmdPdFFYVGpLMzF6YXZrVHM2VF9WVGwtRGwzajJVQTJ6OEZ4X042eno2OUR5MTh6b1hQZVdhV2tGTk5Xc1Jzd3oxSDBDVXRKaXI2OG4zMmN3VFg0LWFteUdLdUdQbEFVdC11OHd6QlY5YzRKdzRteGpLWHFEVkt0TjQwSlJCR0NIT3pPYw?oc=5"
-          },
-          {
-            "title": "AI and the monk: Anthropic goes for swami and friends to tame Claude - The Times of India",
-            "source": "The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaXZSQTRtdnplY1RxeUZCZGoxZF9BZURNRXFoaTV5Y2FnZVZ6Y0dVTFlHR2RNeWVKR3BJdEVLTllqSVZZdUVZLW83NGZLd0h4N1VwRWx0OWlfa1BMeDNpR1dnbElwRUN4akQ3UFVTVU16RktsblZnOUR3RzIxYjlIZnRNQTdCNU9BUXozMWZaQ0cyTG8teG5nXzIxMWU1eXVpMWtIdnMxUXdnSjlRUEJqRmptWjhpeG5nV2U3VE11NktHNUJLdlBZTjU2QVFTT3NpVmRRRtIB2gFBVV95cUxQQlJsa1Z1UGlqbDZILXl3ZEtxWUVDNlN0MU80SjFHZHphUmJlRl9uUG1wOHRfWnJ2YVN4TWtzZ3d4V0FuM2RPY210RjhJeFZRTXVjVWZHSTVvRmN3Zi1QZ3hVbzRoUlliVGVLNHVnck1Xd0F4cTNlWmhpUGtCaXVrMEJCMmxnWlZnZFQxWXo3Z0UzdlRVMTdMcHRieUF2MmhPUXpYaExjVkRaRU9YZnY2UlczNlI5QzBOUGJUSV9kc0dlN2dfZTFqNTVGWTh2TVNtdlZLbTdQMldRUQ?oc=5"
-          },
-          {
-            "title": "Semiconductor and AI Revolution - PIB",
-            "source": "PIB",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSXNHLVF3bVNQR1BHM0hkSk9QVHZ5Qnk3WGEtUTUzZHhmUU51Vm92eUd2NlF6VUROM0ZuQWEtQjV0V0FNZHhiYVktNjh0cFpleVEydl9yTEM3RTBBeDhoSE1HTld6YkNOazdYdEczVVJJVU96Z3JmYU1rMDNzTDZDcEhkZG4wdWM?oc=5"
-          },
-          {
-            "title": "'Jai Shree Ram' but no pressure: Suvendu's appeal to Nandigram minority voters - Moneycontrol.com",
-            "source": "Moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc1dtUTRHdzM4bnBqeTFSZEp6TmMtSi1jMG9ZcnZlWWZSOUFOaXdKY050ajk1VGZRYkpiZ09vZVhsZGtHVGFBdE1SbVBhWEF1aWhKZVNSQ3U1SGlnWTluLTBQVXgyaDA3V0Q4bm9nV0owTjZVVG1hcm9ydjNNTUV0YURiN2h4MzZoNHBVTzJIOF9uaGd2YjlOLVZ6SjBpVTlSdTJkeFY5bTVEdUxNU29nTDhJMVlFRkpodzFoR0dIRTdnVkdSTThJMnNwU0Vpd9IBzgFBVV95cUxQc1dtUTRHdzM4bnBqeTFSZEp6TmMtSi1jMG9ZcnZlWWZSOUFOaXdKY050ajk1VGZRYkpiZ09vZVhsZGtHVGFBdE1SbVBhWEF1aWhKZVNSQ3U1SGlnWTluLTBQVXgyaDA3V0Q4bm9nV0owTjZVVG1hcm9ydjNNTUV0YURiN2h4MzZoNHBVTzJIOF9uaGd2YjlOLVZ6SjBpVTlSdTJkeFY5bTVEdUxNU29nTDhJMVlFRkpodzFoR0dIRTdnVkdSTThJMnNwU0Vpdw?oc=5"
-          },
-          {
-            "title": "CREDAI seeks affordable housing definition based on size, not price; expects policy framework in six months - Fortune India",
-            "source": "Fortune India",
-            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbjFfMlFZVGtyVUM2dFFDQWE2WlRTeFJkSU93WUlOX1hTLUNyeExDNm1rZzJ0dmJEV1VqUm11VEpNR1FYVVh0Nm9QenFMU3FZel9ReS1SX1ltN3BqbURCWl9wVDBOWHY0VjVfTXVFWHZnZFMtbmgzQ3dZLWZRNlgwQ1FBbUQxWDlpYzdOTFhZQjNvM1pLSFFWazFlOWU0T1JkQ3AtajcybkNpVWs4NkR0T0IzOXd0cE1BOExVckZ2U1BnM2dlYmlPMk9Zekx2b18wUlRQVmFkcFp3RXpQbWVKYThGRTNhcWRp0gH2AUFVX3lxTFBSenQ0SXBQRjNKV0o2VEFaMXBXbndTQlYxWVRnTkJzQ1J4M3k3V3pjRjNZT0d1UkRmekZ4bzk0ZzRhU1plbEdYQUQ5Z2g0VHVzNkhmdXY4RFFkX1lTbnVKY2RaaDJpUzFmNjhwWk1oazNNSTJBNC1tTDlVXzMzMHNXRFVETXI5QUdyc1ZBaURiU1ZueWJwU3FGUnhYbEVWd2xzTXl0a2hyUjRUUzRmODdtektVeG5vY2RGcW41RVdEemtveHFOXzhDYXMza0R1NXY4b0ZEZTZmZE1lb0VxVDdmb01LOFotY01KRUZJZXdzbm9rb3BvZw?oc=5"
-          },
-          {
-            "title": "Shyam Metalics signs deal to invest over $5 billion in Maharashtra - Business Standard",
-            "source": "Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY2xrR1JRZnJ6RFdRalZNaW1keWN2ODktV29YaEpDQzBOVHZLSGQtMy1EZERKMkR0VUZ6V01YNzlEblRiNk10VTBUMUdyRlJwRzlOUzFDMXBQSmpBUXlhLUhseHBYUXVuYmFIbl9EUjQ2N05xZzc2MGxQSkg0UlZYZUFibmp4T3lJaU5zcVVRZXF5N0xNQ3lvcmJxbHRMODRlVFRKTnVDNFhQNkhlalI3Yld4SEt5SjRZOHYycU5fMlR2X2ZmcUl4dWd0NldPREXSAdQBQVVfeXFMTkVaOVllSnVlUjVkSmxEQl9wdjFISnoxZFNpa2V3OGtEcklkY2JEWlZSaHRTb0xZQlhVNUJNMkRaUzBtZEtVMERlV2RsazA1bXh6UFl6NjlpWFJsMjRnNHptdlFLQ243Y1o4aFFUdkJOcjF6V2xTRVlQbGdmQnU2d1dwbENJc2w0cW1ldUhGeTRwSmtwTGJNaDdQMEl0dHdJLTNnM2pNZlJxdWdSZ25SajBIRUpzRl9qd3dCZktOTDBldXFHdmw4QVBiSUFvSkxaX0F0Vlg?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "country": {
-        "summary": "India's national AI landscape saw significant expansions in research and technological infrastructure over the past day. IBM announced broadened partnerships with prominent institutions like IIT Bombay and IISc focusing on AI and quantum computing. Meanwhile, legal and market discussions highlighted uneven applications of India's strict AI patent disclosure rules, alongside the introduction of localized AI assistant devices and ongoing national dialogues regarding AI ethics.",
-        "articles": [
-          {
-            "title": "IBM Expands Research Partnerships in India for AI and Quantum Computing - HPCwire",
-            "source": "HPCwire",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakZVSkZza3lOQnRHa3dyeXBlczFFb2tsTDlpY3drM1ZGVkI5ckdqM081dTNJb2NFTkJuLURQb3A0QzJuOXBxNXVRd2VUdUlVSFJyZmlYNnIxWjhhdU9NWFJHRWNHeF9rMmh6cXg3SDlvZ0FjRlJzX0htTW11OXdyQ1EyX1VQSVc2RVlINFZMU1hCWjBKbkJhMVFBUTRZUEVUNHdib2JYS0QzTHFuU1E?oc=5"
-          },
-          {
-            "title": "India Now Has a ‘Digital Tourism Stack.’ Can it Fix a Fragmented Market? - Skift",
-            "source": "Skift",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVdNMk9HWDZMN2hfZjFrbG1kelZweTFXeG5QemRVdV8zbXRzdHlRdVhXRE0wemVrbmJzcWNFdnlRSU5hMlFoZW5ZQlhTZU81ZUhVd0I3dXhhS2wzaE1EUXltOWFJZThfXzM5cDFaS3FJcW5wZWhtYnhMT2FnaThGSFRMVlpkTDdtbmRzOXlGLVhSSkNram1uUWhYNzhMWEE?oc=5"
-          },
-          {
-            "title": "AI and the monk: Anthropic goes for swami and friends to tame Claude - The Times of India",
-            "source": "The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaXZSQTRtdnplY1RxeUZCZGoxZF9BZURNRXFoaTV5Y2FnZVZ6Y0dVTFlHR2RNeWVKR3BJdEVLTllqSVZZdUVZLW83NGZLd0h4N1VwRWx0OWlfa1BMeDNpR1dnbElwRUN4akQ3UFVTVU16RktsblZnOUR3RzIxYjlIZnRNQTdCNU9BUXozMWZaQ0cyTG8teG5nXzIxMWU1eXVpMWtIdnMxUXdnSjlRUEJqRmptWjhpeG5nV2U3VE11NktHNUJLdlBZTjU2QVFTT3NpVmRRRtIB2gFBVV95cUxQQlJsa1Z1UGlqbDZILXl3ZEtxWUVDNlN0MU80SjFHZHphUmJlRl9uUG1wOHRfWnJ2YVN4TWtzZ3d4V0FuM2RPY210RjhJeFZRTXVjVWZHSTVvRmN3Zi1QZ3hVbzRoUlliVGVLNHVnck1Xd0F4cTNlWmhpUGtCaXVrMEJCMmxnWlZnZFQxWXo3Z0UzdlRVMTdMcHRieUF2MmhPUXpYaExjVkRaRU9YZnY2UlczNlI5QzBOUGJUSV9kc0dlN2dfZTFqNTVGWTh2TVNtdlZLbTdQMldRUQ?oc=5"
-          },
-          {
-            "title": "Chemical Decarbonization; Reimagining Growth in India; and Europe’s AI-Powered Threats - S&P Global",
-            "source": "S&P Global",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWJPTWRzbWhtcEVRLU1pdkF2WDkxM2FaU3FjMTczQWZ1ajMtMG1UaHM2eWFzLXJ1RlZPcVFGaHdFYTdsT0tySzR4QWFYUHBaa1lJV2lKeWVhX3ZFRjRCNU1IWF9SclFtcGdkRkpJVy1IbUlRMDhiTC1BdzZxeGFnV2duWW9PT2tXVEZFNVpR?oc=5"
-          },
-          {
-            "title": "India’s strict AI patent disclosure rules applied unevenly, counsel says - MLex",
-            "source": "MLex",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0dzRU9QcUhHSF9IQi1wUVZwa1pFNzVqM2UyU2trVU1hUEp6RmljS2tsaHV2UU1JNHp1X2hnRlBMc25IcHYxQ3dweGpRU3NSczNpSTJOdUU1ejlBbTVUdExLclA2MEo4TGNBb0lmZlNqaFptMFlKbjhPRFEtdm1pSV9XRFdac202MEJFREhlNENVLWxKY2dpQm8yejhvSm10OWpCd0VuQjFldklCZEc2akpfeEPSAVpBVV95cUxQYnk1NXBVSjAzN211V04wME9nR2dBSVhFMGdBa1hSQ0ttRzZnZ2Z4dnBSUnpxekZBXzY5M0dlU2lXallsMENwc0ZxMDJiSEZlNi1hc1hob0xhVVE?oc=5"
-          },
-          {
-            "title": "Tempus AI, Inc. Class A (TEM) Live Share Price, Invest From India - INDmoney",
-            "source": "INDmoney",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91a25NQVcyQm5zVlNMaGNCMG9ENk1oeHFwU0IxeWdNUkEyTm1YZDM0THpxVHdvOHFuM2taNjJwa19BRWhpcFlGQkRsaTd0dGk2X2RWdTFiS2Z2TXdqdHNUUzg0enU3SHh6Z1Q3OA?oc=5"
-          },
-          {
-            "title": "HMD's $166 Vibe 2 Pro Sells You an Indian AI Assistant - Memeburn",
-            "source": "Memeburn",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SQVZmZ1RYUGxqcFRLRG5JQ2wwczBMWFZGbGhyRlNqOElnX3QxWGtndDZ6YlpzdjJsZ1hreVNJMDd6T29uTGNFSkI4ZTFEZzZX?oc=5"
-          },
-          {
-            "title": "IBM Expands IIT Bombay And IISc Research Partnerships Across AI And Quantum Computing - Pulse 2.0",
-            "source": "Pulse 2.0",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSXJlb3ZUM1JmMWRfb2ttTTZ5M2kzdVJwRWhiaGdWRlFiR2UwSEk3Tkd2TW9oZ09fbmNpZy1kS1MxdGE5YlNSemZXWVhkaDdBTzFYWTYzN1Jzc1FuaVJORDk4R3RlaE9CZzdUTVAyQ3hpSFF6SGJ1bGVNcnR5ajRsUlhvNFh3T3pWeUlheFdsOGZIWEFva0NFazJSbEhMNnQzMkRoSkY0V1jSAa4BQVVfeXFMTi1YRmdBUlVNMDJ0eUhWQVlIN3dkeWlheElCdHd2Y0hzY3hzZGlsZno3VWhzRFVqUFRRZjJ2VExFTXlDYzh5Z2d2a3ViTjl4VEpndVRMUVJKQlFoY2RKMmNqLVhLclpKZmNYYURTbDhEc2ZsOUxBX2M0NG9ZS01KVVlGaGNGN3F2RFlfcVdEd19HV1B5ZC02ZmtKMjN3ZFNNTkFFYTRKc2UteDZPMW13?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "world": {
-        "summary": "Global artificial intelligence developments over the past 24 hours spanned governance, education, and cultural applications. Reports emerged regarding political appointments, such as expectations around an AI czar role in the United States, alongside major investments in AI talent training by firms like Anthropic. Social and ethical discussions also gained traction, covering topics ranging from middle-schoolers using AI companions to legal rulings on AI-generated video evidence and institutional uses of AI in museums.",
-        "articles": [
-          {
-            "title": "Middle-Schoolers Are Seeking Out AI Friends Instead of Real Human Ones - WSJ",
-            "source": "WSJ",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdzJ4M3I3bDhVc1BkbkVvM2wzWG5GT3NsbUZyN3l4UHpPUGE4YWEzamdMN3JLS21GTkMtRkJ3eDNLMDZBcHQ0OWJXQlBqVUFGUzRSUmRZd2w1dFFwYlFEM1VvQzVNdmxIcmZaeDNrQzN2alpoclUzUkV2azFjQkxFMFloNTN5bHNj?oc=5"
-          },
-          {
-            "title": "How the Smithsonian is using AI to connect artifacts from the American Revolution - ABC News - Breaking News, Latest News and Videos",
-            "source": "ABC News - Breaking News, Latest News and Videos",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd3BtN0x3OHo2enVINFN2ZWpCRUYtRVpGOFczcm9NMkVudnlZOTlKdHdVTUpHTUN2aGRhMjIyWklJcFRDSFZrZkNfQUNseXp1ODBqN1UxeEJkbWNvQnFBYW5vSnltTjNxcmtGOEszXzBxNlZGYmlPN1haTkMtOENYVldWUHd1M0ctSGtJU2o5X2tzNTFNaFdRcGtLRdIBoAFBVV95cUxQa0lhZmVzTE9DcS1rY1JaSEdBR1lZSGJQZ0hVTENVRmp3RlEwRTdWTGliNlRXcTEwYWdLSm5zMWN5OUpVM19HV1ljbVlhOFQxZVhlXzhuNE5LUlpVN18yYTVXdngySldlRFVyUEpLMjRxWUdiZEJVbDJmWjB0OWgxVy1acHQ4LVZkcjU2aVpJN0xsdk1DeDM3QXFsTzduVjZF?oc=5"
-          },
-          {
-            "title": "Anthropic to invest $100 million to train AI engineer talent - CNBC",
-            "source": "CNBC",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0VyVzRrRmNEN2NIRVpSUlRjLW41RDlOdFlzOUtDV0tvQ1ZjVGJOUXMwaFVaZGNWbXJMaVVhODdzcUZKY0dYdk9PQm9xOUQ5LW9hVFdwZDlUcmNSWkhsUG1FcmxuSS1zcmltN3Vnc0ZPRnBCNU52cW0yUWNreTY0eGVrZDZVRVhiczNjR1I2emc1dHVxOTJGa3l4alfSAaIBQVVfeXFMTWRBZndla2REclF0bUR3dTdZcWs2ZEdqLXdwNHEya1BSeXRNZXVEUWE1VkdCWUFQcFJWSk5Ec1U0QnF6VEhDQTlQRlUzTDhCc3ZONHE1SEVOMmVtTFNOM2laLXRKQnRWRkhjQk5ObzJSeERNZFBsQ1pjaEpiUFQzbk5Ga202WUVDMmNZZVhFRWNkRGx6aDRYMXY0b2c2QzFFSFpn?oc=5"
-          },
-          {
-            "title": "Trump expected to name Jay Clayton as AI czar - Reuters",
-            "source": "Reuters",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1YtcTVTVVkxcjFJU2xzeXBjNlBrbDBveDJKa0taREVldjdkTWlVeFJXRHEzbE5lM1ZEaFVoTVRKMWNKQjRwRlZ5OTc2anRMNkhPMGVtSk5MdUR5ZWxNVzgyUXNNbTMtSDZtR0NWRkVBZlNDOUR1a0txd0wzLXJ0Mm1Gb0pVQk5qeU1jdE1nakdUQmw3c2REOGtaM3k?oc=5"
-          },
-          {
-            "title": "AI leaders say they want safety, but on whose terms? - Mashable",
-            "source": "Mashable",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xOWN3R2hUblczQnV0ZUpVb1JIRk9tRFNKWW95UFZ3VEZNOTNxelowa2F5OVB6d1Bpd3YzeXNMaENsNVd3OHRld0dZTVFELTJJRTRnZHV0cmgxWjZ6azdKQkZXelZsX2FpaDVz?oc=5"
-          },
-          {
-            "title": "Sentence tossed in Arizona case where deceased victim was depicted speaking in AI-generated video - AP News",
-            "source": "AP News",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMi16cTNZMjkxTF9idnl4aWhCSFExUG1uRm9INEJQT2JVM3h0bGRJUk9NaUtWRl9ZMHBmTl9QOE55OTN4NzRGNXd3dUJEbzA5UThHTXg2X2Z5aTE1UXN6QjdCUkN5VWdWQlpIeG1FV01lcUljU0lzYUdmUFUybWJMV0VaTUh0SndaOXdV?oc=5"
-          },
-          {
-            "title": "The latest AI news we announced in September 2026 - blog.google",
-            "source": "blog.google",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzhIUnNPaFVfR0U3TGVCM1AwRnY0Rk15UnVkM1Y5ajNPYUtXWE1mOE5OMjNNM1ZsN2czZS1iOUY5VVRkTnc3ZWhVVUdPUFZHTngtTFl0VjZjREpFbGRWV2VhV19ucVZhN2hra21IcFZISHNZcF81bHQ1Ti1kbnhhcll5a3dzNTl2aGpuZDhB?oc=5"
-          },
-          {
-            "title": "Pope Leo on AI Art: Beyond Aesthetics, ‘There Is an Ontological Difference’ - National Catholic Register",
-            "source": "National Catholic Register",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yTnJJLTYwQVN0T0w0dktyNngxWmxtNFAxdHZEZzE5TGRDMU03SE83UmRGaDdJZk4xa2hDVEF5N2czcDhyYnRCOU5JZ3YxMm1qRndBbEY2THVOdm50UmxtdldkS0ZyQ3M?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       }
     },
     "Politics": {
       "city": {
-        "summary": "In Kolkata, political discourse centered on policy and local governance as West Bengal Finance Minister Swapan Dasgupta called for scrapping the Urban Land Ceiling Act. Debates also emerged regarding the intersection of politics and educational institutions, alongside discussions on the growing influence of paid political collaborations with social media influencers. Meanwhile, political tensions simmered with local figures making sharp remarks concerning state administration and leadership.",
-        "articles": [
-          {
-            "title": "Is the reel you’re watching paid for? Inside the world of ‘influencer’ collabs with political parties - Telegraph India",
-            "source": "Telegraph India",
-            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMmFLYlZ1X1JfelIya2dPRE1LbW9CUWQ0VXluODljcUxyMTlmZ20taUxWVTRQUU1XZVpBOFZ3cEFkZ0F1aE90MEQ1bU1iOWJrVHRhcnFtYzQwWFRlTDlibkp6ZVZGSGFwczhJc0drb0lKOGU5QkUwR2tGRWwxcWVfQUltaWlNNFhpUXhla0o0VEMtUGdCWkI4V3hVaGxhMUpPUGpHclJDb3hya3NrR2QwS2JERVprSTV3MG5qV21ZYVExeTE4NllkZXlKVmRITEZmaWxsZjhMWER4VmZuWlRWRERveVhEekx5dWfSAe8BQVVfeXFMUFVjUDFzYmdnVDZoV0t1X1F1WUpHTGdwaF81b25faFlXWV81cGhKUzhGN3hJUVVJMVJnTVpTeDM3SUZ6cmpKMW9NY3lXZUp4aUFDaXVWaVRURlktaUxGYmQ0SjJPdVRfQzdZSk1ZYXlwanlqUGF6S2JIX2JfTS05OGx5TXlhbldMMUt1YmpLU3NMaU9xX21yaGlLc0tzeTFzMzVzMlVLQWktQjdKTWNES1J3dXp0MEtIRUc2anFodW5VNFZNWkNCVVFBRG5sWWtrclM5ejVWWWRpQjBlOTNiWVU0ekxodFNvc3FLZm9WRzA?oc=5"
-          },
-          {
-            "title": "Watch: Emotional pilot recounts moment of Flydubai attack - BBC",
-            "source": "BBC",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40RkM2WnFLeHlVWTBaamVpMk5CQk5QMFZhM1NLZDNmYzNZOThTeUVFRTNlUVJ6dG5iNDVNM280d0hMamVBMi1BQVQ0UDZqOTJHSTdreFowdEc?oc=5"
-          },
-          {
-            "title": "Mortal remains of 2 J’khand yoga instructors killed in Vietnam accident likely to arrive on Oct 3 - ThePrint",
-            "source": "ThePrint",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbFRDeWJJZGRXb21WY1NEc2NLUjNacnllOGNId3NmVGlaWkdEcGtQcnd4ZkFRbjB2eVNwVDNld0ozZXk1UDQ0aW5BOG9MX3VnMVhuVUtkUDBoZGNpelloOUJCV1lfUkh2WVVGRjlTb1lPS0Q1ZDRrZkp2ZEtLQWNTZXBTZ2s3by0xRFlvLUJOS1Z6TWxabEhJbG5idTJsNGFOdEJpbHlRdUlqOFc0QlJlYnAzaGJNdU0yWkNCMXNNQkVIaklVNUl1eEo5b9IB0AFBVV95cUxPUTJoYlJ2akxYWHdkcTZOSzZwdmdaXzYzWnlrSU1XYl9vQ05US0psaEJCWF90VUZiS203RUdNSnR1eEpTb3k3eEtQb1RoTjI4T2V6LW9ldzZITm9hZ09IM0U5ZzNNbjFQTkR5cGI3UFc0VjkwTG51ZmtuVWRndy1RamlSa1AtdG1ad0dzYjdqbTRhYUE2N1l3ZVdoZ0l3aTBZTzB0cDVWNjdkR1ZBdVpFZnNMdlI3VjQyMTNJNWEtN3l4Y0tHWEhxRHgzQ3cyeDVy?oc=5"
-          },
-          {
-            "title": "South Kolkata school attack: Probe reveals accused earlier attacked same student twice - The Indian Express",
-            "source": "The Indian Express",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd3BITkFuZWRDMHpaU0RvZndWY3VtaVhEV3ZjbC1xcG5Ha282UXdXdnprRER5cmJPSUUwYUNUZ0ZJTEpYOWhWcC1ZT2NGVERIcFNmQ2pxRmI0cEt6ZThjUVhDbHpoU1FpdUV6QmFjaTJtTEpTTFlqcFNJd1pEckdOTzVZemhDemNxanhuN0FibUNRQWU2cUFTbTUzZ1NYZkdQT2p1d1ZmYzB3ZFJkbU9CdERrQVMtWTJCY2hnaXdpcEZJcDlMTmpaVDBGM3hyemlKTmFvRGpnbDNHQW9vd1E00gHmAUFVX3lxTE1pUzd0Rk9vb05XU3NXWUJoNVdhV1ZsaHVuREQySkt1R0pJQUpVSmlUeHNmY1VDaDRKbWxXY1U3S0JyUHVoMlhyNENRRTYxNTJ2MTlhN2J3NnlzcGcyMEpQLXZDLXlIUnVKY2hCWXh0XzVGZGpDVXJBd1NZaEhVOE1UU244QWkyaGk5aDJMVUhMSWUwcTZVWnRpazBwdjNMYWMzelBuY2JVaHdLc3F4QmhUeGM3Tm5vRUI5alY4UFBtcm9ndnFlU2JneU9FeTY0MGpJZS1VNGhIdHVacVptMkZFVFZSSnRR?oc=5"
-          },
-          {
-            "title": "Should politics take centre stage in educational institutions? - theweek.in",
-            "source": "theweek.in",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2g1cnp2T185SzZqeXo1VTg2ZW9jREptRzhLaW5YUlVzaktQTVRSM1VTZmFlT1AtZjlFa1hKRWx1UjVrbU1wSzVHSzV4STUyUFZPR2JIWGJaaG5zVEJJWWZnektSdnhwSnlpWjJDS1NMRWZ6cW4xS2FzQTNQSkw2SC1IblBSNDgzR0hzYXRfNzRYWUR5UmUwa2w5ZnlJSlFza2htTS1NRFZ3TWlNaFdlbmoybG9ZVXZYY0tZTXdXbUFEU3RYQ3F5LVNXa0ZpUdIBzgFBVV95cUxPU2g1cnp2T185SzZqeXo1VTg2ZW9jREptRzhLaW5YUlVzaktQTVRSM1VTZmFlT1AtZjlFa1hKRWx1UjVrbU1wSzVHSzV4STUyUFZPR2JIWGJaaG5zVEJJWWZnektSdnhwSnlpWjJDS1NMRWZ6cW4xS2FzQTNQSkw2SC1IblBSNDgzR0hzYXRfNzRYWUR5UmUwa2w5ZnlJSlFza2htTS1NRFZ3TWlNaFdlbmoybG9ZVXZYY0tZTXdXbUFEU3RYQ3F5LVNXa0ZpUQ?oc=5"
-          },
-          {
-            "title": "Mass Detentions in Delhi as Protesters Demand CEC Gyanesh Kumar's Resignation - The Quint",
-            "source": "The Quint",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcW05QTBzQWdybW9kSF94S1MzTGZidmhYLXJRYUp6c2prc2dnekJlT1NpazB6V1JjekJQcjBQWURzX3VpT0RSRE5mOHN6NWxLZkpETEZiak5tR21rdEVnY1YxZjYtSWZ4LW5ORHVVZmVqOGRBbVlNX0hUNDZNNnp5bXNyaHJ6cW1yYnRlQ2htcEdyWG9hQWt4N29IXzNPakZOeDVKcmtDUUFMQzVIU3hF0gG8AUFVX3lxTFBMRjNxTDQ1RkZnRDNwcFVHTnRFcFk0R05IWUtHSUFLZ1poR0xHWXlEODRUdS0tM0g2RmV2dTVzWjFRVWR1MVhEV0o1RDkwWTU1SnBmRjgxSVhOT3pjZ2tkbnBzejVYOExhS1Z1c2daeWFOeEh2T0xrTHJqQTZHbjUtMUc0OTV2dGJMNVhlYzc1eE1idDhUUVE5bU01UEJqaWN3TFhqT1d5SF9pUGtTT2x3d2JQQ1h5WGl1OUcw?oc=5"
-          },
-          {
-            "title": "West Bengal FM Swapan Dasgupta calls for scrapping Urban Land Ceiling Act - Business Standard",
-            "source": "Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSnp5ci1oOVg0MFpUYUR4M014MjZ0QUxuU1FDOEJSMkkwbTJsd0NReUpULUZtbU1GNWR4dkVjeFNjS1NoMjJNaUh5dnd0eFVQU2lKd0g5aWZzSzJXajlhOXVTVi1kM09oWVhVaTFnYVlER2pHOVkxTGI5WmhiM3duQ3A1b0dpUEl1TTVNamNvSDRFMDBNR2otUzdYb3VfR0FsRzd1QWpPdjNCVV9wbTNYbUhodXJFd21TUlJLaG9xT1l3Rk1iMlBfczh5S2NMWTcwTUHSAdcBQVVfeXFMTmhpS3hIRHZiWS14Rm4tb3Vka2s0a3ZNbmxGZEZSS3NSMnhqM19kNkE2WGhBdWtZU0kxR3VqWTVOUllXUk5MZldVMTZZVzlJN3BPOXpzdXNDTHpHa21PdGtNVjJ3UWVaMFhPZnVGUHAxOEV2RUg5TnFleWdIYWVUS3JhSnBUUklEanp3QnptV1Nvemw1ZndERjM4VExwazZTUkc4ajMwM1luSjNDUi1vQlJaM1ZJWUE3bmF4Y2d5LXJZN2h0UkZjRlc3R3JFR0lXdklybmU5X00?oc=5"
-          },
-          {
-            "title": "Will fall at Shah’s feet if CM ignores Rejinagar: Humayun Kabir - The Times of India",
-            "source": "The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWW9RaDhMLXB3NkZ4elA1cG5yeUlGTU5oR1FJNlBzaF9EOFUxQ2FMN2VxcVBDNW05YTVxYjFaeTN1OGU2eHI5VkRBeC1hdWNGM0pkaWdFY3pZazM0Nkk4Q1JQVGtXRE5yaEVIUVJyUzAydEFJZDcwR05fSzNIYTBRYlg4aGNLTGlVamxPZDZPQ2RVQ0hVcXVvMkhIbGszRFVMbkxFRklaM1k5T0tuVVlSRGMzZjJzcXJZS1lvMGZDX0lIZWM1NTVuUDlfRjA1UFBOb0HSAdcBQVVfeXFMUERTaGFtSzVRMmF5YlBVRVpZZFI4SmxZel9wdWViQ0dDYzR2akNXazd5WFVIQkFmZ3F6dUxOanVCRFpVR0xnaGhtNkQwRmpVclRsSlhDOUJ1Nm52Zlc2NUpZRmloajJsUXk3TUpUbThuM29JSGJ4M3pRV2pDbUJIRFhoUzFyMElNYTl4cS03ZnUzVkJfNEZBU2FYN0dtZ3pZWFN6NTBZbmlFM2tiSGE0NFdibUwyVmFOTnpDVGpHRTMwNlFBbmZERGV4NVNDYXFFSmFHUFlJTFk?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "state": {
-        "summary": "West Bengal witnessed significant political upheaval following high-profile suspensions, with Kalyan Banerjee suspended from the Lok Sabha and Kunal Ghosh from the state assembly. Chief Minister Mamata Banerjee publicly accused the BJP government of fostering a restive atmosphere and blamed Chief Election Commissioner Gyanesh Kumar for the TMC's electoral setbacks. In response, opposition leaders claimed the ruling party's influence is eroding, while administrative controversies surfaced regarding voter rolls and government officials.",
-        "articles": [
-          {
-            "title": "Unprecedented Day in Bengal Politics: Kalyan Banerjee Suspended from Lok Sabha, Kunal Ghosh from Assembly - The Indian Awaaz",
-            "source": "The Indian Awaaz",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV1Y1YlJfZFNZNXJlU0dmTFdZUTF5d1QwRVJGV0VFWFVjYUhELXo2bjZwY2lkY196VktRWTRNRW1aa2J1d1lOZ09xbFIwRG5ac3U1Nm5LanlEb210aC01LWpjcVloQlVBb1dkdUVvMWRUYXJHNlU2UzA5T24yQzhyTVBHV2tmMEthdTVOM0tRLVVvWHpzMVNXYUxVbkVZd1BaQ2tXa0JKSnRMbk4yb1JiYkhUZXdwTDJyS3FlQTdkQ3I1YTltdEFBYnlmUQ?oc=5"
-          },
-          {
-            "title": "BJP set to form Government in West Bengal and Assam; NDA retains Puducherry - News On AIR",
-            "source": "News On AIR",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzdwRFNmMjgxUl9WbHREanRRaV9IS1NvaHhDTmtITHlTRjF2cDgxVFRZRlJXbmJtUFhaV0FncmtTX2wtdHJGaTh3dDVRNmh5QTB3S1RQMEs3X3VYRUlRWnlFVW5XUHcwNG5jNXBDSHliZkQ4M3pVTktQWWNweUdCZ1Y0S3ZWZ1gzOENOTHhZNVF1SUhrVEloa3hHYzZCTGk3LUE?oc=5"
-          },
-          {
-            "title": "Gyanesh Kumar's 'Unusual' Conduct in Bengal: When the Referee Acts Like A Player - The Quint",
-            "source": "The Quint",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNenVPR1FQZGxKM2dwRE1KRzJpSE5HaEhGOVdOY05qeW5UNmp1RmNHVm5mR2E0OGJtMEFZUUNSOXVYOWxyajJvMXdKWlJhTm5XV2IyX3VwVHd6OTZ6N3p4Uzd3NVBwZUpTRWdmbDY1OVlJcUEzOXR3c0ZwM0o2Y2tTVVFTMkpFRlkyNkk4XzllR1HSAZ4BQVVfeXFMUEVxTnpkRHZoV2JZWjJOYjROd1ZEWkpWMi12TFdyY29NWmhUZnBRRXB4a3NYR0N3STU1N1VoNUxXdnRjUnZTZE9oTjNBOVBEWjFWQXBPUTdwOGFIYWhBcThqVkwyY0wwVE4xcDhLQVB5RFU2QmFSTXVldzNaVXM4S2FVNVdxN2ctd0FvQmY3UlpHaDZSUXloMDhfakpOeGc?oc=5"
-          },
-          {
-            "title": "West Bengal FM Swapan Dasgupta calls for scrapping Urban Land Ceiling Act - Business Standard",
-            "source": "Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSnp5ci1oOVg0MFpUYUR4M014MjZ0QUxuU1FDOEJSMkkwbTJsd0NReUpULUZtbU1GNWR4dkVjeFNjS1NoMjJNaUh5dnd0eFVQU2lKd0g5aWZzSzJXajlhOXVTVi1kM09oWVhVaTFnYVlER2pHOVkxTGI5WmhiM3duQ3A1b0dpUEl1TTVNamNvSDRFMDBNR2otUzdYb3VfR0FsRzd1QWpPdjNCVV9wbTNYbUhodXJFd21TUlJLaG9xT1l3Rk1iMlBfczh5S2NMWTcwTUHSAdcBQVVfeXFMTmhpS3hIRHZiWS14Rm4tb3Vka2s0a3ZNbmxGZEZSS3NSMnhqM19kNkE2WGhBdWtZU0kxR3VqWTVOUllXUk5MZldVMTZZVzlJN3BPOXpzdXNDTHpHa21PdGtNVjJ3UWVaMFhPZnVGUHAxOEV2RUg5TnFleWdIYWVUS3JhSnBUUklEanp3QnptV1Nvemw1ZndERjM4VExwazZTUkc4ajMwM1luSjNDUi1vQlJaM1ZJWUE3bmF4Y2d5LXJZN2h0UkZjRlc3R3JFR0lXdklybmU5X00?oc=5"
-          },
-          {
-            "title": "Should politics take centre stage in educational institutions? - theweek.in",
-            "source": "theweek.in",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU2g1cnp2T185SzZqeXo1VTg2ZW9jREptRzhLaW5YUlVzaktQTVRSM1VTZmFlT1AtZjlFa1hKRWx1UjVrbU1wSzVHSzV4STUyUFZPR2JIWGJaaG5zVEJJWWZnektSdnhwSnlpWjJDS1NMRWZ6cW4xS2FzQTNQSkw2SC1IblBSNDgzR0hzYXRfNzRYWUR5UmUwa2w5ZnlJSlFza2htTS1NRFZ3TWlNaFdlbmoybG9ZVXZYY0tZTXdXbUFEU3RYQ3F5LVNXa0ZpUdIBzgFBVV95cUxPU2g1cnp2T185SzZqeXo1VTg2ZW9jREptRzhLaW5YUlVzaktQTVRSM1VTZmFlT1AtZjlFa1hKRWx1UjVrbU1wSzVHSzV4STUyUFZPR2JIWGJaaG5zVEJJWWZnektSdnhwSnlpWjJDS1NMRWZ6cW4xS2FzQTNQSkw2SC1IblBSNDgzR0hzYXRfNzRYWUR5UmUwa2w5ZnlJSlFza2htTS1NRFZ3TWlNaFdlbmoybG9ZVXZYY0tZTXdXbUFEU3RYQ3F5LVNXa0ZpUQ?oc=5"
-          },
-          {
-            "title": "Mamata claims BJP govt creating 'restive atmosphere' in West Bengal; blames CEC Gyanesh for TMC's poll defeat - The New Indian Express",
-            "source": "The New Indian Express",
-            "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUDduVk5QcFlLc2pCT1c5Z24waG9wc2pSZTlhWElITk5neWR6MEd6dGF3WmZ5VUJqa2ZSZ1V0M3I1dU9OUWt3XzZDaF9SbVFLbHlKcXlvM2w3TzUzcFotNEJ0R0k5c0ZyNG5XUVNKLW5fOGZjeTgyREJheEthWVNPclk1QXRBaURTdWdZbWNmZGVKMFhmb0pOT3BzQXVpMkdsRXNCdEtEX21UUGpQSjRNZ0FCOUo5bU5Bel95ajRkSVBSYlRMbzJsb0ZlZ2ctekJYMlZtaTRRUXpfM3NDMFprSS1NM2poQmYtVWpyUUwwS0FmU09majdsRE1Bdy1WZ9IBiwJBVV95cUxPdVRsUHVPZE1pcjUxaFBONFd4bUg1QXVKdnV0UXpMUHRPQUszS25taXU5cm1GTlZUVWdjOG5mS0JxWmEybmNZaUdSLTAyM2k1U3c0Nnota3FnWXNNbGxfN2g3SnlXYW9yTGp6bkdiSEhfcmpzSC1CeDEyMVA5cmtETlJrOUs4OXdiRUQ4eXc1OHJXVWNwR1BvUXpKbnpGRzdVRU1SQ0lhb29Db1lkVTJ6cVpaSDl0YnVJR3RlMW9qbEtVWnZjbWNGcUdYMndsQVctRTJXakszOGliRGJQNFo0TXhVQjMyUF9RSnNCTndicmhvVlBNUl9kVWVkYUZnemd6VDlmeWREWDdIYUk?oc=5"
-          },
-          {
-            "title": "TMC's name, symbol erased from West Bengal: CM Suvendu Adhikari - deccanherald.com",
-            "source": "deccanherald.com",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUEtaR2gySlFMMXVmdUlOZjg2VktJelpmSHlUTFRpZUZaWnBpNkhteGFYWVFZMHFERHU0TS1IVll4TjZxRE45RGFUY0tMeGN5V2JWcTVHMVpPbjBLSG5HQ1A0eFdGeUVKc3ZSZzl0NjNKZnJvM2gzUGNkX0NNU3FqLVVwOEtidHZtUDNGLUpGdEpWWTJnLXlIeUZYdHptYUJZN2RyamlXUDhxOGt1NWNnZkFqMGdtSktRMzZfS2ZxMjlmQTBaS21fcQ?oc=5"
-          },
-          {
-            "title": "Deleted, restored: Two government officials dropped from Bengal SIR rolls, back after polls - Telegraph India",
-            "source": "Telegraph India",
-            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNX05YOUJ5alRtcnF1UU1PbGVZZG1iR0NhUzA1b19BM3VhYnl0OEk4ZGFhMGZSMnYwbnZBOGFrbzhzVTdtVnJwVVlpZTg3TDV4WVFRSHpiUEZlZFR0a2d0UkIxYU81OVZxcWxla25HdW1ucEdGRnJxQ2gzdG16SzNIUWpHSnJEUHZUSm1YclFiaUdMblVVNy1kMVRvNjJCTnBQeVhpRGh4MGtEUzE2SGRMRGt5cE92YTJHNmthSFFLV3phdjBvd0lJSjhlT2FaU19uMGNfeDJhMjRsV3NwVEFvdGxGSldoQzlPaTJ1QdIB8gFBVV95cUxQNUpmSm9OZEJiXzlkSjZwR3g0d0xybnllYkJPM2tXemVQMDNmVncyTURraVNhbFZZRVhQZ1QybHhlQ3V1NHQwYll3OHBBVFI3OHhLVkVMc0tDdzVqY1JuMzlyVXl0MUNQeEVsMWFEYTBrVU84VURESDJhaDczQ0YtRHg3Wi1PSGYyOUVkU0d4UkR3eHpJZ1NhRVFzMmhtRzVwcmVrQU4wa1BZMEs1WG9ET290NlBveW1KUy16VDdsY29mMTRvaGR4X1R6UkNrYl9CYTdOLXpGekRPRUwwd1hvLWw2Z2Y2UE9EY3BJMXFld3pUdw?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "country": {
-        "summary": "Nationwide attention was drawn to widespread protests as members of the 'Cockroach Janta Party' and other demonstrators demanded the resignation of Chief Election Commissioner Gyanesh Kumar over recent voter roll changes. Prime Minister Narendra Modi faced mounting dual pressure from these youth-led street protests and opposition parties. Additionally, international developments included discussions on U.S.-India trade relations and Governor Gianforte leading a trade mission to the country.",
-        "articles": [
-          {
-            "title": "Comparing the Directions in Which Ideas Travel in Ages of Reaction - Spectre Journal",
-            "source": "Spectre Journal",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMHFVX2ZPNlo2QmJLZjZPSUd1aW9iZVh5ZzRSXzZhMGJGdmMweFpJc2RTdWF6ZlNPR0hWYW44Qk1JR3AySE9sNFltQllNejJNcjBWQ3ZxWnNlT0RoMm8xTFhCZS1DbVBBYUtURVFFQTBEdGlyYm5XeTlISjBsSl9BeFVpX0NpQ0hUR3ZjaFpjVS1TN3FVVXZPSjhR?oc=5"
-          },
-          {
-            "title": "Gov. Gianforte to lead team on mission to India - Fairfield Sun Times",
-            "source": "Fairfield Sun Times",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaVRZSzNpZGZnRFVqR1FpNmdCejBhUFloRGlZOHBMS09PVVBfY3hqeGpXSkM4LXIyT2lWZHJDeTBWbGdNMXl6bDBGM05hOTdHc1h2bWExbWNrQ1NmUzQyVWRNTEpCSEliRTNzVHpSekR6ZGlfbHlOdFMtdXk0cWRTRC1JWkhjcldHc2J4VXQtZXY5Qy1BRnNZSl9XaEpycXRYUlJjRXZHb0JnV2I0ZzJ1bWZNc0g1MnJDemRXZzhuN2JzN0ZGMENNYW84b1E0N3RfbDJZMTFFZFE?oc=5"
-          },
-          {
-            "title": "India’s Gen Z Cockroach Janta Party protests election leader after voter roll changes - wng.org",
-            "source": "wng.org",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GN0plQU82TFljMUNhV0UwcnFqOTJXZFFWdFo3ZGFvTmUxTGlzTDBMdUZUaXM1TXRuN1A5R21Ha0Jpd1pKaTIyTC1kSzQ1M09TLWo3X1F6MlVVUlVCNkJaeVpsV2ZWQ3c?oc=5"
-          },
-          {
-            "title": "Trouble in Auroville, India’s ‘City of Dawn’ - Financial Times",
-            "source": "Financial Times",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2lwSUxQSkQ0Rlo2WXpSRDZvNU9mTG5uYW1lUmlOczQyNEtwLU83MHhRZ0lEUTE0R1JqMXRwNVFRZkpjVERsMHhOUG9TUWtsNzYtbXNtVVI2bk9MNzJRc3NBOTY0UWtqcDJwNlM1Z0RGR0g5NUNIWDlXalBwZDYwNEp4cnA?oc=5"
-          },
-          {
-            "title": "U.S.-India trade deal not imminent, says trade chief Jamieson Greer - qz.com",
-            "source": "qz.com",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nQmN4Q3A2dmxEQm9NeG1GOFhFbkQ2dXU4QkR1VDFBV1VKR2NZS3N3SFhSMnM2NkdaR2YwVUw4V05ucWtKZHBxQWNjYkMwVldUUU8zb3BibTN3NXBraUZ0RE52alk0R1FNRmhWWnRJMllTQVFoelZVOThjTQ?oc=5"
-          },
-          {
-            "title": "India’s Modi faces dual pressure from ‘cockroach’ movement, opposition parties - scmp.com",
-            "source": "scmp.com",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaVp6UUxqMEpzUG1hQXpfME5PcWpzNzd5eU9ld2pqa3M0NVRTRDQ1aW5RUnZfN2JBM09EaEtucTROcWt2OURzUVVJZVBwMS0yWjh2emF3enVva1p0VF9BU24zelZxSEFPbDEtalc5S2pmbjhJOTg1UDFCeTNDY1VwM2VCYURDSE10Q2RXem0tM21POXlOcEFuLU04NkdBNldDbUdULW5rdXZSMTlneG50YUVDTWVsZ3ZrNFdXaHVXSUNDV2_SAcMBQVVfeXFMT2I4V2FSVHZ4VHUxNlFFNzhlUnNCRnZqZWJyTkw4OWFiNVljSFFLM3VRamxYSXViSHQ4T3lIemlpQmZxbTRkekhFdHRRSlRxNlhkNjI4ZDNvT01QZjk4eTgyeTh0VHdBSDZTcE1xcmNJbXlkdkxLU24xdlE1OUY1Um9WaXV5NXRHYjlBbmpGczBJQmhEZ3FreGRWeEx5b3pPaURuVG9XcGtuaHB1ZVlWaGZ6WmJIaVdIMzVKajhETUs4UXZJ?oc=5"
-          },
-          {
-            "title": "Captain Smit Machchhar: The 'hero' India pilot who was stabbed on Israel-bound flight - BBC",
-            "source": "BBC",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxbzNLYlJHM2MtVk51a0hGSTFta0V6eUZhTVlPRXVTcDVqVV9WQVdyTDU5c01jelI3c25QdkZsZWtGVGR0TWk0RklJLWZpc0ZsaE53bDg5YjEwWm8?oc=5"
-          },
-          {
-            "title": "‘Cockroach’ protesters demand India’s election chief resign over voter list changes - East Bay Times",
-            "source": "East Bay Times",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTRtOVRmemhhdGdNUHY0UWpGbDc3YVY1c0NEdzAtaElQdFBKaTQtUVRiT1RRMnVhdjFSNHlCOFRDSk4tSjJ1UTluUkhpcURYWlFRNk9oNjJEYVdCeDg3Y2J1Q0NJYzBJSlJIRV93cThGbEhiNk15QVRLd2tDQnppc1ZtaXVfcHZ2NVlGbmpHV2x4VUprTUtaeklLVlA?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "world": {
-        "summary": "Global political developments over the past 24 hours highlighted various regional elections, policy debates, and leadership milestones. In the United States, discussions focused on shifting Senate maps, AI guardrails in Texas, and Philadelphia Mayor Cherelle Parker reflecting on her administration's policies. Meanwhile, international attention turned to Brazil as preparations ramp up for a major political rematch.",
-        "articles": [
-          {
-            "title": "EAST TEXAS POLITICS: U.S. Rep. Nathaniel Moran talks AI guardrails, affordability and reelection bid - KLTV.com",
-            "source": "KLTV.com",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWE90MlpBaU1POUY5SGc5ODdPSklwRzNHUy1CME1wUko2bVdHaGRpYWFsTXNnYTBqbG90NWVkSXBVRE5VVHBLdnktMkktNzJmdHVaQTRuSEVTNTVHMGNLM2E1TXY1M3VseWNRd1dScm02RjhiLUJRblBiWnlzSUVydnVSOW16cVVuOTdpVVljLURsdHBWRVNxd1ljX1lTZ3FBWS1xZmZkM3FXRE9PNGVXakcyYVE0NzNCMF9LUmZHN09Rd9IB1gFBVV95cUxQalM1Nm1PNXVldWYyNUVmX19IeW1aWXJlSjhteGZEYlJYRlJ6R0RtcHo0WG0wY3dOSXBpNHExUnpJY3JQQ1cyRTFaTG5iLUhFOXh6NXZkb2lDaGJfbFZlVmNhc0RBOXZSeU9BMHR6SjJkVU95dFZ5Rlh3UXJJUVdwcXNXWGtmNUlhaEp2Yjl3TEt4eFZRUS12ZFFrOC05X0ZsTlVlNXN4bkJaNEd5eEFkSjl0bUI0NDhBQ1ZPc0NfQjNGR2RxR0NEbDRKYzVXSWpINGFURUxB?oc=5"
-          },
-          {
-            "title": "The shifting Senate map: From the Politics Desk - NBC News",
-            "source": "NBC News",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNckN5bU01Zm9Ed3B2OTd0d3JDeTl1WVRtNXhVZzNaZ2ozQ21ySHBIVDYtdzNRQWpGa1pDTnZHcENlbTA3dnlwczd6X1FJTHYySlByb3laQ1A1X2x1VEtjQ1dMbGY2TTZlc3Q4UXZLZ0hrTjBLYVFqN3lDZ09LdnpLQ3pUYXVwLUZYMXJHdmEtS1dTSDFQNmc?oc=5"
-          },
-          {
-            "title": "Philadelphia Mayor Cherelle Parker on first 1,000 days, politics and policies - NBC10 Philadelphia",
-            "source": "NBC10 Philadelphia",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNalc1aVVGREFBN0J6RWtLalU3LUYtSldzbm0wNFhON3doY0pYeUdEazdpQVFOcGlNMGFPZ1VtOW1hemEtcE40cDVkSURMWE9WTm95akQxdXJpVF84V2lqMnF4WXJUYXBWYndfQUxQWHp4R29BakQxclQweUgwUFg4SERaMTc4QVotZm5icl9BV2hvUHlzeUplbXdDM29sVXJHTC1yOHNpbndScWQ2dnJjZNIBuAFBVV95cUxNRDhVTWlETVNVRGtfcjNYZ3RWdzZUcllFR3UyZ2otQm5hR0RBbTNIUzFMQ2xDWFFkR0xxWGxZWEhzQ2RFeTlGUWpWbUpBUjkzM2RCS0Vwa0JlZl9RdWNsV1JfVHBSam5YNmtEWmhaZEtDWElpVmUtai05M1FLOTROdTZVUnQzQ3NIX2N4cGpwTExnQ25VU0lPSlRUQUozaFNRZFI5SGRJczNVcXY4dUJjQ3pBazFPN3pr?oc=5"
-          },
-          {
-            "title": "Brazil's big political rematch: What to know - NPR",
-            "source": "NPR",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVpLVS1aSUxZdXVCNHFOS0U5dWs1REd5S1RLRkttb2ZQa1RzaXZLRzFJMkR3TUNNeXp0TnVFLU9acUxqRW9ZZDVfdGZsQjN2R0pxREYyT05GeW4zaG5teThlRVBra2NmVm12eTV2Q2pTbGltVE1hZ0NWVlNaaHphX1ZhYkp4TE1EcWhTMmxHUlZpSmRaNk9F?oc=5"
-          },
-          {
-            "title": "Trump revisits the scene of his political ascent as Republicans struggle - The Washington Post",
-            "source": "The Washington Post",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXFuS1lIdW9tc0w1S0U1a0tvRGhGdVZEdzkycnRkeURWZV9jWkkyQUtrN3F2RE1DU2k1MkZtTERZU3dCdnd2aHpXOVgzeVN0QkItMXNOai14Vm1mYk54QmQ4ZE1vZ0FLMUpyNnQyYl9nRUZjM0syMTRFQk85WjNwU3dXSERkM3hJcW5IWWk1UE8tdmxsdENUa0JOYjZiT1gzRGpTa3o1V1paQmpMNm9TNDR4X28?oc=5"
-          },
-          {
-            "title": "Data privacy lawsuit, subsidies for childcare staff: CT politics news - CT Mirror",
-            "source": "CT Mirror",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWEZuUDlEeGtiS3pZNDZCZktxS0FHZDEyNVBFaXNqYUxvU1k5V2FVbjE5VmhBQWtHdlYwc0xpYlpQdDdYNXAzYjRvcjRxVnBhRTZMNi1aRVlycE5HMnB4X1ZqX3NPWnVVSzVLUUFlMnpERG1ZY1pyakQ4aGtRV3FJQnFULWthM3RHWFlaSXZB?oc=5"
-          },
-          {
-            "title": "New Mexico group seeks to ban all corporate, ‘dark’ money spending on politics - Source New Mexico",
-            "source": "Source New Mexico",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWlRQV9nbzBMNWdwZ0tSZExyXzJJQW5OOXlBei10SVBEaHl5ejRiWXcyRldHOWlyaVhaYUtBZmhZT0dFVzNVZXRoZ3BMUVZxdkZTbzV2THRuOWRWQ1g5SEZybERjeDU4LXZsZlh3MlpwSGJiVVkyZldhZ0REUzFYb3JMRHVDM1dEM2NhU2NTbjV2VGpscTJNcmtVU0tQaFpIMGhSdEN3LV9jVmdC?oc=5"
-          },
-          {
-            "title": "Velázquez, not Bichotte Hermelyn, leads BK Dems, judge rules - City & State New York",
-            "source": "City & State New York",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM05WMUJXYU8tMEgwVFFHU2w3NU1WdmNLRVRGZTVOQmVKZUxPMTNmUzdocmtYaFJlaXhNMUM2aGExalQzYVdMMTZwY3dQSUlJRVRGNUczMkFkMmJoRFRnV2ZVR3Q3alZyclZJNzgwdnU1MlNZVG1ycGR4YjFfYlVCU3k1aThpQWpZYml3ZVVILXhGVUxoVVF2eGhfckhxYVZuak9PcFdMTlktN1NXLXM1a2tPSQ?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       }
     },
     "Economics": {
       "city": {
-        "summary": "Kolkata's local economic activity over the past 24 hours was highlighted by the substantial financial impact surrounding major sporting events. Discussions centered on the business and economics of high-profile football matches, generating significant commercial interest and local revenue. Beyond this single major sports-business intersection, other localized economic data remained thin for the day.",
-        "articles": [
-          {
-            "title": "₹50 crore for one match? The business and economics behind India’s biggest football night - financialexpress.com",
-            "source": "financialexpress.com",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZllCVEdaRnFyUVdlU1c1VjA0NlBEYUd4V2I2bGdILVo0dnpNSUxXN0ZRWENWcmFBRWoybTFEMkJBVzFpWnhPZUJkeWIwTlJyc1NBdGZLcndNSmIyQWFLaU03WTJMNFZjMnI2LTV6a09BWXV3dGh4S1QxN0lPakttWGpqOEY3Smc4QVF5RDU2dmQ3bkViWHRDZVRlNnRvVmllWjE0UlFtRC1vZDViNFZqMVRKMUFFUy04c3NFdi1KUV8yMk1Yb2pvcWpCS0hsTUxx0gHXAUFVX3lxTE9KakZDNk4yTTlzNk9jdlNRb0ZBVnhFb3ZDaHVSSXVNVW5iVUExWllmT1BrdWZyTWdfZUIzSkxSOTBWN29VejgtZm0tME5wLXJmNktyZ2tjOTFSWkQyd2g1cVdsUVB6bEZpWjFFajh1UW9OQ19PRkdIcGw1c21xMEN0SlVCeXduS29PX1NDMnFXWmdKdkxFdmRYNzlXMkpIRlVQTThJMERVbXlCV2lnNXh0RXR1eFpRc3hRR2QwQkRWbWJPNVAxb1hQQlRRRS1TdWZ2TVQ3Nzlr?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "state": {
-        "summary": "West Bengal saw notable private sector investment commitments, led by Merlin Group's announcement of a ₹10,000 crore investment plan over the next five years. On the macroeconomic front, broader national data impacting the region showed India's GST collections rising by 14.7% in September to ₹2.04 lakh crore, signaling steady regional and national economic momentum. Other headlines concerning the state were largely unrelated to regional economics.",
-        "articles": [
-          {
-            "title": "Merlin Group plans ₹10,000 crore investment over five years; targets ₹700 crore sales in FY27 - ET Realty",
-            "source": "ET Realty",
-            "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPN1FRalNtdUc3R2pUbmtsTUdJVFJsYlZsMDJiM0V1bHZvM0wybU9SQ2w3VFhKbHFWSGdmOXBPOXdOMDhlZ1FuYjVYNngwNzktdGE3VjJsRmo1MkhvandwY196b3ZEbmtrZXViZlpqeGR0cVJrdjEzaUJic3NMNTYycFh0azAybXNIRHRORi1USThheXptR0J2bDFpVnpJS1F3TU9SVWpTMnFNTnY1SzlCblpSbDM0cHJUdllxYWpucGt5a1Z6UHFpb0hvejYySFpXOHR6cTB0Q3pya0hSVS1JZXJSdmVfQUViU0JNRnhpaDlxSkHSAfMBQVVfeXFMTzdRUWpTbXVHN0dqVG5rbE1HSVRSbGJWbDAyYjNFdWx2bzNMMm1PUkNsN1RYSmxxVkhnZjlwTzl3TjA4ZWdRbmI1WDZ4MDc5LXRhN1YybEZqNTJIb2p3cGNfem92RG5ra2V1YmZaanhkdHFSa3YxM2lCYnNzTDU2MnBYdGswMm1zSER0TkYtVEk4YXl6bUdCdmwxaVZ6SUtRd01PUlVqUzJxTU52NUs5Qm5aUmwzNHByVHZZcWFqbnBreWtWelBxaW9Ib3o2MkhaVzh0enEwdEN6cmtIUlUtSWVyUnZlX0FFYlNCTUZ4aWg5cUpB?oc=5"
-          },
-          {
-            "title": "UPPSC GIC Lecturer Result 2026 Out @uppsc.up.nic.in, Check Revised Merit List PDF - Adda247",
-            "source": "Adda247",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUlZBYlMtS0JZSWdaQTgyaGUtWFB6aDRSOGJPZXJqYzF1blBvNWEyWURYaHNHejZZZDFVUkRqMnJRXzVGbUxKZWpZb2tfQXpFTGVvUWZPS3ZmX2RZZ2NYU1A3TXVndERVRDg5Vl96WDZWbjlTSFFSSzhvRUs3LUNOVi1zT0U?oc=5"
-          },
-          {
-            "title": "DSSSB PGT Vacancy 2026 Notification PDF Out Soon, Check Subject Wise Posts - Adda247",
-            "source": "Adda247",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sZjVGM2R6Z2I4QXZVVXNDOThrX1BoYzZ1UUFJOVNLMmZqelgyaTRZR0s1aWV3bEdMdWxzN0hFZ3pXSW5aS1VUdV9uVjZWd0NQYlItSUdnZFVHOGpUY2N6NW1jVDFnSElfUTYzRlNyTlRGVzRRVzZaN3pR?oc=5"
-          },
-          {
-            "title": "Gujarat TAT S Question Paper 2026 OUT, Download Subject Wise PDF Here - Adda247",
-            "source": "Adda247",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWU1iVjZQYjNIaENUS1hnbXVmVFd1ZmNQTFlLZFR5Sy1lLTZZcDRSTzRyRl9WSzc0UmQ1VlFKVGNnSUlSSW9zTVh2X2VFRUtMc04wU2ZGNEx3ZWM1Sm5TSm9Pay1TRDctNm9HLUxidUxydHpvMUYzTTN6TGpDZ296Rm82eTY?oc=5"
-          },
-          {
-            "title": "India's GST collection rises 14.7% in September to ₹2.04 lakh crore, signalling steady economic momentum - thepamphlet.in",
-            "source": "thepamphlet.in",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcXA5T0VPR09tYnJSM2JHMGwyTnR5c1R6XzlKUzk0bXJHQW1WWEVRamlGS2FTNmNZbmlIVTR5NkV2dGVRbWdLMmZQcUtLcmRRdUxRLWVMVW53OG5lYVNITThuMDBiZWFISXlRVDdyeFZ0WkxoTUFvWjF3M25Eb1lsamVLdGgwSEIyZElveWRrbjZaT05MX0g3V3pkazdhbDJTaXM4WDdCeEFCZ1FzV0VobzRQVV90ZFg3SThKQUVBa2xNMTM3ZGdMcGd6djVEQQ?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "country": {
-        "summary": "India's national economic landscape was shaped by a mix of strong growth indicators and cautionary warnings over external pressures. While the OECD reported that India remains the world's fastest-growing major economy, ratings agency S&P noted that growth resilience faces ongoing pressures from energy and capital flows. Additionally, discussions continued regarding the protracted timeline of US-India trade negotiations and the durability of domestic economic reforms.",
-        "articles": [
-          {
-            "title": "India's Economic Journey: 150 Years Of Ideas, Policies And The Road To Next Growth Story - ETV Bharat",
-            "source": "ETV Bharat",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFVwdkFnQmxOYUdzUER5bG5uQkE5ZjI0WmVDaTQtOG5aYV8zancxQ01VMnItVWFSNmZiTllMY214QS1wVW95Q3FTV0xyWnFJcVRLT01EOTI1X0pTTmx0MzdNXzVZaHYtVFdrUVZxSl9MZEZfSVBidXpuX1JvT0VtbmZZR0Y0Z010dDV4NWE0aWNKeU0wNENrYjNYM0psWWVpNEJtSE1lckJTMXBKTFBzUElnWFVGTTNPdThuZzFqR0NaX0NVUWNXdnVVM0_SAdIBQVVfeXFMT3RVN2JLVWdpSlJ0Qnd3N09wMUJUN0NYZXZKMGJpcGhNWk1acVNwT3VMLTVCRm5hX3MtSEFKZ1ZoaXZTd2JPREhEOGdTd2g1LU94RHA0Tml6ZEJ5eF9SSHlSdlUzMi1mb2RZWkxCUnRuaDVRSjlWTTZtVnZtcUswOTlBUnBCenJHdWh5cjYtY0diRmt4YW5iNjNiX081X2h0UkF3bm5ZbV85YW5qQ2hxeVc1MmhUQjNPV201MXJmZE1ldmRSMGFlUWNacnpDMnFzd2NR?oc=5"
-          },
-          {
-            "title": "India's growth resilience faces energy & capital flow pressures: S&P - fibre2fashion.com",
-            "source": "fibre2fashion.com",
-            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQckJWcWJFNENZVVVFTEJOcXBCbUEza2JiNE5MMVlkUTI4QmpKZzdHUE9iaHQ0eTdvUXJPdk45OHcyRE94SzNhVk5PeU9VdHdGYTZjejZGV1AyM1k1aWpRSE1OR2RYQ3V2M0FwSmY5RVlpcmJSOTVSX3dScFJnaWdjc2RUVmVERkRPNzh5aGczNFdKLUw1QUYtR0tqY2c2Vm9lTWJkMDMwWHJrSG9DYWdESF81andRTS1lS29jMVpzNG42N1NDT0p4TFNVZ0J1N204eDBqRUVkb2ZaZw?oc=5"
-          },
-          {
-            "title": "How has Peru’s export-led economic boom survived political chaos? - Dialogue Earth",
-            "source": "Dialogue Earth",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRkJSX0F2YTFFS2lvdGJPLXk2dy1HRGwtSGN3aWpSelBPMWdCRkJyTXlWbFQ3ZmEzUEJYSXZzMXhXai1BRm1ScWhSdDdCWmhwaG43OEpza2dNLXFNLUlyMkIxMXBPcnNkaFAtMlVqazlQUGRqNU9hcHFRdFd3NHREeG9oTnBubGFqS01MVDdHeFRNZkF5clZZWVFsYmxjejVE?oc=5"
-          },
-          {
-            "title": "What does India owe every child? Deendayal Upadhyay, Satish Jha and the political economy of education - The American Bazaar",
-            "source": "The American Bazaar",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQakJTVDEzS3VkVU5Ib19ybDRGeFN3YXJsZ29XWlVwdUx3NU5GRlY1UTk4TEtfTUIyVU9NZVBrR0ZveF9zYXllNTNBSDRfaGlRTTVZZ2dYNi1LX210TGNCNEtyb1hTcVdDQmNyOXdJQ0VvaXByYXZLajlQa2tfeF9RbnhwckZtX2owa3hV?oc=5"
-          },
-          {
-            "title": "US leverage, India’s limited options: Why is the trade deal taking so long? - The Indian Express",
-            "source": "The Indian Express",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNTV5VXVWVU00emVsR0szR0lxSFZETjhqT2NVQkxXTlcySjFrTm91NGMycVZRX1BfXzR3amxlUHJ6MTJNLXFmOV9aY1FTUXJoM3lUWGtpZzJIaXl4TmpreVFYN3JBZFhYb0xIcE9vMERnSURwMjRrY29UZTVYTU1Pa1dWdTBSb0NoajlGMHV0QVhNLThxQUFmUGRXY0ZlRkUyWnk3U2h4TWUyUVMzOGo4VVBB0gG4AUFVX3lxTE1RVHpMX2pCS3QwUDdkTkFsTExZVDlqZkYxdU1NTjE4bjRRTE9XLTYyR1ZHY2d0WVAxc0ZTZ2U0YV9vcEk0Y05KV1pHSXlyQndiVXE2NVd3SXFfZDBnZjNaTjNCeUtuTFVXTURyVlRtbU93LWdudC1rOWs4YTVxS3ZCN2ZaLVpubzdXcTNjOHFoLUhjMF95QVBnd24tZGRwdVBMNjJpeWpEcVpQSW0zWDRQaDlmQnZ1Uko?oc=5"
-          },
-          {
-            "title": "OECD Report: India Remains World’s Fastest-Growing Major Economy - News On AIR",
-            "source": "News On AIR",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTENpLWpfUFdmMW4tOGFBQWpxcDAweU5TOFFsaGtfTzRDYVJ3c1ZxVjIzaS1zVXJwWGd2VGhnai1Sa0djbXJTWXFyN0ZnS0d5X2doZEd3T2pMZ29teG1xVjRFR3FyVzBaUVZxeDRJRHpuZWdhSHlXNjhVZzBrUWNsN2hYZ2E0ZjJubE9lS0dKdnliUQ?oc=5"
-          },
-          {
-            "title": "Democracy makes India's economic reforms durable, says vice-president - Business Standard",
-            "source": "Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWXRqOUlHdzVFZ0U1WHJOOEJxVndMdEc3ZWlYVzVpdDZfUWtuN2tIRDRWV2M0dFFOek9qaXhvVTVVNTd2LXRLSS1qSENjUVN3RXU5X0EzTnByZUtFUGprZThBTmFpTENLLV9NX21EbGJaNG03dnVLSkw3SzRNUnhEdU1Vd2EwUTdScEdEbzNhdnp0Ry1QUWQzbDZMZ1FKYzFhRjJ4MWZubnRMQjhnU29hS3V4YW56eW5pNGFQeUVOUzVFb3o2VzM1S1RBQ1RoaGY2M2lUd3RScklMM3PSAeABQVVfeXFMUFF2ZjJRTVFVMjlsbktnaFg0dXhmdjhFNlNSaFZWMF9LRWVrd2dZV2c0YmVXZVpSNmlWcFRXNUh3NWpRLVVaTS16NU8ybjRXNGtMLWxCZWYzUkZlT09SWHNCOVQxQ1pYTTc4RFA2a3NQcjk3cFhuU1ZkSmhEU2tVYmg2RXEwNkpnNEV6dDVEbzJGQXNLaXFUWV9yWHNpbXlEV01tVFd5Mm81VkM5X1UwLTY4MVN2RWRCckV3TFdGZmpleVE4US1XdF9KeWg4cHhhZGlMWG9ycW11MWNlNGhidkY?oc=5"
-          },
-          {
-            "title": "Anchors, Not Approvals: Vietnamese Lessons for India’s Foreign Investment Problem - Countercurrents.org",
-            "source": "Countercurrents.org",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMW56R1lTbmd0OTFkVTVOdUpQdU1sTV9TY1BPb3hXcFA4Rm1Ia0paR2dRNmpSN2x6YkpyUXVxQ1JEQTZwaVdxbkdZUGIwRFVXMXI5LWNwWFAtd01TUE5yTUtMSl9IanhRUjlQbllhTU5INXZwX3E2RThzQ3V2dDczZWlib2pidFhYcThSMlJ5Q3d3aGFTeVBudlhsZ1ZDWjNkeEQ5UkxrOXlUUi1rNzdvcXAxVUpFZw?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       },
       "world": {
-        "summary": "Global economic news over the past 24 hours consisted of fragmented institutional updates, academic appointments, and localized reports rather than a single dominant trend. Moody's released data revisions, while various institutions reported on localized economic developments in China and the United States. Other updates included awards in economics education and policy discussions regarding energy restrictions and maternal health investments.",
-        "articles": [
-          {
-            "title": "Economic Development - Pima County, AZ (.gov)",
-            "source": "Pima County, AZ (.gov)",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNEtSMmJEZXUxaXhZdlhQME5QV1F4Q1drX0k2TXVXb3J2N1N5R1lFWTU2YmE5U2JGMGdwWVlKV2w3enoyQm9nNmNGT2JzcWNuNXRjMzBuMERpU0ZMMVNpbVluRVJEZEtJeWxpcHJoTFVIamlIUzF5c2Z0dTY2cTFYdWtxcGY3RTlJemc3MVZheU1uQUxXN0Q4Tw?oc=5"
-          },
-          {
-            "title": "Revisions, Revisions, Revisions - Moody's",
-            "source": "Moody's",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0JUS0hIbzVwbXc4WHBObTdId1VIWERsRGs2VGt6Q2hOamVsajVoOTRHTjA4SVAwOVFpbEtiVVJkQ3BQM3pwczQ3RGt0eFpxWS02Q2RKQUs4eTVjZEFxTHJzeEUxNTA3eFp5ai15MGEtNkY4TUNmTkNMQkhna2JRSWQ5V1laV3FzSHR1LXpwZ2xTOUNQc0Zwb0NGLWFWZ3Y2VEdIcA?oc=5"
-          },
-          {
-            "title": "Springdale elementary teacher wins national economics education honor - Northwest Arkansas Democrat-Gazette",
-            "source": "Northwest Arkansas Democrat-Gazette",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORUVfdVJjVlFleFdWNFh6MWVGbUJDZ290WTVMZlhySWNicGxiVlV4UHo3UmxQdkxSU1UwOXctN01idzhxOEU3M2pSLUJBLTF2emEtVEZOeVREa0JCUE5rNDk3X3p6aGVoai1xbDhUYnBJaTgxSllhZDZfZGU5ZnZPNXFPdWhzWFVRWWdBNHYwX2Y?oc=5"
-          },
-          {
-            "title": "Economics on the Ground in China - Northeastern University",
-            "source": "Northeastern University",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DS2diMHl4TWFyYXpOdjhOR2QyUlRzTG9hOTB5Vll0MlNDY3FpZUItNGZvdzMtWHdkZFFYeGZfSHh2bThYcXRGeE1sREs1NWRIT3Vvdl95RVBnWWVtYi12MWlQb2NVczFtcmVMVWJyMlNCcDJCX20ySEFaNlMtZw?oc=5"
-          },
-          {
-            "title": "A smart investment: The economics of saving mothers - Unitaid",
-            "source": "Unitaid",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQmZSRUJDUDUzTnNRMDAzSmNWS1JKSFhtSDgtVExVSHZ0TEhxRzEzQWJiMzhYQVphVnFIOGxkUHV5dm8yLU5ZY0QwMkdvVzlJdGpCTlpBUUpndkNDNjNrZ2Jfbm1qdjBHaHZJdEg5Tm9oLW1JeGc0MC0xYU5rY1hSMzFlNnJodHZ0?oc=5"
-          },
-          {
-            "title": "Matthew S. Lewis named interim chair of the John E. Walker Department of Economics - Clemson News",
-            "source": "Clemson News",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa1U4a2h0NE4xMk5LRjkweEdEdnE0aWJwOFJSMTdCaEdHcDNkd1M1UjM4amsxTnlGZnRlYXlYYm5RVEVXU19ONVIyby0tTk5RVFVoLUdsVzJ0ZkVxVG82OVRHQzdYZkd2YWNvdVdIcUU3d1ZuOXFsYkUtUGtLOXZqYkV0aURfcGY0YjFmN3h2TFRtSXViMHpfRlBGQV9BTTdPbkxSbEoxbTB6UQ?oc=5"
-          },
-          {
-            "title": "Low-Energy Fridays: There’s More to a Diesel Ban than Basic Economics - R Street Institute",
-            "source": "R Street Institute",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGgtZGtiOXFOTFNYT2lhVW1MSzEwRGNYZWV6X0NCeDFTSEpYQkxmOG1PUDVGaVJwWVVNd25XU09lNzN4eHRZT2E1S2pkeDBKUmhsRk9YcGJ2Y2JwczdfbnZSbEpIamdGNGl6QVhUSEJqTVZxQzRFMVB1M2xYSmRMTFNwV3NQUzBLUXk2aEU5RU5YamFDMTU1TksyOVF4NkVBV0pTU3hB?oc=5"
-          },
-          {
-            "title": "Opinion: Alaska’s economic future starts in our classrooms and the voting booth - Anchorage Daily News",
-            "source": "Anchorage Daily News",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVTE3YzdxUFkzTXRhWjV5NVBCSU9BbFRwV05HM3dlV0EtVVNhbGJqSUtjV2Q3LXI3ZlNYN1F1M1hjcXNmdWE4MjBoVk5pZUE4blYtQ2tzV1g1ejFtYWlBWnNEVjlNdFJjaDk3bVBFUGNVejc4LXFrUGxHZDZfVEkxZzZmYWJGM21Ra2U5WkhoUWVfX0tDUXpBX1c3WnRWVVZJTk8yQ3Q0c2ZUYVlSRXNnaTVDTUZFU2REYXc?oc=5"
-          }
-        ]
+        "summary": "No notable stories turned up for this topic and region in the last day.",
+        "articles": []
       }
     }
   }
